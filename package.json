@@ -7,6 +7,8 @@
     "dev": "astro dev",
     "build": "SITE_URL=${SITE_URL} astro build",
     "preview": "astro preview",
+  "preview:site": "SITE_URL=${SITE_URL:=https://example.com} astro preview --host 0.0.0.0 --port 4321",
+  "clean:all": "git reset --hard && git clean -fdx",
     "geo:doctor:strict": "node scripts/geo/doctor.mjs",
     "seo:report": "node scripts/seo/report.mjs",
     "guard:all": "node scripts/guards/all.mjs",
