@@ -1,0 +1,34 @@
+---
+import { buildFaq } from '~/lib/schema/builders';
+interface Props {
+  items: { q?: string; question?: string; a?: string; answer?: string }[];
+  heading?: string;
+  id?: string;
+  theme?: string | null;
+  includeJsonLd?: boolean;
+}
+const { items = [], heading = 'FAQs', id = 'faqs', theme = null, includeJsonLd = false } = Astro.props;
+const cleaned = items
+  .map(i => ({ q: i.q || i.question, a: i.a || i.answer }))
+  .filter(i => i.q && i.a);
+const isEco = theme === 'eco-minimal';
+const faqJson = includeJsonLd && cleaned.length ? buildFaq(cleaned.map(i => ({ q: i.q!, a: i.a! }))) : null;
+---
+<section id={id} class={isEco ? 'eco-faq' : 'faq-section'}>
+  {heading && <h2 class={isEco ? 'sr-only' : 'text-xl font-bold mb-3'}>{heading}</h2>}
+  {cleaned.length === 0 && <p class={isEco ? 'text-sm opacity-70' : 'text-sm text-slate-600'}>No questions yet.</p>}
+  {cleaned.map(item => (
+    isEco ? (
+      <details class="eco-faq-item">
+        <summary><span>{item.q}</span></summary>
+        <div class="faq-answer"><p>{item.a}</p></div>
+      </details>
+    ) : (
+      <details class="mb-2 border-b">
+        <summary class="py-2 font-semibold cursor-pointer">{item.q}</summary>
+        <p class="pb-2">{item.a}</p>
+      </details>
+    )
+  ))}
+</section>
+{faqJson && <script type="application/ld+json" set:html={JSON.stringify(faqJson)} />}

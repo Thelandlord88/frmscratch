@@ -1,0 +1,56 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  primaryAction?: {
+    text: string;
+    href: string;
+  };
+  secondaryAction?: {
+    text: string;
+    href: string;
+  };
+}
+
+const {
+  title = "ready for natural cleaning?",
+  description = "Experience the gentle power of eco-friendly cleaning. Professional results with peace of mind.",
+  primaryAction = {
+    text: "book eco-friendly clean",
+    href: "/quote"
+  },
+  secondaryAction = {
+    text: "ask about methods",
+    href: "/contact"
+  }
+} = Astro.props;
+---
+
+<section class="eco-cta">
+  <div class="eco-content">
+    <h2>{title}</h2>
+    <p>{description}</p>
+    
+    <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-top: 3rem;">
+      <a 
+        href={primaryAction.href}
+        class="eco-btn"
+      >
+        {primaryAction.text}
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M7 17l9.2-9.2M17 17V7H7"/>
+        </svg>
+      </a>
+      
+      <a 
+        href={secondaryAction.href}
+        class="eco-btn eco-btn-secondary"
+      >
+        {secondaryAction.text}
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 15c0 1.1-.9 2-2 2H7l-4 4V5c0-1.1.9-2 2-2h14c1.1 0 2 .9 2 2v10z"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>

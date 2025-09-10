@@ -1,0 +1,4948 @@
+{
+  "annerley": {
+    "adjacent_suburbs": [
+      "fairfield",
+      "greenslopes",
+      "moorooka",
+      "tarragindi",
+      "woolloongabba",
+      "yeerongpilly",
+      "yeronga"
+    ],
+    "nearest_nonsiblings": [
+      "dutton-park",
+      "stones-corner",
+      "highgate-hill"
+    ]
+  },
+  "albion": {
+    "adjacent_suburbs": [
+      "ascot",
+      "bowen-hills",
+      "clayfield",
+      "hamilton",
+      "lutwyche",
+      "newstead",
+      "windsor",
+      "wooloowin"
+    ],
+    "nearest_nonsiblings": [
+      "bulimba",
+      "gordon-park",
+      "wilston"
+    ]
+  },
+  "alderley": {
+    "adjacent_suburbs": [
+      "ashgrove",
+      "enoggera",
+      "grange",
+      "newmarket",
+      "stafford"
+    ],
+    "nearest_nonsiblings": [
+      "wilston",
+      "gaythorne",
+      "gordon-park"
+    ]
+  },
+  "acacia-ridge": {
+    "adjacent_suburbs": [
+      "algester",
+      "archerfield",
+      "coopers-plains",
+      "sunnybank",
+      "sunnybank-hills",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "durack",
+      "robertson",
+      "salisbury"
+    ]
+  },
+  "archerfield": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "coopers-plains",
+      "rocklea",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "salisbury",
+      "durack",
+      "oxley"
+    ]
+  },
+  "anstead": {
+    "adjacent_suburbs": [
+      "barellan-point",
+      "bellbowrie",
+      "karalee",
+      "kholo",
+      "moggill",
+      "mount-crosby",
+      "pinjarra-hills",
+      "pullenvale"
+    ],
+    "nearest_nonsiblings": [
+      "karana-downs",
+      "westlake",
+      "riverhills"
+    ]
+  },
+  "algester": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "calamvale",
+      "pallara",
+      "parkinson",
+      "sunnybank-hills",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "stretton",
+      "larapinta",
+      "drewvale"
+    ]
+  },
+  "bald-hills": {
+    "adjacent_suburbs": [
+      "bracken-ridge",
+      "bridgeman-downs",
+      "brighton",
+      "carseldine",
+      "fitzgibbon"
+    ],
+    "nearest_nonsiblings": [
+      "deagon",
+      "sandgate",
+      "taigum"
+    ]
+  },
+  "ascot": {
+    "adjacent_suburbs": [
+      "albion",
+      "clayfield",
+      "eagle-farm",
+      "hamilton",
+      "hendra"
+    ],
+    "nearest_nonsiblings": [
+      "bulimba",
+      "wooloowin",
+      "kalinga"
+    ]
+  },
+  "ashgrove": {
+    "adjacent_suburbs": [
+      "alderley",
+      "bardon",
+      "enoggera",
+      "newmarket",
+      "red-hill",
+      "the-gap"
+    ],
+    "nearest_nonsiblings": [
+      "paddington",
+      "kelvin-grove",
+      "gaythorne"
+    ]
+  },
+  "aspley": {
+    "adjacent_suburbs": [
+      "bridgeman-downs",
+      "carseldine",
+      "chermside",
+      "chermside-west",
+      "geebung",
+      "mcdowall",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "fitzgibbon",
+      "stafford-heights",
+      "taigum"
+    ]
+  },
+  "auchenflower": {
+    "adjacent_suburbs": [
+      "bardon",
+      "milton",
+      "paddington",
+      "toowong",
+      "west-end"
+    ],
+    "nearest_nonsiblings": [
+      "petrie-terrace",
+      "south-brisbane",
+      "red-hill"
+    ]
+  },
+  "balmoral": {
+    "adjacent_suburbs": [
+      "bulimba",
+      "hawthorne",
+      "morningside"
+    ],
+    "nearest_nonsiblings": [
+      "hamilton",
+      "teneriffe",
+      "newstead"
+    ]
+  },
+  "banks-creek": {
+    "adjacent_suburbs": [
+      "england-creek",
+      "lake-manchester"
+    ],
+    "nearest_nonsiblings": [
+      "enoggera-reservoir",
+      "upper-brookfield",
+      "kholo"
+    ]
+  },
+  "banyo": {
+    "adjacent_suburbs": [
+      "boondall",
+      "brisbane-airport",
+      "northgate",
+      "nudgee",
+      "virginia"
+    ],
+    "nearest_nonsiblings": [
+      "nundah",
+      "geebung",
+      "nudgee-beach"
+    ]
+  },
+  "bardon": {
+    "adjacent_suburbs": [
+      "ashgrove",
+      "auchenflower",
+      "mount-coot-tha",
+      "paddington",
+      "red-hill",
+      "the-gap",
+      "toowong"
+    ],
+    "nearest_nonsiblings": [
+      "milton",
+      "petrie-terrace",
+      "enoggera"
+    ]
+  },
+  "bellbowrie": {
+    "adjacent_suburbs": [
+      "anstead",
+      "moggill",
+      "pinjarra-hills",
+      "riverhills",
+      "westlake"
+    ],
+    "nearest_nonsiblings": [
+      "middle-park",
+      "pullenvale",
+      "wacol"
+    ]
+  },
+  "belmont": {
+    "adjacent_suburbs": [
+      "burbank",
+      "carindale",
+      "chandler",
+      "gumdale",
+      "mackenzie",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "wakerley",
+      "mansfield",
+      "carina"
+    ]
+  },
+  "boondall": {
+    "adjacent_suburbs": [
+      "banyo",
+      "deagon",
+      "geebung",
+      "nudgee",
+      "nudgee-beach",
+      "sandgate",
+      "shorncliffe",
+      "virginia",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "taigum",
+      "fitzgibbon"
+    ]
+  },
+  "bridgeman-downs": {
+    "adjacent_suburbs": [
+      "aspley",
+      "bald-hills",
+      "carseldine",
+      "mcdowall"
+    ],
+    "nearest_nonsiblings": [
+      "fitzgibbon",
+      "chermside-west",
+      "zillmere"
+    ]
+  },
+  "bowen-hills": {
+    "adjacent_suburbs": [
+      "albion",
+      "fortitude-valley",
+      "herston",
+      "newstead",
+      "spring-hill",
+      "windsor"
+    ],
+    "nearest_nonsiblings": [
+      "teneriffe",
+      "wilston",
+      "bulimba"
+    ]
+  },
+  "bracken-ridge": {
+    "adjacent_suburbs": [
+      "bald-hills",
+      "brighton",
+      "deagon",
+      "fitzgibbon",
+      "sandgate"
+    ],
+    "nearest_nonsiblings": [
+      "taigum",
+      "carseldine",
+      "zillmere"
+    ]
+  },
+  "brighton": {
+    "adjacent_suburbs": [
+      "bald-hills",
+      "bracken-ridge",
+      "sandgate"
+    ],
+    "nearest_nonsiblings": [
+      "deagon",
+      "shorncliffe",
+      "taigum"
+    ]
+  },
+  "brisbane-airport": {
+    "adjacent_suburbs": [
+      "banyo",
+      "eagle-farm",
+      "hendra",
+      "northgate",
+      "nudgee",
+      "nudgee-beach",
+      "nundah",
+      "pinkenba"
+    ],
+    "nearest_nonsiblings": [
+      "virginia",
+      "lytton",
+      "boondall"
+    ]
+  },
+  "brisbane-city": {
+    "adjacent_suburbs": [
+      "fortitude-valley",
+      "kangaroo-point",
+      "milton",
+      "petrie-terrace",
+      "south-brisbane",
+      "spring-hill"
+    ],
+    "nearest_nonsiblings": [
+      "new-farm",
+      "highgate-hill",
+      "herston"
+    ]
+  },
+  "bulimba": {
+    "adjacent_suburbs": [
+      "balmoral",
+      "hamilton",
+      "hawthorne",
+      "morningside",
+      "newstead",
+      "teneriffe"
+    ],
+    "nearest_nonsiblings": [
+      "ascot",
+      "bowen-hills",
+      "albion"
+    ]
+  },
+  "bulwer": {
+    "adjacent_suburbs": [
+      "moreton-island"
+    ],
+    "nearest_nonsiblings": [
+      "cowan-cowan",
+      "kooringal",
+      "moreton-bay"
+    ]
+  },
+  "brookfield": {
+    "adjacent_suburbs": [
+      "enoggera-reservoir",
+      "kenmore",
+      "kenmore-hills",
+      "mount-coot-tha",
+      "pinjarra-hills",
+      "pullenvale",
+      "the-gap",
+      "upper-brookfield"
+    ],
+    "nearest_nonsiblings": [
+      "chapel-hill",
+      "jindalee",
+      "westlake"
+    ]
+  },
+  "burbank": {
+    "adjacent_suburbs": [
+      "belmont",
+      "chandler",
+      "mackenzie",
+      "priestdale",
+      "rochedale"
+    ],
+    "nearest_nonsiblings": [
+      "wishart",
+      "mansfield",
+      "eight-mile-plains"
+    ]
+  },
+  "camp-hill": {
+    "adjacent_suburbs": [
+      "carina",
+      "carina-heights",
+      "coorparoo",
+      "holland-park",
+      "norman-park",
+      "seven-hills"
+    ],
+    "nearest_nonsiblings": [
+      "stones-corner",
+      "cannon-hill",
+      "greenslopes"
+    ]
+  },
+  "cannon-hill": {
+    "adjacent_suburbs": [
+      "carina",
+      "morningside",
+      "murarrie",
+      "seven-hills",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "camp-hill",
+      "balmoral",
+      "norman-park"
+    ]
+  },
+  "calamvale": {
+    "adjacent_suburbs": [
+      "algester",
+      "drewvale",
+      "parkinson",
+      "stretton",
+      "sunnybank-hills"
+    ],
+    "nearest_nonsiblings": [
+      "karawatha",
+      "runcorn",
+      "pallara"
+    ]
+  },
+  "clayfield": {
+    "adjacent_suburbs": [
+      "albion",
+      "ascot",
+      "hendra",
+      "kalinga",
+      "nundah",
+      "wooloowin"
+    ],
+    "nearest_nonsiblings": [
+      "lutwyche",
+      "hamilton",
+      "gordon-park"
+    ]
+  },
+  "carina-heights": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "carina",
+      "carindale",
+      "holland-park",
+      "mount-gravatt-east"
+    ],
+    "nearest_nonsiblings": [
+      "coorparoo",
+      "seven-hills",
+      "mansfield"
+    ]
+  },
+  "carina": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "cannon-hill",
+      "carina-heights",
+      "carindale",
+      "seven-hills",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "morningside",
+      "norman-park",
+      "coorparoo"
+    ]
+  },
+  "carindale": {
+    "adjacent_suburbs": [
+      "belmont",
+      "carina",
+      "carina-heights",
+      "mackenzie",
+      "mansfield",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "mount-gravatt-east",
+      "camp-hill",
+      "holland-park"
+    ]
+  },
+  "chandler": {
+    "adjacent_suburbs": [
+      "belmont",
+      "burbank",
+      "gumdale",
+      "ransome"
+    ],
+    "nearest_nonsiblings": [
+      "wakerley",
+      "mackenzie",
+      "manly-west"
+    ]
+  },
+  "chapel-hill": {
+    "adjacent_suburbs": [
+      "fig-tree-pocket",
+      "indooroopilly",
+      "kenmore",
+      "kenmore-hills",
+      "mount-coot-tha"
+    ],
+    "nearest_nonsiblings": [
+      "chelmer",
+      "taringa",
+      "toowong"
+    ]
+  },
+  "carseldine": {
+    "adjacent_suburbs": [
+      "aspley",
+      "bald-hills",
+      "bridgeman-downs",
+      "fitzgibbon",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "taigum",
+      "bracken-ridge",
+      "chermside-west"
+    ]
+  },
+  "chuwar": {
+    "adjacent_suburbs": [
+      "chuwar",
+      "karalee",
+      "karana-downs",
+      "kholo",
+      "mount-crosby",
+      "muirlea",
+      "north-ipswich",
+      "north-tivoli",
+      "tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "moores-pocket",
+      "north-booval",
+      "basin-pocket"
+    ]
+  },
+  "chelmer": {
+    "adjacent_suburbs": [
+      "fig-tree-pocket",
+      "graceville",
+      "indooroopilly"
+    ],
+    "nearest_nonsiblings": [
+      "sherwood",
+      "taringa",
+      "tennyson"
+    ]
+  },
+  "chermside-west": {
+    "adjacent_suburbs": [
+      "aspley",
+      "chermside",
+      "kedron",
+      "mcdowall",
+      "stafford-heights"
+    ],
+    "nearest_nonsiblings": [
+      "stafford",
+      "everton-park",
+      "wavell-heights"
+    ]
+  },
+  "chermside": {
+    "adjacent_suburbs": [
+      "aspley",
+      "chermside-west",
+      "geebung",
+      "kedron",
+      "wavell-heights"
+    ],
+    "nearest_nonsiblings": [
+      "stafford-heights",
+      "zillmere",
+      "kalinga"
+    ]
+  },
+  "coorparoo": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "east-brisbane",
+      "greenslopes",
+      "holland-park",
+      "norman-park",
+      "stones-corner",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "seven-hills",
+      "carina-heights",
+      "holland-park-west"
+    ]
+  },
+  "coopers-plains": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "archerfield",
+      "nathan",
+      "robertson",
+      "rocklea",
+      "salisbury",
+      "sunnybank"
+    ],
+    "nearest_nonsiblings": [
+      "macgregor",
+      "sunnybank-hills",
+      "moorooka"
+    ]
+  },
+  "heathwood": {
+    "adjacent_suburbs": [
+      "forest-lake",
+      "forestdale",
+      "greenbank",
+      "larapinta",
+      "pallara"
+    ],
+    "nearest_nonsiblings": [
+      "doolandella",
+      "parkinson",
+      "willawong"
+    ]
+  },
+  "hemmant": {
+    "adjacent_suburbs": [
+      "lytton",
+      "murarrie",
+      "pinkenba",
+      "tingalpa",
+      "wynnum-west"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum",
+      "manly-west",
+      "eagle-farm"
+    ]
+  },
+  "hawthorne": {
+    "adjacent_suburbs": [
+      "balmoral",
+      "bulimba",
+      "morningside",
+      "new-farm",
+      "norman-park",
+      "teneriffe"
+    ],
+    "nearest_nonsiblings": [
+      "newstead",
+      "fortitude-valley",
+      "east-brisbane"
+    ]
+  },
+  "eight-mile-plains": {
+    "adjacent_suburbs": [
+      "kuraby",
+      "macgregor",
+      "rochedale",
+      "runcorn",
+      "sunnybank",
+      "underwood",
+      "upper-mount-gravatt",
+      "wishart"
+    ],
+    "nearest_nonsiblings": [
+      "robertson",
+      "sunnybank-hills"
+    ]
+  },
+  "ferny-grove": {
+    "adjacent_suburbs": [
+      "keperra",
+      "upper-kedron"
+    ],
+    "nearest_nonsiblings": [
+      "mitchelton",
+      "the-gap",
+      "enoggera"
+    ]
+  },
+  "mount-gravatt-east": {
+    "adjacent_suburbs": [
+      "carina-heights",
+      "holland-park",
+      "mansfield",
+      "mount-gravatt",
+      "upper-mount-gravatt"
+    ],
+    "nearest_nonsiblings": [
+      "holland-park-west",
+      "wishart",
+      "carindale"
+    ]
+  },
+  "mount-gravatt": {
+    "adjacent_suburbs": [
+      "holland-park",
+      "holland-park-west",
+      "mount-gravatt-east",
+      "nathan",
+      "upper-mount-gravatt"
+    ],
+    "nearest_nonsiblings": [
+      "macgregor",
+      "tarragindi",
+      "robertson"
+    ]
+  },
+  "england-creek": {
+    "adjacent_suburbs": [
+      "banks-creek"
+    ],
+    "nearest_nonsiblings": [
+      "lake-manchester",
+      "enoggera-reservoir",
+      "upper-brookfield"
+    ]
+  },
+  "enoggera-reservoir": {
+    "adjacent_suburbs": [
+      "brookfield",
+      "lake-manchester",
+      "the-gap",
+      "upper-brookfield",
+      "upper-kedron"
+    ],
+    "nearest_nonsiblings": [
+      "ferny-grove",
+      "keperra",
+      "kenmore-hills"
+    ]
+  },
+  "enoggera": {
+    "adjacent_suburbs": [
+      "alderley",
+      "ashgrove",
+      "everton-park",
+      "gaythorne",
+      "keperra",
+      "mitchelton",
+      "stafford",
+      "the-gap"
+    ],
+    "nearest_nonsiblings": [
+      "newmarket",
+      "bardon",
+      "red-hill"
+    ]
+  },
+  "cowan-cowan": {
+    "adjacent_suburbs": [
+      "moreton-island"
+    ],
+    "nearest_nonsiblings": [
+      "bulwer",
+      "kooringal",
+      "moreton-bay"
+    ]
+  },
+  "milton": {
+    "adjacent_suburbs": [
+      "auchenflower",
+      "brisbane-city",
+      "paddington",
+      "petrie-terrace",
+      "south-brisbane",
+      "west-end"
+    ],
+    "nearest_nonsiblings": [
+      "red-hill",
+      "spring-hill",
+      "kelvin-grove"
+    ]
+  },
+  "newstead": {
+    "adjacent_suburbs": [
+      "albion",
+      "bowen-hills",
+      "bulimba",
+      "fortitude-valley",
+      "hamilton",
+      "teneriffe"
+    ],
+    "nearest_nonsiblings": [
+      "windsor",
+      "new-farm",
+      "hawthorne"
+    ]
+  },
+  "corinda": {
+    "adjacent_suburbs": [
+      "fig-tree-pocket",
+      "oxley",
+      "rocklea",
+      "sherwood"
+    ],
+    "nearest_nonsiblings": [
+      "graceville",
+      "seventeen-mile-rocks",
+      "tennyson"
+    ]
+  },
+  "durack": {
+    "adjacent_suburbs": [
+      "doolandella",
+      "inala",
+      "oxley",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "richlands",
+      "archerfield",
+      "acacia-ridge"
+    ]
+  },
+  "dutton-park": {
+    "adjacent_suburbs": [
+      "fairfield",
+      "highgate-hill",
+      "south-brisbane",
+      "st-lucia",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "annerley",
+      "stones-corner",
+      "yeronga"
+    ]
+  },
+  "mitchelton": {
+    "adjacent_suburbs": [
+      "enoggera",
+      "everton-park",
+      "gaythorne",
+      "keperra"
+    ],
+    "nearest_nonsiblings": [
+      "alderley",
+      "ashgrove",
+      "stafford"
+    ]
+  },
+  "moggill": {
+    "adjacent_suburbs": [
+      "anstead",
+      "barellan-point",
+      "bellbowrie",
+      "goodna",
+      "redbank",
+      "riverhills",
+      "riverview",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "westlake"
+    ]
+  },
+  "new-farm": {
+    "adjacent_suburbs": [
+      "east-brisbane",
+      "fortitude-valley",
+      "hawthorne",
+      "kangaroo-point",
+      "norman-park",
+      "teneriffe"
+    ],
+    "nearest_nonsiblings": [
+      "brisbane-city",
+      "newstead",
+      "spring-hill"
+    ]
+  },
+  "eagle-farm": {
+    "adjacent_suburbs": [
+      "ascot",
+      "brisbane-airport",
+      "hamilton",
+      "hendra",
+      "murarrie",
+      "pinkenba"
+    ],
+    "nearest_nonsiblings": [
+      "balmoral",
+      "morningside",
+      "bulimba"
+    ]
+  },
+  "east-brisbane": {
+    "adjacent_suburbs": [
+      "coorparoo",
+      "kangaroo-point",
+      "new-farm",
+      "norman-park",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "stones-corner",
+      "dutton-park",
+      "hawthorne"
+    ]
+  },
+  "newmarket": {
+    "adjacent_suburbs": [
+      "alderley",
+      "ashgrove",
+      "grange",
+      "kelvin-grove",
+      "red-hill",
+      "wilston"
+    ],
+    "nearest_nonsiblings": [
+      "herston",
+      "windsor",
+      "gordon-park"
+    ]
+  },
+  "norman-park": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "coorparoo",
+      "east-brisbane",
+      "hawthorne",
+      "morningside",
+      "new-farm",
+      "seven-hills"
+    ],
+    "nearest_nonsiblings": [
+      "kangaroo-point",
+      "balmoral",
+      "stones-corner"
+    ]
+  },
+  "everton-park": {
+    "adjacent_suburbs": [
+      "enoggera",
+      "gaythorne",
+      "mcdowall",
+      "mitchelton",
+      "stafford",
+      "stafford-heights"
+    ],
+    "nearest_nonsiblings": [
+      "alderley",
+      "chermside-west",
+      "grange"
+    ]
+  },
+  "darra": {
+    "adjacent_suburbs": [
+      "oxley",
+      "richlands",
+      "seventeen-mile-rocks",
+      "sinnamon-park",
+      "sumner",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "jamboree-heights",
+      "mount-ommaney",
+      "middle-park"
+    ]
+  },
+  "deagon": {
+    "adjacent_suburbs": [
+      "boondall",
+      "bracken-ridge",
+      "fitzgibbon",
+      "sandgate",
+      "taigum"
+    ],
+    "nearest_nonsiblings": [
+      "shorncliffe",
+      "brighton",
+      "zillmere"
+    ]
+  },
+  "fig-tree-pocket": {
+    "adjacent_suburbs": [
+      "chapel-hill",
+      "chelmer",
+      "corinda",
+      "graceville",
+      "indooroopilly",
+      "jindalee",
+      "kenmore",
+      "oxley",
+      "seventeen-mile-rocks",
+      "sherwood",
+      "sinnamon-park"
+    ],
+    "nearest_nonsiblings": [
+      "mount-ommaney"
+    ]
+  },
+  "mount-coot-tha": {
+    "adjacent_suburbs": [
+      "bardon",
+      "brookfield",
+      "chapel-hill",
+      "indooroopilly",
+      "kenmore-hills",
+      "taringa",
+      "the-gap",
+      "toowong"
+    ],
+    "nearest_nonsiblings": [
+      "auchenflower",
+      "kenmore",
+      "ashgrove"
+    ]
+  },
+  "drewvale": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "browns-plains",
+      "calamvale",
+      "karawatha",
+      "parkinson",
+      "stretton"
+    ],
+    "nearest_nonsiblings": [
+      "algester",
+      "larapinta"
+    ]
+  },
+  "forest-lake": {
+    "adjacent_suburbs": [
+      "carole-park",
+      "doolandella",
+      "ellen-grove",
+      "greenbank",
+      "heathwood",
+      "inala",
+      "pallara",
+      "richlands",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "durack",
+      "larapinta"
+    ]
+  },
+  "mount-crosby": {
+    "adjacent_suburbs": [
+      "anstead",
+      "chuwar",
+      "karalee",
+      "karana-downs",
+      "kholo"
+    ],
+    "nearest_nonsiblings": [
+      "pullenvale",
+      "upper-brookfield"
+    ]
+  },
+  "fitzgibbon": {
+    "adjacent_suburbs": [
+      "bald-hills",
+      "bracken-ridge",
+      "carseldine",
+      "deagon",
+      "taigum",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "aspley",
+      "boondall",
+      "bridgeman-downs"
+    ]
+  },
+  "ellen-grove": {
+    "adjacent_suburbs": [
+      "carole-park",
+      "forest-lake",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "richlands",
+      "inala",
+      "doolandella"
+    ]
+  },
+  "holland-park-west": {
+    "adjacent_suburbs": [
+      "greenslopes",
+      "holland-park",
+      "mount-gravatt",
+      "tarragindi"
+    ],
+    "nearest_nonsiblings": [
+      "nathan",
+      "mount-gravatt-east",
+      "coorparoo"
+    ]
+  },
+  "holland-park": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "carina-heights",
+      "coorparoo",
+      "greenslopes",
+      "holland-park-west",
+      "mount-gravatt",
+      "mount-gravatt-east"
+    ],
+    "nearest_nonsiblings": [
+      "tarragindi",
+      "stones-corner",
+      "nathan"
+    ]
+  },
+  "fortitude-valley": {
+    "adjacent_suburbs": [
+      "bowen-hills",
+      "brisbane-city",
+      "kangaroo-point",
+      "new-farm",
+      "newstead",
+      "spring-hill",
+      "teneriffe"
+    ],
+    "nearest_nonsiblings": [
+      "herston",
+      "petrie-terrace",
+      "hawthorne"
+    ]
+  },
+  "hamilton": {
+    "adjacent_suburbs": [
+      "albion",
+      "ascot",
+      "bulimba",
+      "eagle-farm",
+      "morningside",
+      "newstead"
+    ],
+    "nearest_nonsiblings": [
+      "balmoral",
+      "hendra",
+      "clayfield"
+    ]
+  },
+  "gaythorne": {
+    "adjacent_suburbs": [
+      "enoggera",
+      "everton-park",
+      "mitchelton"
+    ],
+    "nearest_nonsiblings": [
+      "alderley",
+      "stafford",
+      "ashgrove"
+    ]
+  },
+  "geebung": {
+    "adjacent_suburbs": [
+      "aspley",
+      "boondall",
+      "chermside",
+      "virginia",
+      "wavell-heights",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "taigum",
+      "northgate",
+      "banyo"
+    ]
+  },
+  "doolandella": {
+    "adjacent_suburbs": [
+      "durack",
+      "forest-lake",
+      "inala",
+      "pallara",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "heathwood",
+      "larapinta",
+      "ellen-grove"
+    ]
+  },
+  "gordon-park": {
+    "adjacent_suburbs": [
+      "grange",
+      "kedron",
+      "lutwyche",
+      "stafford"
+    ],
+    "nearest_nonsiblings": [
+      "wooloowin",
+      "windsor",
+      "kalinga"
+    ]
+  },
+  "highgate-hill": {
+    "adjacent_suburbs": [
+      "dutton-park",
+      "south-brisbane",
+      "st-lucia",
+      "west-end"
+    ],
+    "nearest_nonsiblings": [
+      "woolloongabba",
+      "brisbane-city",
+      "fairfield"
+    ]
+  },
+  "fairfield": {
+    "adjacent_suburbs": [
+      "annerley",
+      "dutton-park",
+      "st-lucia",
+      "woolloongabba",
+      "yeronga"
+    ],
+    "nearest_nonsiblings": [
+      "highgate-hill",
+      "stones-corner",
+      "greenslopes"
+    ]
+  },
+  "graceville": {
+    "adjacent_suburbs": [
+      "chelmer",
+      "fig-tree-pocket",
+      "indooroopilly",
+      "sherwood",
+      "tennyson"
+    ],
+    "nearest_nonsiblings": [
+      "corinda",
+      "yeerongpilly",
+      "yeronga"
+    ]
+  },
+  "hendra": {
+    "adjacent_suburbs": [
+      "ascot",
+      "brisbane-airport",
+      "clayfield",
+      "eagle-farm",
+      "nundah"
+    ],
+    "nearest_nonsiblings": [
+      "hamilton",
+      "kalinga",
+      "wooloowin"
+    ]
+  },
+  "herston": {
+    "adjacent_suburbs": [
+      "bowen-hills",
+      "kelvin-grove",
+      "spring-hill",
+      "wilston",
+      "windsor"
+    ],
+    "nearest_nonsiblings": [
+      "fortitude-valley",
+      "petrie-terrace",
+      "red-hill"
+    ]
+  },
+  "inala": {
+    "adjacent_suburbs": [
+      "doolandella",
+      "durack",
+      "forest-lake",
+      "oxley",
+      "richlands"
+    ],
+    "nearest_nonsiblings": [
+      "darra",
+      "willawong",
+      "ellen-grove"
+    ]
+  },
+  "indooroopilly": {
+    "adjacent_suburbs": [
+      "chapel-hill",
+      "chelmer",
+      "fig-tree-pocket",
+      "graceville",
+      "mount-coot-tha",
+      "st-lucia",
+      "taringa",
+      "tennyson",
+      "yeerongpilly",
+      "yeronga"
+    ],
+    "nearest_nonsiblings": [
+      "sherwood",
+      "toowong",
+      "west-end"
+    ]
+  },
+  "grange": {
+    "adjacent_suburbs": [
+      "alderley",
+      "gordon-park",
+      "lutwyche",
+      "newmarket",
+      "stafford",
+      "wilston",
+      "windsor"
+    ],
+    "nearest_nonsiblings": [
+      "kedron",
+      "wooloowin",
+      "stafford-heights"
+    ]
+  },
+  "greenslopes": {
+    "adjacent_suburbs": [
+      "annerley",
+      "coorparoo",
+      "holland-park",
+      "holland-park-west",
+      "stones-corner",
+      "tarragindi",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "fairfield",
+      "dutton-park",
+      "east-brisbane"
+    ]
+  },
+  "gumdale": {
+    "adjacent_suburbs": [
+      "belmont",
+      "chandler",
+      "ransome",
+      "tingalpa",
+      "wakerley"
+    ],
+    "nearest_nonsiblings": [
+      "manly-west",
+      "lota",
+      "carindale"
+    ]
+  },
+  "jindalee": {
+    "adjacent_suburbs": [
+      "fig-tree-pocket",
+      "kenmore",
+      "mount-ommaney",
+      "pinjarra-hills",
+      "sinnamon-park"
+    ],
+    "nearest_nonsiblings": [
+      "seventeen-mile-rocks",
+      "jamboree-heights",
+      "middle-park"
+    ]
+  },
+  "jamboree-heights": {
+    "adjacent_suburbs": [
+      "middle-park",
+      "mount-ommaney",
+      "sinnamon-park",
+      "sumner"
+    ],
+    "nearest_nonsiblings": [
+      "darra",
+      "westlake",
+      "seventeen-mile-rocks"
+    ]
+  },
+  "kholo": {
+    "adjacent_suburbs": [
+      "anstead",
+      "chuwar",
+      "lake-manchester",
+      "mount-crosby",
+      "muirlea",
+      "pine-mountain",
+      "pullenvale",
+      "upper-brookfield"
+    ],
+    "nearest_nonsiblings": [
+      "karana-downs"
+    ]
+  },
+  "macgregor": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "nathan",
+      "robertson",
+      "sunnybank",
+      "upper-mount-gravatt"
+    ],
+    "nearest_nonsiblings": [
+      "mount-gravatt",
+      "wishart",
+      "coopers-plains"
+    ]
+  },
+  "upper-kedron": {
+    "adjacent_suburbs": [
+      "enoggera-reservoir",
+      "ferny-grove",
+      "keperra",
+      "the-gap"
+    ],
+    "nearest_nonsiblings": [
+      "mitchelton",
+      "enoggera",
+      "gaythorne"
+    ]
+  },
+  "mackenzie": {
+    "adjacent_suburbs": [
+      "belmont",
+      "burbank",
+      "carindale",
+      "mansfield",
+      "rochedale"
+    ],
+    "nearest_nonsiblings": [
+      "wishart",
+      "mount-gravatt-east",
+      "chandler"
+    ]
+  },
+  "sunnybank-hills": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "algester",
+      "calamvale",
+      "runcorn",
+      "sunnybank"
+    ],
+    "nearest_nonsiblings": [
+      "stretton",
+      "robertson",
+      "coopers-plains"
+    ]
+  },
+  "sunnybank": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "coopers-plains",
+      "eight-mile-plains",
+      "macgregor",
+      "robertson",
+      "runcorn",
+      "sunnybank-hills"
+    ],
+    "nearest_nonsiblings": [
+      "nathan",
+      "upper-mount-gravatt",
+      "salisbury"
+    ]
+  },
+  "south-brisbane": {
+    "adjacent_suburbs": [
+      "brisbane-city",
+      "dutton-park",
+      "highgate-hill",
+      "kangaroo-point",
+      "milton",
+      "west-end",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "petrie-terrace",
+      "spring-hill",
+      "auchenflower"
+    ]
+  },
+  "tingalpa": {
+    "adjacent_suburbs": [
+      "belmont",
+      "cannon-hill",
+      "carina",
+      "carindale",
+      "gumdale",
+      "hemmant",
+      "manly-west",
+      "murarrie",
+      "wakerley",
+      "wynnum-west"
+    ],
+    "nearest_nonsiblings": [
+      "seven-hills"
+    ]
+  },
+  "upper-brookfield": {
+    "adjacent_suburbs": [
+      "brookfield",
+      "enoggera-reservoir",
+      "kholo",
+      "lake-manchester",
+      "pullenvale"
+    ],
+    "nearest_nonsiblings": [
+      "anstead",
+      "mount-crosby",
+      "kenmore-hills"
+    ]
+  },
+  "stretton": {
+    "adjacent_suburbs": [
+      "calamvale",
+      "drewvale",
+      "karawatha",
+      "kuraby",
+      "runcorn"
+    ],
+    "nearest_nonsiblings": [
+      "sunnybank-hills",
+      "algester",
+      "parkinson"
+    ]
+  },
+  "lytton": {
+    "adjacent_suburbs": [
+      "hemmant",
+      "pinkenba",
+      "port-of-brisbane",
+      "wynnum",
+      "wynnum-west"
+    ],
+    "nearest_nonsiblings": [
+      "manly",
+      "manly-west",
+      "brisbane-airport"
+    ]
+  },
+  "taigum": {
+    "adjacent_suburbs": [
+      "deagon",
+      "fitzgibbon",
+      "zillmere"
+    ],
+    "nearest_nonsiblings": [
+      "boondall",
+      "bracken-ridge",
+      "carseldine"
+    ]
+  },
+  "kalinga": {
+    "adjacent_suburbs": [
+      "clayfield",
+      "kedron",
+      "nundah",
+      "wavell-heights",
+      "wooloowin"
+    ],
+    "nearest_nonsiblings": [
+      "lutwyche",
+      "gordon-park",
+      "hendra"
+    ]
+  },
+  "kooringal": {
+    "adjacent_suburbs": [
+      "moreton-island"
+    ],
+    "nearest_nonsiblings": [
+      "moreton-bay",
+      "port-of-brisbane",
+      "cowan-cowan"
+    ]
+  },
+  "stones-corner": {
+    "adjacent_suburbs": [
+      "coorparoo",
+      "greenslopes",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "east-brisbane",
+      "annerley",
+      "dutton-park"
+    ]
+  },
+  "mcdowall": {
+    "adjacent_suburbs": [
+      "aspley",
+      "bridgeman-downs",
+      "chermside-west",
+      "everton-park",
+      "stafford-heights"
+    ],
+    "nearest_nonsiblings": [
+      "stafford",
+      "chermside",
+      "mitchelton"
+    ]
+  },
+  "keperra": {
+    "adjacent_suburbs": [
+      "enoggera",
+      "ferny-grove",
+      "mitchelton",
+      "the-gap",
+      "upper-kedron"
+    ],
+    "nearest_nonsiblings": [
+      "gaythorne",
+      "everton-park",
+      "ashgrove"
+    ]
+  },
+  "sumner": {
+    "adjacent_suburbs": [
+      "darra",
+      "jamboree-heights",
+      "middle-park",
+      "riverhills",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "mount-ommaney",
+      "westlake",
+      "sinnamon-park"
+    ]
+  },
+  "larapinta": {
+    "adjacent_suburbs": [
+      "forestdale",
+      "heathwood",
+      "pallara",
+      "parkinson"
+    ],
+    "nearest_nonsiblings": [
+      "algester",
+      "doolandella",
+      "calamvale"
+    ]
+  },
+  "mount-ommaney": {
+    "adjacent_suburbs": [
+      "jamboree-heights",
+      "jindalee",
+      "middle-park",
+      "pinjarra-hills",
+      "sinnamon-park",
+      "westlake"
+    ],
+    "nearest_nonsiblings": [
+      "sumner",
+      "seventeen-mile-rocks",
+      "riverhills"
+    ]
+  },
+  "moreton-island": {
+    "adjacent_suburbs": [
+      "bulwer",
+      "cowan-cowan",
+      "kooringal"
+    ],
+    "nearest_nonsiblings": [
+      "moreton-bay",
+      "port-of-brisbane",
+      "shorncliffe"
+    ]
+  },
+  "morningside": {
+    "adjacent_suburbs": [
+      "balmoral",
+      "bulimba",
+      "cannon-hill",
+      "hamilton",
+      "hawthorne",
+      "murarrie",
+      "norman-park",
+      "seven-hills"
+    ],
+    "nearest_nonsiblings": [
+      "teneriffe",
+      "new-farm",
+      "eagle-farm"
+    ]
+  },
+  "lake-manchester": {
+    "adjacent_suburbs": [
+      "banks-creek",
+      "enoggera-reservoir",
+      "kholo",
+      "upper-brookfield"
+    ],
+    "nearest_nonsiblings": [
+      "mount-crosby",
+      "chuwar",
+      "karana-downs"
+    ]
+  },
+  "nathan": {
+    "adjacent_suburbs": [
+      "coopers-plains",
+      "macgregor",
+      "mount-gravatt",
+      "robertson",
+      "salisbury",
+      "tarragindi",
+      "upper-mount-gravatt"
+    ],
+    "nearest_nonsiblings": [
+      "holland-park-west",
+      "moorooka",
+      "sunnybank"
+    ]
+  },
+  "kangaroo-point": {
+    "adjacent_suburbs": [
+      "brisbane-city",
+      "east-brisbane",
+      "fortitude-valley",
+      "new-farm",
+      "south-brisbane",
+      "woolloongabba"
+    ],
+    "nearest_nonsiblings": [
+      "spring-hill",
+      "highgate-hill",
+      "dutton-park"
+    ]
+  },
+  "karana-downs": {
+    "adjacent_suburbs": [
+      "chuwar",
+      "karalee",
+      "mount-crosby"
+    ],
+    "nearest_nonsiblings": [
+      "anstead",
+      "kholo"
+    ]
+  },
+  "kenmore-hills": {
+    "adjacent_suburbs": [
+      "brookfield",
+      "chapel-hill",
+      "kenmore",
+      "mount-coot-tha"
+    ],
+    "nearest_nonsiblings": [
+      "jindalee",
+      "pullenvale",
+      "fig-tree-pocket"
+    ]
+  },
+  "kenmore": {
+    "adjacent_suburbs": [
+      "brookfield",
+      "chapel-hill",
+      "fig-tree-pocket",
+      "jindalee",
+      "kenmore-hills",
+      "pinjarra-hills"
+    ],
+    "nearest_nonsiblings": [
+      "sinnamon-park",
+      "mount-ommaney",
+      "chelmer"
+    ]
+  },
+  "kuraby": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "karawatha",
+      "runcorn",
+      "stretton",
+      "underwood",
+      "woodridge"
+    ],
+    "nearest_nonsiblings": [
+      "sunnybank-hills",
+      "sunnybank"
+    ]
+  },
+  "karawatha": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "drewvale",
+      "kuraby",
+      "logan-central",
+      "stretton",
+      "woodridge"
+    ],
+    "nearest_nonsiblings": [
+      "calamvale",
+      "runcorn"
+    ]
+  },
+  "manly-west": {
+    "adjacent_suburbs": [
+      "lota",
+      "manly",
+      "tingalpa",
+      "wakerley",
+      "wynnum",
+      "wynnum-west"
+    ],
+    "nearest_nonsiblings": [
+      "ransome",
+      "gumdale",
+      "hemmant"
+    ]
+  },
+  "manly": {
+    "adjacent_suburbs": [
+      "lota",
+      "manly-west"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum",
+      "wynnum-west",
+      "ransome"
+    ]
+  },
+  "mansfield": {
+    "adjacent_suburbs": [
+      "carindale",
+      "mackenzie",
+      "mount-gravatt-east",
+      "rochedale",
+      "upper-mount-gravatt",
+      "wishart"
+    ],
+    "nearest_nonsiblings": [
+      "mount-gravatt",
+      "carina-heights",
+      "holland-park"
+    ]
+  },
+  "lota": {
+    "adjacent_suburbs": [
+      "manly",
+      "manly-west",
+      "ransome",
+      "wakerley"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum",
+      "wynnum-west",
+      "gumdale"
+    ]
+  },
+  "lutwyche": {
+    "adjacent_suburbs": [
+      "albion",
+      "gordon-park",
+      "grange",
+      "kedron",
+      "windsor",
+      "wooloowin"
+    ],
+    "nearest_nonsiblings": [
+      "kalinga",
+      "wilston",
+      "clayfield"
+    ]
+  },
+  "kedron": {
+    "adjacent_suburbs": [
+      "chermside",
+      "chermside-west",
+      "gordon-park",
+      "kalinga",
+      "lutwyche",
+      "stafford",
+      "stafford-heights",
+      "wavell-heights",
+      "wooloowin"
+    ],
+    "nearest_nonsiblings": [
+      "grange",
+      "clayfield"
+    ]
+  },
+  "kelvin-grove": {
+    "adjacent_suburbs": [
+      "herston",
+      "newmarket",
+      "petrie-terrace",
+      "red-hill",
+      "spring-hill",
+      "wilston"
+    ],
+    "nearest_nonsiblings": [
+      "paddington",
+      "milton",
+      "windsor"
+    ]
+  },
+  "murarrie": {
+    "adjacent_suburbs": [
+      "cannon-hill",
+      "eagle-farm",
+      "hemmant",
+      "morningside",
+      "pinkenba",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "carina",
+      "balmoral",
+      "hamilton"
+    ]
+  },
+  "nudgee-beach": {
+    "adjacent_suburbs": [
+      "boondall",
+      "brisbane-airport",
+      "nudgee",
+      "shorncliffe"
+    ],
+    "nearest_nonsiblings": [
+      "banyo",
+      "deagon",
+      "virginia"
+    ]
+  },
+  "nudgee": {
+    "adjacent_suburbs": [
+      "banyo",
+      "boondall",
+      "brisbane-airport",
+      "nudgee-beach"
+    ],
+    "nearest_nonsiblings": [
+      "virginia",
+      "northgate",
+      "geebung"
+    ]
+  },
+  "nundah": {
+    "adjacent_suburbs": [
+      "brisbane-airport",
+      "clayfield",
+      "hendra",
+      "kalinga",
+      "northgate",
+      "virginia",
+      "wavell-heights"
+    ],
+    "nearest_nonsiblings": [
+      "wooloowin",
+      "ascot",
+      "kedron"
+    ]
+  },
+  "moorooka": {
+    "adjacent_suburbs": [
+      "annerley",
+      "rocklea",
+      "salisbury",
+      "tarragindi",
+      "yeerongpilly"
+    ],
+    "nearest_nonsiblings": [
+      "tennyson",
+      "yeronga",
+      "fairfield"
+    ]
+  },
+  "moreton-bay": {
+    "adjacent_suburbs": [],
+    "nearest_nonsiblings": [
+      "port-of-brisbane",
+      "wynnum",
+      "manly"
+    ]
+  },
+  "northgate": {
+    "adjacent_suburbs": [
+      "banyo",
+      "brisbane-airport",
+      "nundah",
+      "virginia"
+    ],
+    "nearest_nonsiblings": [
+      "wavell-heights",
+      "hendra",
+      "nudgee"
+    ]
+  },
+  "middle-park": {
+    "adjacent_suburbs": [
+      "jamboree-heights",
+      "mount-ommaney",
+      "riverhills",
+      "sumner",
+      "westlake"
+    ],
+    "nearest_nonsiblings": [
+      "pinjarra-hills",
+      "jindalee",
+      "sinnamon-park"
+    ]
+  },
+  "petrie-terrace": {
+    "adjacent_suburbs": [
+      "brisbane-city",
+      "kelvin-grove",
+      "milton",
+      "paddington",
+      "red-hill"
+    ],
+    "nearest_nonsiblings": [
+      "spring-hill",
+      "south-brisbane",
+      "herston"
+    ]
+  },
+  "red-hill": {
+    "adjacent_suburbs": [
+      "ashgrove",
+      "bardon",
+      "kelvin-grove",
+      "newmarket",
+      "paddington",
+      "petrie-terrace"
+    ],
+    "nearest_nonsiblings": [
+      "milton",
+      "herston",
+      "spring-hill"
+    ]
+  },
+  "wynnum-west": {
+    "adjacent_suburbs": [
+      "hemmant",
+      "lytton",
+      "manly-west",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum",
+      "wakerley",
+      "manly"
+    ]
+  },
+  "wynnum": {
+    "adjacent_suburbs": [
+      "lytton",
+      "manly-west",
+      "port-of-brisbane"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum-west",
+      "manly",
+      "hemmant"
+    ]
+  },
+  "windsor": {
+    "adjacent_suburbs": [
+      "albion",
+      "bowen-hills",
+      "grange",
+      "herston",
+      "lutwyche",
+      "wilston"
+    ],
+    "nearest_nonsiblings": [
+      "gordon-park",
+      "wooloowin",
+      "newstead"
+    ]
+  },
+  "runcorn": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "kuraby",
+      "stretton",
+      "sunnybank",
+      "sunnybank-hills"
+    ],
+    "nearest_nonsiblings": [
+      "macgregor",
+      "calamvale",
+      "karawatha"
+    ]
+  },
+  "zillmere": {
+    "adjacent_suburbs": [
+      "aspley",
+      "boondall",
+      "carseldine",
+      "fitzgibbon",
+      "geebung",
+      "taigum"
+    ],
+    "nearest_nonsiblings": [
+      "chermside",
+      "virginia",
+      "chermside-west"
+    ]
+  },
+  "wavell-heights": {
+    "adjacent_suburbs": [
+      "chermside",
+      "geebung",
+      "kalinga",
+      "kedron",
+      "nundah",
+      "virginia"
+    ],
+    "nearest_nonsiblings": [
+      "northgate",
+      "wooloowin",
+      "clayfield"
+    ]
+  },
+  "willawong": {
+    "adjacent_suburbs": [
+      "acacia-ridge",
+      "algester",
+      "archerfield",
+      "doolandella",
+      "durack",
+      "oxley",
+      "pallara",
+      "rocklea"
+    ],
+    "nearest_nonsiblings": [
+      "inala",
+      "coopers-plains",
+      "sunnybank-hills"
+    ]
+  },
+  "wishart": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "mansfield",
+      "rochedale",
+      "upper-mount-gravatt"
+    ],
+    "nearest_nonsiblings": [
+      "macgregor",
+      "mount-gravatt-east",
+      "mackenzie"
+    ]
+  },
+  "wooloowin": {
+    "adjacent_suburbs": [
+      "albion",
+      "clayfield",
+      "kalinga",
+      "kedron",
+      "lutwyche"
+    ],
+    "nearest_nonsiblings": [
+      "gordon-park",
+      "windsor",
+      "ascot"
+    ]
+  },
+  "oxley": {
+    "adjacent_suburbs": [
+      "corinda",
+      "darra",
+      "durack",
+      "fig-tree-pocket",
+      "inala",
+      "rocklea",
+      "seventeen-mile-rocks",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "sinnamon-park",
+      "sherwood",
+      "archerfield"
+    ]
+  },
+  "woolloongabba": {
+    "adjacent_suburbs": [
+      "annerley",
+      "coorparoo",
+      "dutton-park",
+      "east-brisbane",
+      "fairfield",
+      "greenslopes",
+      "kangaroo-point",
+      "south-brisbane",
+      "stones-corner"
+    ],
+    "nearest_nonsiblings": [
+      "highgate-hill",
+      "brisbane-city"
+    ]
+  },
+  "westlake": {
+    "adjacent_suburbs": [
+      "bellbowrie",
+      "middle-park",
+      "mount-ommaney",
+      "pinjarra-hills",
+      "riverhills"
+    ],
+    "nearest_nonsiblings": [
+      "jamboree-heights",
+      "sumner",
+      "jindalee"
+    ]
+  },
+  "yeerongpilly": {
+    "adjacent_suburbs": [
+      "annerley",
+      "indooroopilly",
+      "moorooka",
+      "rocklea",
+      "tennyson",
+      "yeronga"
+    ],
+    "nearest_nonsiblings": [
+      "fairfield",
+      "salisbury",
+      "sherwood"
+    ]
+  },
+  "wilston": {
+    "adjacent_suburbs": [
+      "grange",
+      "herston",
+      "kelvin-grove",
+      "newmarket",
+      "windsor"
+    ],
+    "nearest_nonsiblings": [
+      "lutwyche",
+      "alderley",
+      "bowen-hills"
+    ]
+  },
+  "yeronga": {
+    "adjacent_suburbs": [
+      "annerley",
+      "fairfield",
+      "indooroopilly",
+      "st-lucia",
+      "yeerongpilly"
+    ],
+    "nearest_nonsiblings": [
+      "tennyson",
+      "dutton-park",
+      "moorooka"
+    ]
+  },
+  "ransome": {
+    "adjacent_suburbs": [
+      "chandler",
+      "gumdale",
+      "lota",
+      "wakerley"
+    ],
+    "nearest_nonsiblings": [
+      "manly-west",
+      "manly",
+      "wynnum-west"
+    ]
+  },
+  "taringa": {
+    "adjacent_suburbs": [
+      "indooroopilly",
+      "mount-coot-tha",
+      "st-lucia",
+      "toowong"
+    ],
+    "nearest_nonsiblings": [
+      "chelmer",
+      "auchenflower",
+      "west-end"
+    ]
+  },
+  "sherwood": {
+    "adjacent_suburbs": [
+      "corinda",
+      "fig-tree-pocket",
+      "graceville",
+      "rocklea",
+      "tennyson"
+    ],
+    "nearest_nonsiblings": [
+      "chelmer",
+      "indooroopilly",
+      "yeerongpilly"
+    ]
+  },
+  "stafford-heights": {
+    "adjacent_suburbs": [
+      "chermside-west",
+      "everton-park",
+      "kedron",
+      "mcdowall",
+      "stafford"
+    ],
+    "nearest_nonsiblings": [
+      "chermside",
+      "gordon-park",
+      "grange"
+    ]
+  },
+  "stafford": {
+    "adjacent_suburbs": [
+      "alderley",
+      "enoggera",
+      "everton-park",
+      "gordon-park",
+      "grange",
+      "kedron",
+      "stafford-heights"
+    ],
+    "nearest_nonsiblings": [
+      "lutwyche",
+      "newmarket",
+      "chermside-west"
+    ]
+  },
+  "the-gap": {
+    "adjacent_suburbs": [
+      "ashgrove",
+      "bardon",
+      "brookfield",
+      "enoggera",
+      "enoggera-reservoir",
+      "keperra",
+      "mount-coot-tha",
+      "upper-kedron"
+    ],
+    "nearest_nonsiblings": [
+      "mitchelton",
+      "ferny-grove",
+      "gaythorne"
+    ]
+  },
+  "rocklea": {
+    "adjacent_suburbs": [
+      "archerfield",
+      "coopers-plains",
+      "corinda",
+      "moorooka",
+      "oxley",
+      "salisbury",
+      "sherwood",
+      "tennyson",
+      "willawong",
+      "yeerongpilly"
+    ],
+    "nearest_nonsiblings": [
+      "graceville",
+      "yeronga"
+    ]
+  },
+  "pinjarra-hills": {
+    "adjacent_suburbs": [
+      "anstead",
+      "bellbowrie",
+      "brookfield",
+      "jindalee",
+      "kenmore",
+      "mount-ommaney",
+      "pullenvale",
+      "westlake"
+    ],
+    "nearest_nonsiblings": [
+      "middle-park",
+      "riverhills",
+      "jamboree-heights"
+    ]
+  },
+  "pinkenba": {
+    "adjacent_suburbs": [
+      "brisbane-airport",
+      "eagle-farm",
+      "hemmant",
+      "lytton",
+      "murarrie",
+      "port-of-brisbane"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum",
+      "nudgee",
+      "banyo"
+    ]
+  },
+  "port-of-brisbane": {
+    "adjacent_suburbs": [
+      "lytton",
+      "pinkenba",
+      "wynnum"
+    ],
+    "nearest_nonsiblings": [
+      "brisbane-airport",
+      "moreton-bay",
+      "manly"
+    ]
+  },
+  "riverhills": {
+    "adjacent_suburbs": [
+      "bellbowrie",
+      "middle-park",
+      "moggill",
+      "sumner",
+      "wacol",
+      "westlake"
+    ],
+    "nearest_nonsiblings": [
+      "jamboree-heights",
+      "pinjarra-hills",
+      "mount-ommaney"
+    ]
+  },
+  "richlands": {
+    "adjacent_suburbs": [
+      "darra",
+      "forest-lake",
+      "inala",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "ellen-grove",
+      "durack",
+      "sumner"
+    ]
+  },
+  "seven-hills": {
+    "adjacent_suburbs": [
+      "camp-hill",
+      "cannon-hill",
+      "carina",
+      "morningside",
+      "norman-park"
+    ],
+    "nearest_nonsiblings": [
+      "hawthorne",
+      "coorparoo",
+      "balmoral"
+    ]
+  },
+  "seventeen-mile-rocks": {
+    "adjacent_suburbs": [
+      "darra",
+      "fig-tree-pocket",
+      "oxley",
+      "sinnamon-park"
+    ],
+    "nearest_nonsiblings": [
+      "jindalee",
+      "jamboree-heights",
+      "mount-ommaney"
+    ]
+  },
+  "pullenvale": {
+    "adjacent_suburbs": [
+      "anstead",
+      "brookfield",
+      "kholo",
+      "pinjarra-hills",
+      "upper-brookfield"
+    ],
+    "nearest_nonsiblings": [
+      "westlake",
+      "bellbowrie",
+      "kenmore-hills"
+    ]
+  },
+  "salisbury": {
+    "adjacent_suburbs": [
+      "coopers-plains",
+      "moorooka",
+      "nathan",
+      "rocklea",
+      "tarragindi"
+    ],
+    "nearest_nonsiblings": [
+      "robertson",
+      "archerfield",
+      "yeerongpilly"
+    ]
+  },
+  "paddington": {
+    "adjacent_suburbs": [
+      "auchenflower",
+      "bardon",
+      "milton",
+      "petrie-terrace",
+      "red-hill"
+    ],
+    "nearest_nonsiblings": [
+      "kelvin-grove",
+      "ashgrove",
+      "spring-hill"
+    ]
+  },
+  "robertson": {
+    "adjacent_suburbs": [
+      "coopers-plains",
+      "macgregor",
+      "nathan",
+      "sunnybank"
+    ],
+    "nearest_nonsiblings": [
+      "upper-mount-gravatt",
+      "salisbury",
+      "mount-gravatt"
+    ]
+  },
+  "rochedale": {
+    "adjacent_suburbs": [
+      "burbank",
+      "eight-mile-plains",
+      "mackenzie",
+      "mansfield",
+      "rochedale-south",
+      "wishart"
+    ],
+    "nearest_nonsiblings": [
+      "upper-mount-gravatt",
+      "macgregor",
+      "kuraby"
+    ]
+  },
+  "pallara": {
+    "adjacent_suburbs": [
+      "algester",
+      "doolandella",
+      "forest-lake",
+      "heathwood",
+      "larapinta",
+      "willawong"
+    ],
+    "nearest_nonsiblings": [
+      "parkinson",
+      "durack",
+      "calamvale"
+    ]
+  },
+  "sandgate": {
+    "adjacent_suburbs": [
+      "boondall",
+      "bracken-ridge",
+      "brighton",
+      "deagon",
+      "shorncliffe"
+    ],
+    "nearest_nonsiblings": [
+      "taigum",
+      "fitzgibbon",
+      "bald-hills"
+    ]
+  },
+  "parkinson": {
+    "adjacent_suburbs": [
+      "algester",
+      "browns-plains",
+      "calamvale",
+      "drewvale",
+      "hillcrest",
+      "larapinta"
+    ],
+    "nearest_nonsiblings": [
+      "pallara",
+      "heathwood",
+      "stretton"
+    ]
+  },
+  "upper-mount-gravatt": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "macgregor",
+      "mansfield",
+      "mount-gravatt",
+      "mount-gravatt-east",
+      "nathan",
+      "wishart"
+    ],
+    "nearest_nonsiblings": [
+      "robertson",
+      "sunnybank",
+      "holland-park-west"
+    ]
+  },
+  "toowong": {
+    "adjacent_suburbs": [
+      "auchenflower",
+      "bardon",
+      "mount-coot-tha",
+      "st-lucia",
+      "taringa",
+      "west-end"
+    ],
+    "nearest_nonsiblings": [
+      "milton",
+      "paddington",
+      "indooroopilly"
+    ]
+  },
+  "spring-hill": {
+    "adjacent_suburbs": [
+      "bowen-hills",
+      "brisbane-city",
+      "fortitude-valley",
+      "herston",
+      "kelvin-grove"
+    ],
+    "nearest_nonsiblings": [
+      "petrie-terrace",
+      "kangaroo-point",
+      "south-brisbane"
+    ]
+  },
+  "shorncliffe": {
+    "adjacent_suburbs": [
+      "boondall",
+      "nudgee-beach",
+      "sandgate"
+    ],
+    "nearest_nonsiblings": [
+      "deagon",
+      "taigum",
+      "brighton"
+    ]
+  },
+  "st-lucia": {
+    "adjacent_suburbs": [
+      "dutton-park",
+      "fairfield",
+      "highgate-hill",
+      "indooroopilly",
+      "taringa",
+      "toowong",
+      "west-end",
+      "yeronga"
+    ],
+    "nearest_nonsiblings": [
+      "south-brisbane",
+      "auchenflower",
+      "tennyson"
+    ]
+  },
+  "tarragindi": {
+    "adjacent_suburbs": [
+      "annerley",
+      "greenslopes",
+      "holland-park-west",
+      "moorooka",
+      "nathan",
+      "salisbury"
+    ],
+    "nearest_nonsiblings": [
+      "holland-park",
+      "mount-gravatt",
+      "stones-corner"
+    ]
+  },
+  "teneriffe": {
+    "adjacent_suburbs": [
+      "bulimba",
+      "fortitude-valley",
+      "hawthorne",
+      "new-farm",
+      "newstead"
+    ],
+    "nearest_nonsiblings": [
+      "bowen-hills",
+      "balmoral",
+      "spring-hill"
+    ]
+  },
+  "tennyson": {
+    "adjacent_suburbs": [
+      "graceville",
+      "indooroopilly",
+      "rocklea",
+      "sherwood",
+      "yeerongpilly"
+    ],
+    "nearest_nonsiblings": [
+      "yeronga",
+      "moorooka",
+      "corinda"
+    ]
+  },
+  "sinnamon-park": {
+    "adjacent_suburbs": [
+      "darra",
+      "fig-tree-pocket",
+      "jamboree-heights",
+      "jindalee",
+      "mount-ommaney",
+      "seventeen-mile-rocks"
+    ],
+    "nearest_nonsiblings": [
+      "sumner",
+      "middle-park",
+      "kenmore"
+    ]
+  },
+  "west-end": {
+    "adjacent_suburbs": [
+      "auchenflower",
+      "highgate-hill",
+      "milton",
+      "south-brisbane",
+      "st-lucia",
+      "toowong"
+    ],
+    "nearest_nonsiblings": [
+      "dutton-park",
+      "petrie-terrace",
+      "brisbane-city"
+    ]
+  },
+  "virginia": {
+    "adjacent_suburbs": [
+      "banyo",
+      "boondall",
+      "geebung",
+      "northgate",
+      "nundah",
+      "wavell-heights"
+    ],
+    "nearest_nonsiblings": [
+      "nudgee",
+      "chermside",
+      "zillmere"
+    ]
+  },
+  "wacol": {
+    "adjacent_suburbs": [
+      "darra",
+      "ellen-grove",
+      "forest-lake",
+      "gailes",
+      "goodna",
+      "moggill",
+      "richlands",
+      "riverhills",
+      "sumner"
+    ],
+    "nearest_nonsiblings": [
+      "middle-park",
+      "jamboree-heights",
+      "westlake"
+    ]
+  },
+  "wakerley": {
+    "adjacent_suburbs": [
+      "gumdale",
+      "lota",
+      "manly-west",
+      "ransome",
+      "tingalpa"
+    ],
+    "nearest_nonsiblings": [
+      "wynnum-west",
+      "chandler",
+      "belmont"
+    ]
+  },
+  "amberley": {
+    "adjacent_suburbs": [
+      "jeebropilly",
+      "karrabin",
+      "leichhardt",
+      "one-mile",
+      "purga",
+      "walloon",
+      "willowbank",
+      "wulkuraka",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "sadliers-crossing",
+      "west-ipswich",
+      "churchill"
+    ]
+  },
+  "augustine-heights": {
+    "adjacent_suburbs": [
+      "bellbird-park",
+      "brookwater",
+      "redbank-plains",
+      "spring-mountain",
+      "springfield-central"
+    ],
+    "nearest_nonsiblings": [
+      "springfield",
+      "springfield-lakes",
+      "white-rock"
+    ]
+  },
+  "ashwell": {
+    "adjacent_suburbs": [
+      "lanefield",
+      "rosewood",
+      "tallegalla",
+      "the-bluff"
+    ],
+    "nearest_nonsiblings": [
+      "woolshed",
+      "calvert",
+      "mount-marrow"
+    ]
+  },
+  "barellan-point": {
+    "adjacent_suburbs": [
+      "anstead",
+      "karalee",
+      "moggill",
+      "riverview"
+    ],
+    "nearest_nonsiblings": [
+      "dinmore",
+      "ebbw-vale",
+      "redbank"
+    ]
+  },
+  "basin-pocket": {
+    "adjacent_suburbs": [
+      "east-ipswich",
+      "moores-pocket",
+      "north-ipswich",
+      "tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "woodend",
+      "newtown",
+      "north-booval"
+    ]
+  },
+  "blacksoil": {
+    "adjacent_suburbs": [
+      "brassall",
+      "ironbark",
+      "karrabin",
+      "pine-mountain"
+    ],
+    "nearest_nonsiblings": [
+      "muirlea",
+      "wulkuraka",
+      "coalfalls"
+    ]
+  },
+  "blackstone": {
+    "adjacent_suburbs": [
+      "bundamba",
+      "new-chum",
+      "raceview",
+      "silkstone",
+      "swanbank"
+    ],
+    "nearest_nonsiblings": [
+      "booval",
+      "eastern-heights",
+      "newtown"
+    ]
+  },
+  "bellbird-park": {
+    "adjacent_suburbs": [
+      "augustine-heights",
+      "brookwater",
+      "camira",
+      "goodna",
+      "redbank",
+      "redbank-plains",
+      "springfield"
+    ],
+    "nearest_nonsiblings": [
+      "collingwood-park",
+      "gailes",
+      "carole-park"
+    ]
+  },
+  "booval": {
+    "adjacent_suburbs": [
+      "bundamba",
+      "east-ipswich",
+      "newtown",
+      "north-booval",
+      "silkstone"
+    ],
+    "nearest_nonsiblings": [
+      "moores-pocket",
+      "blackstone",
+      "eastern-heights"
+    ]
+  },
+  "brassall": {
+    "adjacent_suburbs": [
+      "blacksoil",
+      "coalfalls",
+      "karrabin",
+      "muirlea",
+      "north-ipswich",
+      "pine-mountain",
+      "woodend",
+      "wulkuraka"
+    ],
+    "nearest_nonsiblings": [
+      "sadliers-crossing",
+      "west-ipswich",
+      "basin-pocket"
+    ]
+  },
+  "bundamba": {
+    "adjacent_suburbs": [
+      "blackstone",
+      "booval",
+      "dinmore",
+      "ebbw-vale",
+      "karalee",
+      "new-chum",
+      "north-booval",
+      "north-tivoli",
+      "riverview",
+      "silkstone"
+    ],
+    "nearest_nonsiblings": [
+      "moores-pocket",
+      "east-ipswich"
+    ]
+  },
+  "brookwater": {
+    "adjacent_suburbs": [
+      "augustine-heights",
+      "bellbird-park",
+      "springfield",
+      "springfield-central"
+    ],
+    "nearest_nonsiblings": [
+      "camira",
+      "springfield-lakes",
+      "redbank-plains"
+    ]
+  },
+  "calvert": {
+    "adjacent_suburbs": [
+      "grandchester",
+      "lanefield",
+      "lower-mount-walker",
+      "the-bluff",
+      "woolshed"
+    ],
+    "nearest_nonsiblings": [
+      "ashwell",
+      "rosewood",
+      "tallegalla"
+    ]
+  },
+  "camira": {
+    "adjacent_suburbs": [
+      "bellbird-park",
+      "carole-park",
+      "gailes",
+      "goodna",
+      "greenbank",
+      "springfield"
+    ],
+    "nearest_nonsiblings": [
+      "brookwater",
+      "augustine-heights",
+      "springfield-central"
+    ]
+  },
+  "carole-park": {
+    "adjacent_suburbs": [
+      "camira",
+      "ellen-grove",
+      "forest-lake",
+      "gailes",
+      "greenbank"
+    ],
+    "nearest_nonsiblings": [
+      "goodna",
+      "springfield",
+      "bellbird-park"
+    ]
+  },
+  "churchill": {
+    "adjacent_suburbs": [
+      "flinders-view",
+      "ipswich",
+      "leichhardt",
+      "one-mile",
+      "raceview",
+      "west-ipswich",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "eastern-heights",
+      "sadliers-crossing",
+      "newtown"
+    ]
+  },
+  "collingwood-park": {
+    "adjacent_suburbs": [
+      "new-chum",
+      "redbank",
+      "redbank-plains",
+      "riverview"
+    ],
+    "nearest_nonsiblings": [
+      "ebbw-vale",
+      "bellbird-park",
+      "dinmore"
+    ]
+  },
+  "coalfalls": {
+    "adjacent_suburbs": [
+      "brassall",
+      "sadliers-crossing",
+      "woodend",
+      "wulkuraka"
+    ],
+    "nearest_nonsiblings": [
+      "west-ipswich",
+      "leichhardt",
+      "north-ipswich"
+    ]
+  },
+  "muirlea": {
+    "adjacent_suburbs": [
+      "brassall",
+      "chuwar",
+      "kholo",
+      "north-ipswich",
+      "pine-mountain"
+    ],
+    "nearest_nonsiblings": [
+      "blacksoil",
+      "karrabin",
+      "coalfalls"
+    ]
+  },
+  "flinders-view": {
+    "adjacent_suburbs": [
+      "churchill",
+      "raceview",
+      "ripley",
+      "swanbank",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "eastern-heights",
+      "ipswich",
+      "silkstone"
+    ]
+  },
+  "north-ipswich": {
+    "adjacent_suburbs": [
+      "basin-pocket",
+      "brassall",
+      "chuwar",
+      "east-ipswich",
+      "ipswich",
+      "muirlea",
+      "tivoli",
+      "woodend"
+    ],
+    "nearest_nonsiblings": [
+      "coalfalls",
+      "moores-pocket",
+      "sadliers-crossing"
+    ]
+  },
+  "new-chum": {
+    "adjacent_suburbs": [
+      "blackstone",
+      "bundamba",
+      "collingwood-park",
+      "dinmore",
+      "ebbw-vale",
+      "redbank-plains",
+      "riverview",
+      "swanbank"
+    ],
+    "nearest_nonsiblings": [
+      "booval",
+      "silkstone",
+      "redbank"
+    ]
+  },
+  "newtown": {
+    "adjacent_suburbs": [
+      "booval",
+      "east-ipswich",
+      "eastern-heights",
+      "ipswich",
+      "silkstone"
+    ],
+    "nearest_nonsiblings": [
+      "basin-pocket",
+      "moores-pocket",
+      "north-booval"
+    ]
+  },
+  "mount-forbes": {
+    "adjacent_suburbs": [
+      "ebenezer",
+      "lower-mount-walker",
+      "mutdapilly",
+      "willowbank"
+    ],
+    "nearest_nonsiblings": [
+      "jeebropilly",
+      "rosewood",
+      "lanefield"
+    ]
+  },
+  "north-booval": {
+    "adjacent_suburbs": [
+      "booval",
+      "bundamba",
+      "east-ipswich",
+      "moores-pocket",
+      "north-tivoli",
+      "tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "basin-pocket",
+      "newtown",
+      "silkstone"
+    ]
+  },
+  "deebing-heights": {
+    "adjacent_suburbs": [
+      "goolman",
+      "purga",
+      "ripley",
+      "south-ripley",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "flinders-view",
+      "churchill",
+      "raceview"
+    ]
+  },
+  "mount-walker-west": {
+    "adjacent_suburbs": [
+      "lower-mount-walker",
+      "mount-mort"
+    ],
+    "nearest_nonsiblings": [
+      "grandchester",
+      "calvert",
+      "mount-forbes"
+    ]
+  },
+  "jeebropilly": {
+    "adjacent_suburbs": [
+      "amberley",
+      "ebenezer",
+      "rosewood",
+      "thagoona",
+      "walloon",
+      "willowbank"
+    ],
+    "nearest_nonsiblings": [
+      "mount-marrow",
+      "karrabin",
+      "wulkuraka"
+    ]
+  },
+  "gailes": {
+    "adjacent_suburbs": [
+      "camira",
+      "carole-park",
+      "goodna",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "bellbird-park",
+      "redbank",
+      "springfield"
+    ]
+  },
+  "dinmore": {
+    "adjacent_suburbs": [
+      "bundamba",
+      "ebbw-vale",
+      "new-chum",
+      "riverview"
+    ],
+    "nearest_nonsiblings": [
+      "barellan-point",
+      "collingwood-park",
+      "karalee"
+    ]
+  },
+  "haigslea": {
+    "adjacent_suburbs": [
+      "ironbark",
+      "marburg",
+      "mount-marrow",
+      "walloon"
+    ],
+    "nearest_nonsiblings": [
+      "thagoona",
+      "blacksoil",
+      "karrabin"
+    ]
+  },
+  "goolman": {
+    "adjacent_suburbs": [
+      "deebing-heights",
+      "peak-crossing",
+      "purga",
+      "south-ripley"
+    ],
+    "nearest_nonsiblings": [
+      "ripley",
+      "white-rock",
+      "flinders-view"
+    ]
+  },
+  "eastern-heights": {
+    "adjacent_suburbs": [
+      "ipswich",
+      "newtown",
+      "raceview",
+      "silkstone"
+    ],
+    "nearest_nonsiblings": [
+      "east-ipswich",
+      "booval",
+      "west-ipswich"
+    ]
+  },
+  "ebbw-vale": {
+    "adjacent_suburbs": [
+      "bundamba",
+      "dinmore",
+      "new-chum"
+    ],
+    "nearest_nonsiblings": [
+      "riverview",
+      "booval",
+      "blackstone"
+    ]
+  },
+  "ebenezer": {
+    "adjacent_suburbs": [
+      "jeebropilly",
+      "lower-mount-walker",
+      "mount-forbes",
+      "rosewood",
+      "willowbank"
+    ],
+    "nearest_nonsiblings": [
+      "thagoona",
+      "mutdapilly",
+      "lanefield"
+    ]
+  },
+  "goodna": {
+    "adjacent_suburbs": [
+      "bellbird-park",
+      "camira",
+      "gailes",
+      "moggill",
+      "redbank",
+      "wacol"
+    ],
+    "nearest_nonsiblings": [
+      "carole-park",
+      "collingwood-park",
+      "springfield"
+    ]
+  },
+  "east-ipswich": {
+    "adjacent_suburbs": [
+      "basin-pocket",
+      "booval",
+      "ipswich",
+      "moores-pocket",
+      "newtown",
+      "north-booval",
+      "north-ipswich"
+    ],
+    "nearest_nonsiblings": [
+      "silkstone",
+      "eastern-heights",
+      "woodend"
+    ]
+  },
+  "ipswich": {
+    "adjacent_suburbs": [
+      "churchill",
+      "east-ipswich",
+      "eastern-heights",
+      "newtown",
+      "north-ipswich",
+      "raceview",
+      "sadliers-crossing",
+      "west-ipswich",
+      "woodend"
+    ],
+    "nearest_nonsiblings": [
+      "one-mile",
+      "coalfalls",
+      "leichhardt"
+    ]
+  },
+  "ironbark": {
+    "adjacent_suburbs": [
+      "blacksoil",
+      "haigslea",
+      "karrabin",
+      "pine-mountain",
+      "walloon"
+    ],
+    "nearest_nonsiblings": [
+      "muirlea",
+      "mount-marrow",
+      "brassall"
+    ]
+  },
+  "grandchester": {
+    "adjacent_suburbs": [
+      "calvert",
+      "lower-mount-walker",
+      "mount-mort",
+      "woolshed"
+    ],
+    "nearest_nonsiblings": [
+      "lanefield",
+      "the-bluff",
+      "mount-walker-west"
+    ]
+  },
+  "leichhardt": {
+    "adjacent_suburbs": [
+      "amberley",
+      "churchill",
+      "one-mile",
+      "sadliers-crossing",
+      "west-ipswich",
+      "wulkuraka"
+    ],
+    "nearest_nonsiblings": [
+      "coalfalls",
+      "ipswich",
+      "woodend"
+    ]
+  },
+  "south-ripley": {
+    "adjacent_suburbs": [
+      "deebing-heights",
+      "goolman",
+      "greenbank",
+      "lyons",
+      "peak-crossing",
+      "ripley",
+      "spring-mountain",
+      "swanbank",
+      "white-rock"
+    ],
+    "nearest_nonsiblings": [
+      "redbank-plains",
+      "flinders-view",
+      "augustine-heights"
+    ]
+  },
+  "tallegalla": {
+    "adjacent_suburbs": [
+      "ashwell",
+      "marburg",
+      "mount-marrow",
+      "rosewood",
+      "the-bluff",
+      "woolshed"
+    ],
+    "nearest_nonsiblings": [
+      "lanefield",
+      "haigslea",
+      "thagoona"
+    ]
+  },
+  "swanbank": {
+    "adjacent_suburbs": [
+      "blackstone",
+      "flinders-view",
+      "new-chum",
+      "raceview",
+      "ripley",
+      "south-ripley",
+      "white-rock"
+    ],
+    "nearest_nonsiblings": [
+      "redbank-plains",
+      "silkstone",
+      "collingwood-park"
+    ]
+  },
+  "lanefield": {
+    "adjacent_suburbs": [
+      "ashwell",
+      "calvert",
+      "lower-mount-walker",
+      "rosewood",
+      "the-bluff"
+    ],
+    "nearest_nonsiblings": [
+      "ebenezer",
+      "tallegalla",
+      "woolshed"
+    ]
+  },
+  "karalee": {
+    "adjacent_suburbs": [
+      "anstead",
+      "barellan-point",
+      "bundamba",
+      "chuwar",
+      "karana-downs",
+      "mount-crosby",
+      "north-tivoli",
+      "riverview"
+    ],
+    "nearest_nonsiblings": [
+      "dinmore",
+      "ebbw-vale"
+    ]
+  },
+  "karrabin": {
+    "adjacent_suburbs": [
+      "amberley",
+      "blacksoil",
+      "brassall",
+      "ironbark",
+      "walloon",
+      "wulkuraka"
+    ],
+    "nearest_nonsiblings": [
+      "muirlea",
+      "coalfalls",
+      "leichhardt"
+    ]
+  },
+  "marburg": {
+    "adjacent_suburbs": [
+      "haigslea",
+      "mount-marrow",
+      "tallegalla"
+    ],
+    "nearest_nonsiblings": [
+      "ashwell",
+      "the-bluff",
+      "thagoona"
+    ]
+  },
+  "lower-mount-walker": {
+    "adjacent_suburbs": [
+      "calvert",
+      "ebenezer",
+      "grandchester",
+      "lanefield",
+      "mount-forbes",
+      "mount-mort",
+      "mount-walker-west",
+      "rosewood"
+    ],
+    "nearest_nonsiblings": [
+      "ashwell",
+      "the-bluff",
+      "woolshed"
+    ]
+  },
+  "moores-pocket": {
+    "adjacent_suburbs": [
+      "basin-pocket",
+      "east-ipswich",
+      "north-booval",
+      "tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "booval",
+      "newtown",
+      "north-ipswich"
+    ]
+  },
+  "mount-mort": {
+    "adjacent_suburbs": [
+      "grandchester",
+      "lower-mount-walker",
+      "mount-walker-west"
+    ],
+    "nearest_nonsiblings": [
+      "calvert",
+      "lanefield",
+      "mount-forbes"
+    ]
+  },
+  "mutdapilly": {
+    "adjacent_suburbs": [
+      "mount-forbes",
+      "peak-crossing",
+      "purga",
+      "willowbank"
+    ],
+    "nearest_nonsiblings": [
+      "ebenezer",
+      "jeebropilly",
+      "goolman"
+    ]
+  },
+  "mount-marrow": {
+    "adjacent_suburbs": [
+      "haigslea",
+      "marburg",
+      "rosewood",
+      "tallegalla",
+      "thagoona",
+      "walloon"
+    ],
+    "nearest_nonsiblings": [
+      "jeebropilly",
+      "ironbark",
+      "ashwell"
+    ]
+  },
+  "north-tivoli": {
+    "adjacent_suburbs": [
+      "bundamba",
+      "chuwar",
+      "karalee",
+      "north-booval",
+      "tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "moores-pocket",
+      "basin-pocket",
+      "north-ipswich"
+    ]
+  },
+  "rosewood": {
+    "adjacent_suburbs": [
+      "ashwell",
+      "ebenezer",
+      "jeebropilly",
+      "lanefield",
+      "lower-mount-walker",
+      "mount-marrow",
+      "tallegalla",
+      "thagoona"
+    ],
+    "nearest_nonsiblings": [
+      "the-bluff",
+      "marburg",
+      "walloon"
+    ]
+  },
+  "redbank-plains": {
+    "adjacent_suburbs": [
+      "augustine-heights",
+      "bellbird-park",
+      "collingwood-park",
+      "new-chum",
+      "redbank",
+      "spring-mountain",
+      "white-rock"
+    ],
+    "nearest_nonsiblings": [
+      "swanbank",
+      "brookwater",
+      "blackstone"
+    ]
+  },
+  "redbank": {
+    "adjacent_suburbs": [
+      "bellbird-park",
+      "collingwood-park",
+      "goodna",
+      "moggill",
+      "redbank-plains",
+      "riverview"
+    ],
+    "nearest_nonsiblings": [
+      "dinmore",
+      "gailes",
+      "new-chum"
+    ]
+  },
+  "woodend": {
+    "adjacent_suburbs": [
+      "brassall",
+      "coalfalls",
+      "ipswich",
+      "north-ipswich",
+      "sadliers-crossing"
+    ],
+    "nearest_nonsiblings": [
+      "west-ipswich",
+      "basin-pocket",
+      "east-ipswich"
+    ]
+  },
+  "white-rock": {
+    "adjacent_suburbs": [
+      "redbank-plains",
+      "south-ripley",
+      "spring-mountain",
+      "swanbank"
+    ],
+    "nearest_nonsiblings": [
+      "augustine-heights",
+      "springfield-central",
+      "brookwater"
+    ]
+  },
+  "woolshed": {
+    "adjacent_suburbs": [
+      "calvert",
+      "grandchester",
+      "tallegalla",
+      "the-bluff"
+    ],
+    "nearest_nonsiblings": [
+      "ashwell",
+      "lanefield",
+      "marburg"
+    ]
+  },
+  "one-mile": {
+    "adjacent_suburbs": [
+      "amberley",
+      "churchill",
+      "leichhardt",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "west-ipswich",
+      "ipswich",
+      "sadliers-crossing"
+    ]
+  },
+  "yamanto": {
+    "adjacent_suburbs": [
+      "amberley",
+      "churchill",
+      "deebing-heights",
+      "flinders-view",
+      "one-mile",
+      "purga"
+    ],
+    "nearest_nonsiblings": [
+      "leichhardt",
+      "west-ipswich",
+      "ipswich"
+    ]
+  },
+  "walloon": {
+    "adjacent_suburbs": [
+      "amberley",
+      "haigslea",
+      "ironbark",
+      "jeebropilly",
+      "karrabin",
+      "mount-marrow",
+      "thagoona"
+    ],
+    "nearest_nonsiblings": [
+      "blacksoil",
+      "wulkuraka",
+      "brassall"
+    ]
+  },
+  "willowbank": {
+    "adjacent_suburbs": [
+      "amberley",
+      "ebenezer",
+      "jeebropilly",
+      "mount-forbes",
+      "mutdapilly",
+      "purga"
+    ],
+    "nearest_nonsiblings": [
+      "yamanto",
+      "thagoona",
+      "deebing-heights"
+    ]
+  },
+  "pine-mountain": {
+    "adjacent_suburbs": [
+      "blacksoil",
+      "brassall",
+      "ironbark",
+      "kholo",
+      "muirlea"
+    ],
+    "nearest_nonsiblings": [
+      "karrabin",
+      "chuwar",
+      "north-ipswich"
+    ]
+  },
+  "purga": {
+    "adjacent_suburbs": [
+      "amberley",
+      "deebing-heights",
+      "goolman",
+      "mutdapilly",
+      "peak-crossing",
+      "willowbank",
+      "yamanto"
+    ],
+    "nearest_nonsiblings": [
+      "ripley",
+      "one-mile",
+      "churchill"
+    ]
+  },
+  "raceview": {
+    "adjacent_suburbs": [
+      "blackstone",
+      "churchill",
+      "eastern-heights",
+      "flinders-view",
+      "ipswich",
+      "silkstone",
+      "swanbank"
+    ],
+    "nearest_nonsiblings": [
+      "newtown",
+      "booval",
+      "east-ipswich"
+    ]
+  },
+  "ripley": {
+    "adjacent_suburbs": [
+      "deebing-heights",
+      "flinders-view",
+      "south-ripley",
+      "swanbank"
+    ],
+    "nearest_nonsiblings": [
+      "raceview",
+      "yamanto",
+      "blackstone"
+    ]
+  },
+  "riverview": {
+    "adjacent_suburbs": [
+      "barellan-point",
+      "bundamba",
+      "collingwood-park",
+      "dinmore",
+      "karalee",
+      "moggill",
+      "new-chum",
+      "redbank"
+    ],
+    "nearest_nonsiblings": [
+      "ebbw-vale",
+      "north-booval",
+      "north-tivoli"
+    ]
+  },
+  "sadliers-crossing": {
+    "adjacent_suburbs": [
+      "coalfalls",
+      "ipswich",
+      "leichhardt",
+      "west-ipswich",
+      "woodend",
+      "wulkuraka"
+    ],
+    "nearest_nonsiblings": [
+      "one-mile",
+      "north-ipswich",
+      "churchill"
+    ]
+  },
+  "tivoli": {
+    "adjacent_suburbs": [
+      "basin-pocket",
+      "chuwar",
+      "moores-pocket",
+      "north-booval",
+      "north-ipswich",
+      "north-tivoli"
+    ],
+    "nearest_nonsiblings": [
+      "east-ipswich",
+      "woodend",
+      "newtown"
+    ]
+  },
+  "peak-crossing": {
+    "adjacent_suburbs": [
+      "goolman",
+      "lyons",
+      "mutdapilly",
+      "purga",
+      "south-ripley",
+      "undullah"
+    ],
+    "nearest_nonsiblings": [
+      "deebing-heights",
+      "white-rock",
+      "ripley"
+    ]
+  },
+  "spring-mountain": {
+    "adjacent_suburbs": [
+      "augustine-heights",
+      "greenbank",
+      "redbank-plains",
+      "south-ripley",
+      "springfield-central",
+      "springfield-lakes",
+      "white-rock"
+    ],
+    "nearest_nonsiblings": [
+      "brookwater",
+      "springfield",
+      "bellbird-park"
+    ]
+  },
+  "springfield-central": {
+    "adjacent_suburbs": [
+      "augustine-heights",
+      "brookwater",
+      "spring-mountain",
+      "springfield",
+      "springfield-lakes"
+    ],
+    "nearest_nonsiblings": [
+      "bellbird-park",
+      "camira",
+      "white-rock"
+    ]
+  },
+  "springfield-lakes": {
+    "adjacent_suburbs": [
+      "greenbank",
+      "spring-mountain",
+      "springfield",
+      "springfield-central"
+    ],
+    "nearest_nonsiblings": [
+      "brookwater",
+      "augustine-heights",
+      "camira"
+    ]
+  },
+  "springfield": {
+    "adjacent_suburbs": [
+      "bellbird-park",
+      "brookwater",
+      "camira",
+      "greenbank",
+      "springfield-central",
+      "springfield-lakes"
+    ],
+    "nearest_nonsiblings": [
+      "augustine-heights",
+      "carole-park",
+      "gailes"
+    ]
+  },
+  "silkstone": {
+    "adjacent_suburbs": [
+      "blackstone",
+      "booval",
+      "bundamba",
+      "eastern-heights",
+      "newtown",
+      "raceview"
+    ],
+    "nearest_nonsiblings": [
+      "east-ipswich",
+      "moores-pocket",
+      "north-booval"
+    ]
+  },
+  "thagoona": {
+    "adjacent_suburbs": [
+      "jeebropilly",
+      "mount-marrow",
+      "rosewood",
+      "walloon"
+    ],
+    "nearest_nonsiblings": [
+      "haigslea",
+      "ebenezer",
+      "amberley"
+    ]
+  },
+  "the-bluff": {
+    "adjacent_suburbs": [
+      "ashwell",
+      "calvert",
+      "lanefield",
+      "tallegalla",
+      "woolshed"
+    ],
+    "nearest_nonsiblings": [
+      "rosewood",
+      "marburg",
+      "mount-marrow"
+    ]
+  },
+  "west-ipswich": {
+    "adjacent_suburbs": [
+      "churchill",
+      "ipswich",
+      "leichhardt",
+      "sadliers-crossing"
+    ],
+    "nearest_nonsiblings": [
+      "coalfalls",
+      "woodend",
+      "one-mile"
+    ]
+  },
+  "wulkuraka": {
+    "adjacent_suburbs": [
+      "amberley",
+      "brassall",
+      "coalfalls",
+      "karrabin",
+      "leichhardt",
+      "sadliers-crossing"
+    ],
+    "nearest_nonsiblings": [
+      "west-ipswich",
+      "woodend",
+      "one-mile"
+    ]
+  },
+  "bahrs-scrub": {
+    "adjacent_suburbs": [
+      "beenleigh",
+      "belivah",
+      "buccan",
+      "holmview",
+      "mount-warren-park",
+      "waterford",
+      "windaroo"
+    ],
+    "nearest_nonsiblings": [
+      "bannockburn",
+      "edens-landing",
+      "wolffdene"
+    ]
+  },
+  "bannockburn": {
+    "adjacent_suburbs": [
+      "belivah",
+      "windaroo",
+      "wolffdene"
+    ],
+    "nearest_nonsiblings": [
+      "bahrs-scrub",
+      "mount-warren-park",
+      "beenleigh"
+    ]
+  },
+  "belivah": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "bannockburn",
+      "buccan",
+      "wolffdene"
+    ],
+    "nearest_nonsiblings": [
+      "windaroo",
+      "mount-warren-park",
+      "holmview"
+    ]
+  },
+  "beenleigh": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "eagleby",
+      "holmview",
+      "loganholme",
+      "mount-warren-park"
+    ],
+    "nearest_nonsiblings": [
+      "edens-landing",
+      "windaroo",
+      "bethania"
+    ]
+  },
+  "berrinba": {
+    "adjacent_suburbs": [
+      "browns-plains",
+      "crestmead",
+      "drewvale",
+      "heritage-park",
+      "karawatha",
+      "kingston",
+      "logan-central",
+      "marsden"
+    ],
+    "nearest_nonsiblings": [
+      "woodridge",
+      "regents-park"
+    ]
+  },
+  "bethania": {
+    "adjacent_suburbs": [
+      "edens-landing",
+      "loganholme",
+      "loganlea",
+      "meadowbrook",
+      "tanah-merah",
+      "waterford"
+    ],
+    "nearest_nonsiblings": [
+      "waterford-west",
+      "holmview",
+      "shailer-park"
+    ]
+  },
+  "boronia-heights": {
+    "adjacent_suburbs": [
+      "greenbank",
+      "hillcrest",
+      "park-ridge",
+      "regents-park"
+    ],
+    "nearest_nonsiblings": [
+      "forestdale",
+      "heritage-park",
+      "browns-plains"
+    ]
+  },
+  "buccan": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "belivah",
+      "chambers-flat",
+      "logan-reserve",
+      "logan-village",
+      "waterford",
+      "wolffdene"
+    ],
+    "nearest_nonsiblings": [
+      "holmview",
+      "edens-landing",
+      "waterford-west"
+    ]
+  },
+  "browns-plains": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "drewvale",
+      "heritage-park",
+      "hillcrest",
+      "parkinson",
+      "regents-park"
+    ],
+    "nearest_nonsiblings": [
+      "crestmead",
+      "boronia-heights"
+    ]
+  },
+  "carbrook": {
+    "adjacent_suburbs": [
+      "cornubia",
+      "eagleby"
+    ],
+    "nearest_nonsiblings": [
+      "loganholme",
+      "beenleigh",
+      "mount-warren-park"
+    ]
+  },
+  "cedar-creek": {
+    "adjacent_suburbs": [
+      "logan-village",
+      "tamborine",
+      "wolffdene",
+      "yarrabilba"
+    ],
+    "nearest_nonsiblings": [
+      "belivah",
+      "bannockburn",
+      "windaroo"
+    ]
+  },
+  "cedar-grove": {
+    "adjacent_suburbs": [
+      "cedar-vale",
+      "glenlogan",
+      "jimboomba",
+      "riverbend",
+      "woodhill"
+    ],
+    "nearest_nonsiblings": [
+      "veresdale",
+      "veresdale-scrub",
+      "flagstone"
+    ]
+  },
+  "cedar-vale": {
+    "adjacent_suburbs": [
+      "cedar-grove",
+      "jimboomba",
+      "mundoolun",
+      "veresdale-scrub",
+      "woodhill"
+    ],
+    "nearest_nonsiblings": [
+      "veresdale",
+      "glenlogan",
+      "riverbend"
+    ]
+  },
+  "chambers-flat": {
+    "adjacent_suburbs": [
+      "buccan",
+      "logan-reserve",
+      "logan-village",
+      "munruben",
+      "park-ridge",
+      "park-ridge-south",
+      "stockleigh"
+    ],
+    "nearest_nonsiblings": [
+      "crestmead",
+      "heritage-park",
+      "waterford"
+    ]
+  },
+  "flinders-lakes": {
+    "adjacent_suburbs": [
+      "kagaru",
+      "monarch-glen",
+      "undullah"
+    ],
+    "nearest_nonsiblings": [
+      "silverbark-ridge",
+      "flagstone",
+      "lyons"
+    ]
+  },
+  "mount-warren-park": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "beenleigh",
+      "windaroo"
+    ],
+    "nearest_nonsiblings": [
+      "bannockburn",
+      "holmview",
+      "eagleby"
+    ]
+  },
+  "north-maclean": {
+    "adjacent_suburbs": [
+      "greenbank",
+      "munruben",
+      "new-beith",
+      "south-maclean",
+      "stockleigh"
+    ],
+    "nearest_nonsiblings": [
+      "park-ridge-south",
+      "flagstone",
+      "riverbend"
+    ]
+  },
+  "new-beith": {
+    "adjacent_suburbs": [
+      "flagstone",
+      "greenbank",
+      "lyons",
+      "north-maclean",
+      "silverbark-ridge",
+      "south-maclean"
+    ],
+    "nearest_nonsiblings": [
+      "monarch-glen",
+      "riverbend",
+      "munruben"
+    ]
+  },
+  "cornubia": {
+    "adjacent_suburbs": [
+      "carbrook",
+      "eagleby",
+      "loganholme",
+      "shailer-park"
+    ],
+    "nearest_nonsiblings": [
+      "tanah-merah",
+      "bethania",
+      "daisy-hill"
+    ]
+  },
+  "monarch-glen": {
+    "adjacent_suburbs": [
+      "flagstone",
+      "flinders-lakes",
+      "kagaru",
+      "lyons",
+      "silverbark-ridge",
+      "undullah"
+    ],
+    "nearest_nonsiblings": [
+      "riverbend",
+      "new-beith",
+      "cedar-grove"
+    ]
+  },
+  "eagleby": {
+    "adjacent_suburbs": [
+      "beenleigh",
+      "carbrook",
+      "cornubia",
+      "loganholme"
+    ],
+    "nearest_nonsiblings": [
+      "mount-warren-park",
+      "edens-landing",
+      "holmview"
+    ]
+  },
+  "edens-landing": {
+    "adjacent_suburbs": [
+      "bethania",
+      "holmview",
+      "loganholme",
+      "waterford"
+    ],
+    "nearest_nonsiblings": [
+      "beenleigh",
+      "tanah-merah",
+      "bahrs-scrub"
+    ]
+  },
+  "flagstone": {
+    "adjacent_suburbs": [
+      "monarch-glen",
+      "new-beith",
+      "riverbend",
+      "silverbark-ridge",
+      "south-maclean"
+    ],
+    "nearest_nonsiblings": [
+      "kagaru",
+      "glenlogan",
+      "cedar-grove"
+    ]
+  },
+  "daisy-hill": {
+    "adjacent_suburbs": [
+      "priestdale",
+      "shailer-park",
+      "slacks-creek",
+      "springwood"
+    ],
+    "nearest_nonsiblings": [
+      "meadowbrook",
+      "rochedale-south",
+      "tanah-merah"
+    ]
+  },
+  "greenbank": {
+    "adjacent_suburbs": [
+      "boronia-heights",
+      "camira",
+      "carole-park",
+      "forest-lake",
+      "forestdale",
+      "heathwood",
+      "lyons",
+      "munruben",
+      "new-beith",
+      "north-maclean",
+      "park-ridge",
+      "park-ridge-south",
+      "south-ripley",
+      "spring-mountain",
+      "springfield",
+      "springfield-lakes"
+    ],
+    "nearest_nonsiblings": [
+      "hillcrest"
+    ]
+  },
+  "holmview": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "beenleigh",
+      "edens-landing",
+      "loganholme",
+      "waterford"
+    ],
+    "nearest_nonsiblings": [
+      "bethania",
+      "mount-warren-park",
+      "windaroo"
+    ]
+  },
+  "jimboomba": {
+    "adjacent_suburbs": [
+      "cedar-grove",
+      "cedar-vale",
+      "logan-village",
+      "mundoolun",
+      "riverbend",
+      "south-maclean",
+      "stockleigh",
+      "tamborine"
+    ],
+    "nearest_nonsiblings": [
+      "glenlogan",
+      "yarrabilba",
+      "veresdale-scrub"
+    ]
+  },
+  "crestmead": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "heritage-park",
+      "logan-reserve",
+      "marsden",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "park-ridge",
+      "browns-plains",
+      "kingston"
+    ]
+  },
+  "forestdale": {
+    "adjacent_suburbs": [
+      "greenbank",
+      "heathwood",
+      "hillcrest",
+      "larapinta"
+    ],
+    "nearest_nonsiblings": [
+      "boronia-heights",
+      "regents-park",
+      "browns-plains"
+    ]
+  },
+  "glenlogan": {
+    "adjacent_suburbs": [
+      "cedar-grove",
+      "riverbend"
+    ],
+    "nearest_nonsiblings": [
+      "jimboomba",
+      "south-maclean",
+      "cedar-vale"
+    ]
+  },
+  "heritage-park": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "browns-plains",
+      "crestmead",
+      "park-ridge",
+      "regents-park"
+    ],
+    "nearest_nonsiblings": [
+      "marsden",
+      "hillcrest",
+      "boronia-heights"
+    ]
+  },
+  "hillcrest": {
+    "adjacent_suburbs": [
+      "boronia-heights",
+      "browns-plains",
+      "forestdale",
+      "parkinson",
+      "regents-park"
+    ],
+    "nearest_nonsiblings": [
+      "heritage-park",
+      "park-ridge",
+      "berrinba"
+    ]
+  },
+  "kingston": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "logan-central",
+      "loganlea",
+      "marsden",
+      "meadowbrook",
+      "slacks-creek",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "woodridge",
+      "crestmead",
+      "springwood"
+    ]
+  },
+  "south-maclean": {
+    "adjacent_suburbs": [
+      "flagstone",
+      "jimboomba",
+      "new-beith",
+      "north-maclean",
+      "riverbend",
+      "stockleigh"
+    ],
+    "nearest_nonsiblings": [
+      "glenlogan",
+      "munruben",
+      "silverbark-ridge"
+    ]
+  },
+  "tamborine": {
+    "adjacent_suburbs": [
+      "cedar-creek",
+      "jimboomba",
+      "logan-village",
+      "mundoolun",
+      "yarrabilba"
+    ],
+    "nearest_nonsiblings": [
+      "stockleigh",
+      "cedar-vale",
+      "wolffdene"
+    ]
+  },
+  "underwood": {
+    "adjacent_suburbs": [
+      "eight-mile-plains",
+      "kuraby",
+      "rochedale-south",
+      "slacks-creek",
+      "springwood",
+      "woodridge"
+    ],
+    "nearest_nonsiblings": [
+      "logan-central"
+    ]
+  },
+  "undullah": {
+    "adjacent_suburbs": [
+      "flinders-lakes",
+      "lyons",
+      "monarch-glen",
+      "peak-crossing"
+    ],
+    "nearest_nonsiblings": [
+      "kagaru",
+      "silverbark-ridge",
+      "flagstone"
+    ]
+  },
+  "kagaru": {
+    "adjacent_suburbs": [
+      "flinders-lakes",
+      "monarch-glen",
+      "riverbend"
+    ],
+    "nearest_nonsiblings": [
+      "flagstone",
+      "silverbark-ridge",
+      "cedar-grove"
+    ]
+  },
+  "logan-central": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "karawatha",
+      "kingston",
+      "slacks-creek",
+      "woodridge"
+    ],
+    "nearest_nonsiblings": [
+      "marsden",
+      "underwood",
+      "springwood"
+    ]
+  },
+  "logan-reserve": {
+    "adjacent_suburbs": [
+      "buccan",
+      "chambers-flat",
+      "crestmead",
+      "park-ridge",
+      "waterford",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "marsden",
+      "loganlea",
+      "bethania"
+    ]
+  },
+  "logan-village": {
+    "adjacent_suburbs": [
+      "buccan",
+      "cedar-creek",
+      "chambers-flat",
+      "jimboomba",
+      "stockleigh",
+      "tamborine",
+      "wolffdene",
+      "yarrabilba"
+    ],
+    "nearest_nonsiblings": [
+      "belivah",
+      "bahrs-scrub",
+      "logan-reserve"
+    ]
+  },
+  "loganholme": {
+    "adjacent_suburbs": [
+      "beenleigh",
+      "bethania",
+      "cornubia",
+      "eagleby",
+      "edens-landing",
+      "holmview",
+      "shailer-park",
+      "tanah-merah"
+    ],
+    "nearest_nonsiblings": [
+      "meadowbrook",
+      "waterford",
+      "loganlea"
+    ]
+  },
+  "loganlea": {
+    "adjacent_suburbs": [
+      "bethania",
+      "kingston",
+      "meadowbrook",
+      "waterford",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "marsden",
+      "tanah-merah",
+      "slacks-creek"
+    ]
+  },
+  "lyons": {
+    "adjacent_suburbs": [
+      "greenbank",
+      "monarch-glen",
+      "new-beith",
+      "peak-crossing",
+      "silverbark-ridge",
+      "south-ripley",
+      "undullah"
+    ],
+    "nearest_nonsiblings": [
+      "flinders-lakes",
+      "kagaru",
+      "flagstone"
+    ]
+  },
+  "marsden": {
+    "adjacent_suburbs": [
+      "berrinba",
+      "crestmead",
+      "kingston",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "loganlea",
+      "logan-central",
+      "heritage-park"
+    ]
+  },
+  "munruben": {
+    "adjacent_suburbs": [
+      "chambers-flat",
+      "greenbank",
+      "north-maclean",
+      "park-ridge-south",
+      "stockleigh"
+    ],
+    "nearest_nonsiblings": [
+      "park-ridge",
+      "boronia-heights",
+      "south-maclean"
+    ]
+  },
+  "meadowbrook": {
+    "adjacent_suburbs": [
+      "bethania",
+      "kingston",
+      "loganlea",
+      "slacks-creek",
+      "tanah-merah"
+    ],
+    "nearest_nonsiblings": [
+      "shailer-park",
+      "waterford-west",
+      "daisy-hill"
+    ]
+  },
+  "mundoolun": {
+    "adjacent_suburbs": [
+      "cedar-vale",
+      "jimboomba",
+      "tamborine"
+    ],
+    "nearest_nonsiblings": [
+      "veresdale-scrub",
+      "veresdale",
+      "yarrabilba"
+    ]
+  },
+  "veresdale-scrub": {
+    "adjacent_suburbs": [
+      "cedar-vale",
+      "veresdale",
+      "woodhill"
+    ],
+    "nearest_nonsiblings": [
+      "cedar-grove",
+      "mundoolun",
+      "glenlogan"
+    ]
+  },
+  "woodhill": {
+    "adjacent_suburbs": [
+      "cedar-grove",
+      "cedar-vale",
+      "veresdale",
+      "veresdale-scrub"
+    ],
+    "nearest_nonsiblings": [
+      "riverbend",
+      "glenlogan",
+      "kagaru"
+    ]
+  },
+  "woodridge": {
+    "adjacent_suburbs": [
+      "karawatha",
+      "kuraby",
+      "logan-central",
+      "slacks-creek",
+      "underwood"
+    ],
+    "nearest_nonsiblings": [
+      "springwood",
+      "kingston",
+      "rochedale-south"
+    ]
+  },
+  "regents-park": {
+    "adjacent_suburbs": [
+      "boronia-heights",
+      "browns-plains",
+      "heritage-park",
+      "hillcrest",
+      "park-ridge"
+    ],
+    "nearest_nonsiblings": [
+      "forestdale",
+      "berrinba",
+      "crestmead"
+    ]
+  },
+  "wolffdene": {
+    "adjacent_suburbs": [
+      "bannockburn",
+      "belivah",
+      "buccan",
+      "cedar-creek",
+      "logan-village"
+    ],
+    "nearest_nonsiblings": [
+      "windaroo",
+      "bahrs-scrub",
+      "mount-warren-park"
+    ]
+  },
+  "waterford-west": {
+    "adjacent_suburbs": [
+      "crestmead",
+      "kingston",
+      "logan-reserve",
+      "loganlea",
+      "marsden",
+      "waterford"
+    ],
+    "nearest_nonsiblings": [
+      "bethania",
+      "meadowbrook",
+      "edens-landing"
+    ]
+  },
+  "waterford": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "bethania",
+      "buccan",
+      "edens-landing",
+      "holmview",
+      "logan-reserve",
+      "loganlea",
+      "waterford-west"
+    ],
+    "nearest_nonsiblings": [
+      "tanah-merah",
+      "meadowbrook",
+      "beenleigh"
+    ]
+  },
+  "veresdale": {
+    "adjacent_suburbs": [
+      "veresdale-scrub",
+      "woodhill"
+    ],
+    "nearest_nonsiblings": [
+      "cedar-vale",
+      "cedar-grove",
+      "glenlogan"
+    ]
+  },
+  "yarrabilba": {
+    "adjacent_suburbs": [
+      "cedar-creek",
+      "logan-village",
+      "tamborine"
+    ],
+    "nearest_nonsiblings": [
+      "wolffdene",
+      "jimboomba",
+      "stockleigh"
+    ]
+  },
+  "windaroo": {
+    "adjacent_suburbs": [
+      "bahrs-scrub",
+      "bannockburn",
+      "mount-warren-park"
+    ],
+    "nearest_nonsiblings": [
+      "belivah",
+      "beenleigh",
+      "holmview"
+    ]
+  },
+  "silverbark-ridge": {
+    "adjacent_suburbs": [
+      "flagstone",
+      "lyons",
+      "monarch-glen",
+      "new-beith"
+    ],
+    "nearest_nonsiblings": [
+      "flinders-lakes",
+      "kagaru",
+      "riverbend"
+    ]
+  },
+  "slacks-creek": {
+    "adjacent_suburbs": [
+      "daisy-hill",
+      "kingston",
+      "logan-central",
+      "meadowbrook",
+      "shailer-park",
+      "springwood",
+      "tanah-merah",
+      "underwood",
+      "woodridge"
+    ],
+    "nearest_nonsiblings": [
+      "loganlea",
+      "rochedale-south",
+      "priestdale"
+    ]
+  },
+  "riverbend": {
+    "adjacent_suburbs": [
+      "cedar-grove",
+      "flagstone",
+      "glenlogan",
+      "jimboomba",
+      "kagaru",
+      "south-maclean"
+    ],
+    "nearest_nonsiblings": [
+      "monarch-glen",
+      "silverbark-ridge",
+      "woodhill"
+    ]
+  },
+  "priestdale": {
+    "adjacent_suburbs": [
+      "burbank",
+      "daisy-hill",
+      "rochedale-south",
+      "springwood"
+    ],
+    "nearest_nonsiblings": [
+      "slacks-creek",
+      "shailer-park",
+      "underwood"
+    ]
+  },
+  "park-ridge-south": {
+    "adjacent_suburbs": [
+      "chambers-flat",
+      "greenbank",
+      "munruben",
+      "park-ridge"
+    ],
+    "nearest_nonsiblings": [
+      "boronia-heights",
+      "heritage-park",
+      "regents-park"
+    ]
+  },
+  "park-ridge": {
+    "adjacent_suburbs": [
+      "boronia-heights",
+      "chambers-flat",
+      "greenbank",
+      "heritage-park",
+      "logan-reserve",
+      "park-ridge-south",
+      "regents-park"
+    ],
+    "nearest_nonsiblings": [
+      "crestmead",
+      "browns-plains",
+      "marsden"
+    ]
+  },
+  "shailer-park": {
+    "adjacent_suburbs": [
+      "cornubia",
+      "daisy-hill",
+      "loganholme",
+      "slacks-creek",
+      "tanah-merah"
+    ],
+    "nearest_nonsiblings": [
+      "meadowbrook",
+      "bethania",
+      "priestdale"
+    ]
+  },
+  "rochedale-south": {
+    "adjacent_suburbs": [
+      "priestdale",
+      "rochedale",
+      "springwood",
+      "underwood"
+    ],
+    "nearest_nonsiblings": [
+      "woodridge",
+      "daisy-hill",
+      "slacks-creek"
+    ]
+  },
+  "stockleigh": {
+    "adjacent_suburbs": [
+      "chambers-flat",
+      "jimboomba",
+      "logan-village",
+      "munruben",
+      "north-maclean",
+      "south-maclean"
+    ],
+    "nearest_nonsiblings": [
+      "park-ridge-south",
+      "park-ridge",
+      "logan-reserve"
+    ]
+  },
+  "tanah-merah": {
+    "adjacent_suburbs": [
+      "bethania",
+      "loganholme",
+      "meadowbrook",
+      "shailer-park",
+      "slacks-creek"
+    ],
+    "nearest_nonsiblings": [
+      "edens-landing",
+      "loganlea",
+      "cornubia"
+    ]
+  },
+  "springwood": {
+    "adjacent_suburbs": [
+      "daisy-hill",
+      "priestdale",
+      "rochedale-south",
+      "slacks-creek",
+      "underwood"
+    ],
+    "nearest_nonsiblings": [
+      "woodridge",
+      "logan-central",
+      "meadowbrook"
+    ]
+  }
+}

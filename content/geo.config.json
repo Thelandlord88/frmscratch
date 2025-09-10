@@ -1,0 +1,24 @@
+{
+  "nearby": {
+    "limit": 6,
+    "adjacencyBoost": 24,
+    "clusterBoost": 200,
+    "biasKm": 12,
+    "distanceWeight": 1,
+    "onlyCovered": true,
+    "crossClusterMode": "penalize",
+    "crossClusterPenalty": 200
+  },
+  "services": {
+    "bond-cleaning": { "limit": 6 },
+    "house-cleaning": { "limit": 6 },
+    "end-of-lease-cleaning": { "limit": 6 }
+  },
+  "crossCluster": {
+    "whitelistEdges": [
+      { "from": "camira", "to": "springfield" },
+      { "from": "springfield-lakes", "to": "brookwater" }
+    ],
+    "blacklistEdges": []
+  }
+}

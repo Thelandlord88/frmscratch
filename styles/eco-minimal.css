@@ -1,0 +1,190 @@
+/* ===========================================================================
+  ECO THEME (Rebuilt) – Scandinavian Minimal Minimalism
+  Layered, tokenized, componentized. All styles scoped under .eco-theme.
+  =========================================================================== */
+
+/* ---------------------------------------------------------------------------
+  TOKENS (@layer theme)
+  --------------------------------------------------------------------------- */
+@layer theme {
+  .eco-theme {
+      /* Palette */
+      --eco-color-accent: #7d8471;      /* sage */
+      --eco-color-accent-rgb: 125 132 113;
+      --eco-color-accent-alt: #1a2520;  /* forest for hover */
+      --eco-color-bg: #f8f6f3;          /* sand */
+      --eco-color-bg-alt: #faf9f7;      /* linen */
+      --eco-color-surface: #faf9f7;     /* card surface */
+      --eco-color-surface-alt: #f1f6f1; /* mint subtle */
+      --eco-color-border: #ddd5cc;      /* clay */
+      --eco-color-border-strong: #cfc6bc;
+      --eco-color-text: #2f2f2f;        /* charcoal */
+      --eco-color-text-muted: #4d4d4d;
+      --eco-color-heading: #1a2520;     /* forest */
+      --eco-color-shadow: 45 58 47;     /* for rgba composition */
+
+      /* Typography */
+      --eco-font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+      --eco-font-serif: 'Crimson Text', Georgia, serif;
+
+      /* Sizing & Rhythm */
+      --eco-container: 72rem;
+      --eco-measure: 45rem; /* comfortable reading */
+
+      /* Spacing scale (t-shirt sizes) */
+      --space-1: 0.25rem;
+      --space-2: 0.5rem;
+      --space-3: 0.75rem;
+      --space-4: 1rem;
+      --space-5: 1.25rem;
+      --space-6: 1.5rem;
+      --space-8: 2rem;
+      --space-10: 2.5rem;
+      --space-12: 3rem;
+      --space-16: 4rem;
+      --space-20: 5rem;
+      --space-24: 6rem;
+      --space-32: 8rem;
+
+      /* Radii */
+      --eco-radius-none: 0;
+      --eco-radius-sm: 2px;
+      --eco-radius-md: 4px;
+
+      /* Elevation */
+      --eco-shadow-sm: 0 2px 6px rgba(var(--eco-color-shadow)/0.08);
+      --eco-shadow-md: 0 4px 14px rgba(var(--eco-color-shadow)/0.14);
+
+      /* Motion */
+      --eco-duration-fast: 120ms;
+      --eco-duration: 240ms;
+      --eco-ease: cubic-bezier(.4,.28,.25,1);
+
+    /* Semantic Aliases (for future cross-theme convergence) */
+    --color-accent: var(--eco-color-accent);
+    --color-accent-hover: var(--eco-color-accent-alt);
+    --color-bg-page: var(--eco-color-bg);
+    --color-bg-surface: var(--eco-color-surface);
+    --color-border: var(--eco-color-border);
+    --color-text: var(--eco-color-text);
+    --color-text-muted: var(--eco-color-text-muted);
+    --color-heading: var(--eco-color-heading);
+  }
+}
+
+/* Base – structural defaults */
+@layer base {
+  .eco-theme {
+      font-family: var(--eco-font-sans);
+      font-weight: 300;
+      letter-spacing: .01em;
+      background: linear-gradient(180deg,#ffffff 0%,var(--eco-color-bg) 100%);
+      color: var(--eco-color-text);
+      line-height: 1.65;
+  }
+  .eco-theme ::selection { background: rgba(var(--eco-color-accent-rgb)/0.25); color: var(--eco-color-heading); }
+  .eco-theme a { color: var(--eco-color-accent-alt); text-decoration: none; }
+  .eco-theme a:hover { text-decoration: underline; }
+}
+
+  /* Typography scale */
+@layer components {
+  .eco-theme h1, .eco-theme h2, .eco-theme h3 { font-family: var(--eco-font-serif); color: var(--eco-color-heading); font-weight: 400; letter-spacing: -0.02em; }
+  .eco-theme h1 { font-size: clamp(2.5rem,6vw,5rem); line-height: 1.05; margin: 0 0 var(--space-16); text-align: center; }
+  .eco-theme h2 { font-size: clamp(1.85rem,4vw,3rem); line-height: 1.15; margin: var(--space-24) 0 var(--space-10); }
+  .eco-theme h3 { font-size: 1.5rem; line-height: 1.3; margin: var(--space-16) 0 var(--space-6); font-weight: 600; }
+  .eco-theme p { margin: 0 0 var(--space-6); max-width: var(--eco-measure); }
+  .eco-theme p:last-child { margin-bottom: 0; }
+  .eco-theme ul { margin: 0 0 var(--space-8); padding: 0 0 0 var(--space-6); }
+  .eco-theme li { margin-bottom: var(--space-3); }
+}
+
+  /* Layout / containers */
+@layer components {
+  .eco-main { padding-block: clamp(var(--space-16),10vh,var(--space-32)); }
+  .eco-content { max-width: var(--eco-measure); margin-inline: auto; padding-inline: var(--space-6); }
+  .eco-section { margin-bottom: var(--space-32); }
+  .eco-section + .eco-section { border-top: 1px solid var(--eco-color-border); padding-top: var(--space-32); }
+  @media (max-width: 48rem) {
+    .eco-section { margin-bottom: var(--space-24); }
+    .eco-section + .eco-section { padding-top: var(--space-24); }
+  }
+}
+
+  /* Hero */
+@layer components {
+  .eco-hero { text-align: center; padding: clamp(var(--space-24),20vh,var(--space-32)) var(--space-6) var(--space-24); background: linear-gradient(180deg,#ffffff 0%,var(--eco-color-bg) 100%); }
+  .eco-hero-subtitle { font-size: .85rem; letter-spacing: .15em; text-transform: uppercase; color: var(--eco-color-accent); margin-bottom: var(--space-4); font-weight: 500; }
+  .eco-hero-description { font-size: clamp(1.1rem,1.8vw,1.35rem); line-height: 1.9; margin: 0 auto var(--space-16); font-weight: 300; }
+}
+
+  /* Cards */
+@layer components {
+  .eco-card { background: var(--eco-color-surface); border: 1px solid var(--eco-color-border); padding: var(--space-16) var(--space-12); margin: var(--space-16) 0; box-shadow: var(--eco-shadow-sm); transition: background var(--eco-duration) var(--eco-ease), transform var(--eco-duration) var(--eco-ease), box-shadow var(--eco-duration) var(--eco-ease); }
+  .eco-card:hover { background: var(--eco-color-surface-alt); transform: translateY(-3px); box-shadow: var(--eco-shadow-md); }
+  @media (max-width:48rem) { .eco-card { padding: var(--space-10) var(--space-8); margin: var(--space-12) 0; } }
+}
+
+  /* Buttons */
+@layer components {
+  .eco-btn { --_bg: var(--eco-color-accent); display: inline-flex; align-items: center; gap: .75rem; background: var(--_bg); color: #fff; padding: var(--space-4) var(--space-10); font: 500 .95rem/1 var(--eco-font-sans); letter-spacing: .03em; text-decoration: none; border: 1px solid var(--_bg); border-radius: var(--eco-radius-none); transition: background var(--eco-duration-fast) var(--eco-ease), transform var(--eco-duration-fast) var(--eco-ease), box-shadow var(--eco-duration-fast) var(--eco-ease); text-transform: lowercase; }
+  .eco-btn:hover { background: var(--eco-color-accent-alt); box-shadow: 0 3px 10px rgba(var(--eco-color-shadow)/0.22); transform: translateY(-2px); }
+  .eco-btn:focus-visible { outline: 2px solid var(--eco-color-accent); outline-offset: 2px; }
+  .eco-btn-secondary { background: transparent; color: var(--eco-color-accent); border-color: var(--eco-color-accent); }
+  .eco-btn-secondary:hover { background: var(--eco-color-accent); color:#fff; }
+}
+
+  /* CTA Block */
+@layer components {
+  .eco-cta { background: var(--eco-color-surface-alt); border: 1px solid var(--eco-color-border); text-align: center; padding: var(--space-24) var(--space-12); margin: var(--space-32) 0; }
+  .eco-cta h2 { margin: 0 0 var(--space-8); font-size: clamp(1.6rem,3vw,2rem); }
+  .eco-cta p { margin: 0 auto var(--space-12); font-size: 1.05rem; }
+  .eco-cta-row { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-4); }
+  @media (max-width:48rem){ .eco-cta { padding: var(--space-16) var(--space-8); margin: var(--space-24) 0; } }
+}
+
+  /* FAQ */
+@layer components {
+  .eco-faq { margin-top: var(--space-16); }
+  .eco-faq-item { border: 0; border-bottom: 1px solid var(--eco-color-border); padding: var(--space-8) 0; margin: 0; background: transparent; }
+  .eco-faq-item summary { list-style: none; cursor: pointer; display: flex; align-items: flex-start; justify-content: space-between; font-family: var(--eco-font-serif); font-size: 1.125rem; font-weight: 600; padding-right: var(--space-4); color: var(--eco-color-heading); }
+  .eco-faq-item summary::-webkit-details-marker { display: none; }
+  .eco-faq-item summary::after { content: '+'; font-size: 1.5rem; color: var(--eco-color-accent); transition: transform var(--eco-duration-fast) var(--eco-ease), color var(--eco-duration-fast) var(--eco-ease); margin-left: var(--space-4); }
+  .eco-faq-item[open] summary::after { content: '−'; }
+  .eco-faq-item[open] summary { color: var(--eco-color-accent-alt); }
+  .eco-faq-item .faq-answer { padding-top: var(--space-6); line-height: 1.7; color: var(--eco-color-text); }
+  .eco-faq-item .faq-answer p { margin-bottom: var(--space-6); }
+}
+
+  /* Lists inside eco-specific content blocks */
+@layer components {
+  .eco-content-block { padding: var(--space-16) 0; }
+  .eco-content-block p { font-size: 1.05rem; }
+  .eco-content-block ul { list-style: none; padding: 0; margin: var(--space-8) 0; }
+  .eco-content-block li { position: relative; padding-left: var(--space-6); margin-bottom: var(--space-4); line-height: 1.6; }
+  .eco-content-block li::before { content: '•'; position: absolute; left: 0; top: 0; color: var(--eco-color-accent); font-size: 1.05rem; }
+}
+
+  /* Animation */
+@layer components {
+  @media (prefers-reduced-motion:no-preference) {
+    .eco-card, .eco-cta, .eco-content-block, .eco-faq-item { animation: eco-fade-in .6s var(--eco-ease) both; }
+  }
+  @keyframes eco-fade-in { from { opacity:0; transform: translateY(18px); } to { opacity:1; transform: translateY(0); } }
+}
+
+  /* Utilities */
+@layer utilities {
+  .eco-muted { color: var(--eco-color-text-muted); }
+  .eco-accent { color: var(--eco-color-accent); }
+}
+
+  /* Print */
+@media print {
+  .eco-theme { background:#fff !important; color:#000; }
+  .eco-hero, .eco-cta { background:#fff !important; padding: var(--space-12) var(--space-6); }
+  .eco-btn { display:none !important; }
+  .eco-card { box-shadow:none !important; border:1px solid #999; break-inside: avoid; }
+}
+
+/* End of rebuilt eco theme */

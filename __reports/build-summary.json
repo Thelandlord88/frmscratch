@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-09-05T03:47:44.284Z",
+  "coverage": {
+    "totalPairs": 199,
+    "generatedPages": 203,
+    "coveragePercent": 102
+  },
+  "css": {
+    "totalKB": 112.7
+  },
+  "pages": {
+    "total": 614
+  }
+}

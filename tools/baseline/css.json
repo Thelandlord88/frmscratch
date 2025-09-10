@@ -1,0 +1,41 @@
+{
+  "createdAt": "2025-09-08T01:34:52.677Z",
+  "totalBytes": 124666,
+  "files": [
+    {
+      "namePattern": "_slug_.78Y4Y1_o.css",
+      "bytes": 91384,
+      "sha256": "8f91e3480a9b2e049761575356251e6c6d8e5ef2bbaa2b96725a5c9b51626608"
+    },
+    {
+      "namePattern": "_slug_*.css",
+      "bytes": 7603,
+      "sha256": "f4a30bfbb02ba53582337a2b689c288be12843d31c7922a40c2764e226137f95"
+    },
+    {
+      "namePattern": "index*.css",
+      "bytes": 2754,
+      "sha256": "d7335d07cbf3136e4e35638798f1a89df600510d9db282f52a2536d001a7ae7b"
+    },
+    {
+      "namePattern": "index*.css",
+      "bytes": 500,
+      "sha256": "04edb62177ddb179a4598b0f9bf5c8bd31289ce8150e3db7ad09327dd1941d18"
+    },
+    {
+      "namePattern": "index*.css",
+      "bytes": 20713,
+      "sha256": "b27099387c9c3a17d6f74db738c999e5a76d71b3629d5d6c9c01f20f8a1cc684"
+    },
+    {
+      "namePattern": "quote*.css",
+      "bytes": 1015,
+      "sha256": "cbe99cd5641d0faa928a4b5715adc774a753e39e84ad0f42cf47b77ba3c174c1"
+    },
+    {
+      "namePattern": "quote*.css",
+      "bytes": 697,
+      "sha256": "dac6227004a01ef8b2bc54ac65f77cc6e348840d1bf176aca81da779978fc23b"
+    }
+  ]
+}

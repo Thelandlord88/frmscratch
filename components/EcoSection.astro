@@ -1,0 +1,65 @@
+---
+interface Props {
+  title?: string;
+  subtitle?: string;
+  description?: string;
+  benefits?: string[];
+  cta?: {
+    text: string;
+    href: string;
+    secondary?: boolean;
+  };
+  className?: string;
+}
+
+const {
+  title,
+  subtitle,
+  description,
+  benefits = [],
+  cta,
+  className = ""
+} = Astro.props;
+---
+
+<section class={`eco-content-block ${className}`}>
+  <div class="eco-content">
+    {subtitle && (
+      <p class="eco-hero-subtitle">{subtitle}</p>
+    )}
+    
+    {title && (
+      <h2>{title}</h2>
+    )}
+    
+    {description && (
+      <p class="eco-hero-description">{description}</p>
+    )}
+    
+    {benefits.length > 0 && (
+      <div class="eco-card">
+        <ul>
+          {benefits.map(benefit => (
+            <li>{benefit}</li>
+          ))}
+        </ul>
+      </div>
+    )}
+    
+    {cta && (
+      <div style="text-align: center; margin-top: 3rem;">
+        <a 
+          href={cta.href} 
+          class={`eco-btn ${cta.secondary ? 'eco-btn-secondary' : ''}`}
+        >
+          {cta.text}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M7 17l9.2-9.2M17 17V7H7"/>
+          </svg>
+        </a>
+      </div>
+    )}
+    
+    <slot />
+  </div>
+</section>

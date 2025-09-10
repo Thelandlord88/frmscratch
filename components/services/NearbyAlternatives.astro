@@ -1,0 +1,48 @@
+---
+import { SERVICES, CROSS_SERVICES_FOR, type ServiceSlug } from '~/utils/services';
+import { getServiceLink } from '~/utils/internalLinks';
+import { findSuburbBySlug, isCovered } from '~/lib/clusters';
+import { findNearbySuburbs as rankNearby } from '~/lib/geo/proximity';
+
+interface Props { currentService: ServiceSlug; suburbSlug: string; title?: string; perService?: number; }
+const { currentService, suburbSlug, title = 'Nearby options you may consider', perService = 1 } = Astro.props as Props;
+
+const src = findSuburbBySlug(suburbSlug);
+const cross = CROSS_SERVICES_FOR[currentService];
+
+const blocks = cross.map(svc => {
+  const nearest = rankNearby(suburbSlug, { service: svc })
+    .filter(s => isCovered(svc, s.slug) && s.slug !== suburbSlug)
+    .slice(0, perService);
+  return { service: SERVICES[svc], near: nearest.map(n => ({ suburb: n, href: getServiceLink(svc, n.slug) })) };
+}).filter(b => b.near.length > 0);
+---
+{blocks.length > 0 && (
+<section aria-labelledby="nearby-alt-heading" class="mt-10">
+  <h2 id="nearby-alt-heading" class="text-2xl font-bold text-slate-900 mb-4">{title}</h2>
+  <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+    {blocks.map(block => (
+      <article class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm hover:shadow-md transition-shadow duration-200">
+        <h3 class="text-lg font-semibold text-slate-900 mb-3">
+          {block.service.label} near {src?.name || suburbSlug}
+        </h3>
+        <ul class="space-y-2">
+          {block.near.map(nearby => (
+            <li>
+              <a 
+                href={nearby.href} 
+                class="inline-flex items-center text-sky-600 hover:text-sky-700 font-medium transition-colors hover:underline"
+              >
+                {block.service.label} in {nearby.suburb.name}
+                <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                </svg>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </article>
+    ))}
+  </div>
+</section>
+)}

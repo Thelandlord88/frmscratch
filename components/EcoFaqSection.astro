@@ -1,0 +1,122 @@
+<!-- Deprecated: Replaced by ThemedFaqSection. Left intentionally blank to avoid import resolution errors in historical branches. -->
+---
+import type { FaqItem } from "~/lib/faq-types";
+import { sanitizeFaqHtml } from "~/lib/sanitize";
+
+const {
+  items = [],
+  heading = "Natural cleaning questions",
+  id = "eco-faq",
+  className = "",
+  includeJsonLd = true
+} = Astro.props;
+
+const safeItems = items.map(it => ({
+  q: (it.q || "").trim().replace(/\s+/g, " "),
+  a: sanitizeFaqHtml(it.a || "")
+}));
+
+const jsonLd = includeJsonLd
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: safeItems.map((it) => ({
+        "@type": "Question",
+        name: it.q,
+        acceptedAnswer: { "@type": "Answer", text: it.a }
+      }))
+    }
+  : null;
+---
+
+<section class={`eco-section eco-faq ${className}`}>
+  <div class="eco-content">
+    <h2>{heading}</h2>
+    
+    {safeItems.length ? (
+      <div class="space-y-0">
+        {safeItems.map((item, idx) => {
+          const qId = `${id}-q-${idx}`;
+          const aId = `${id}-a-${idx}`;
+          return (
+            <details class="eco-faq-item">
+              <summary id={qId} aria-controls={aId}>
+                <span>{item.q}</span>
+              </summary>
+              <div id={aId} role="region" aria-labelledby={qId} class="faq-answer">
+                <div set:html={item.a} />
+              </div>
+            </details>
+          );
+        })}
+      </div>
+    ) : (
+      <div class="eco-card text-center">
+        <p style="margin-bottom: 1rem;">Have questions about eco-friendly cleaning?</p>
+        <a href="/contact" class="eco-btn eco-btn-secondary">
+          get in touch
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M7 17l9.2-9.2M17 17V7H7"/>
+          </svg>
+        </a>
+      </div>
+    )}
+  </div>
+  
+  {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+</section>
+
+<style>
+  /* Component-specific styles */
+  .eco-faq-item {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--eco-clay);
+    border-radius: 0;
+    margin-bottom: 2rem;
+    padding: 2rem 0;
+  }
+
+  .eco-faq-item summary {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--eco-forest);
+    padding: 0;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .eco-faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .eco-faq-item summary::after {
+    content: '+';
+    font-size: 1.5rem;
+    color: var(--eco-sage);
+    transition: transform 0.2s ease;
+  }
+
+  .eco-faq-item[open] summary::after {
+    content: '−';
+    transform: rotate(0deg);
+  }
+
+  .faq-answer {
+    padding-top: 2rem;
+    color: var(--eco-charcoal);
+    line-height: 1.7;
+  }
+
+  .faq-answer p {
+    margin-bottom: 1.5rem;
+  }
+
+  .faq-answer p:last-child {
+    margin-bottom: 0;
+  }
+</style>

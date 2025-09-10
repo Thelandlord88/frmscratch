@@ -1,0 +1,5 @@
+{
+  "bond-cleaning": { "seeds": ["rosewood","walloon","thagoona","ebenezer","oxley"], "radiusKm": 18 },
+  "house-cleaning": { "seeds": ["oxley","rosewood"], "radiusKm": 12 },
+  "end-of-lease-cleaning": { "seeds": ["rosewood","ebenezer"], "radiusKm": 20 }
+}

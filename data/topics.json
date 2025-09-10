@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "bond-cleaning-checklist",
+    "title": "Bond Cleaning Checklist – Ipswich Region",
+    "description": "Step-by-step checklist that Ipswich tenants use to guarantee their bond back.",
+  "featuredImage": "/og.jpg",
+    "category": "checklist",
+    "faq": [
+  { "question": "What is included?", "answer": "Kitchen (incl. oven/rangehood), bathrooms, bedrooms/living (walls, fans, windows/tracks), laundry, outdoors, and a final detail pass." },
+  { "question": "How long does it take?", "answer": "3–6 hours for a unit/small house; larger or heavily lived‑in homes take longer." },
+  { "question": "Do you guarantee bond return?", "answer": "Yes—our bond‑back service includes re‑clean support aligned to agent feedback." }
+    ]
+  },
+  {
+    "slug": "what-agents-want",
+    "title": "What Real Estate Agents Want",
+    "description": "Learn what local agents expect for a successful bond clean.",
+    "category": "local",
+    "faq": [
+      { "question": "What do agents look for?", "answer": "Oven interiors, bathrooms/grout, glass and window tracks, walls/spot marks, fans, and floors/carpets." },
+      { "question": "How do I pass first time?", "answer": "Work top‑to‑bottom with a final daylight detail check and keep receipts/photos for proof." }
+    ]
+  },
+  {
+    "slug": "eco-bond-cleaning",
+    "title": "Eco-Friendly Bond Cleaning",
+    "description": "How to get your bond back using eco-friendly cleaning methods.",
+    "category": "usp",
+    "theme": "eco-minimal",
+    "hero": {
+      "kicker": "sustainable cleaning",
+      "altTitle": "Natural Bond Cleaning"
+    },
+    "sections": [
+      {
+        "type": "eco-benefits",
+        "subtitle": "why choose natural?",
+        "title": "Better for everyone",
+        "benefits": [
+          "Non-toxic ingredients safe for children and pets",
+          "Biodegradable formulas that protect waterways",
+          "Reduced chemical residues in your living space",
+          "Often more cost-effective than commercial products",
+          "Meets property management cleaning standards"
+        ],
+        "cta": { "text": "get an eco-clean quote", "href": "/quote" }
+      },
+      {
+        "type": "eco-toolkit",
+        "title": "Natural cleaning toolkit",
+        "blocks": [
+          { "title": "Kitchen & appliances", "body": "Citrus-based degreasers break down oven grime without harsh fumes. Vinegar solutions tackle mineral deposits on taps and glass. Baking soda paste lifts stubborn stains from surfaces." },
+          { "title": "Bathrooms & tiles", "body": "Hydrogen peroxide naturally bleaches grout and eliminates mold. Essential oil cleaners leave fresh scents while disinfecting. Steam cleaning sanitizes without chemicals." },
+          { "title": "Floors & carpets", "body": "Plant-based soap solutions clean all floor types. Natural enzyme cleaners remove organic stains. Steam extraction deep-cleans carpets using just water." }
+        ]
+      },
+      {
+        "type": "eco-service-cta",
+        "title": "Professional eco-cleaning service",
+        "body": "Our trained team combines natural cleaning methods with professional techniques. We bring all eco-friendly supplies and guarantee results that satisfy property managers.",
+        "primary": { "text": "book eco-friendly clean", "href": "/quote" },
+        "secondary": { "text": "ask about methods", "href": "/contact" }
+      },
+      { "type": "faq" }
+    ],
+    "faq": [
+      { "question": "Are eco products effective?", "answer": "Yes—citrus‑based degreasers and hydrogen peroxide‑based bathroom cleaners meet standards when used correctly." },
+      { "question": "Where can I use them?", "answer": "Use low‑pH cleaners on glass and high‑pH degreasers on ovens and rangehoods; always spot test." }
+    ]
+  },
+  {
+    "slug": "client-stories",
+    "title": "Client Stories",
+    "description": "Real stories from Ipswich tenants who got their bond back.",
+    "category": "story",
+    "faq": [
+      { "question": "Can I see testimonials?", "answer": "Yes—our case studies show before/after results and agent feedback." }
+    ]
+  },
+  {
+    "slug": "redbank-plains",
+    "title": "Bond Cleaning in Redbank Plains",
+    "description": "Professional bond cleaning for Redbank Plains residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "springfield-lakes",
+    "title": "Bond Cleaning in Springfield Lakes",
+    "description": "Professional bond cleaning for Springfield Lakes residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "brookwater",
+    "title": "Bond Cleaning in Brookwater",
+    "description": "Professional bond cleaning for Brookwater residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "forest-lake",
+    "title": "Bond Cleaning in Forest Lake",
+    "description": "Professional bond cleaning for Forest Lake residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "indooroopilly",
+    "title": "Bond Cleaning in Indooroopilly",
+    "description": "Professional bond cleaning for Indooroopilly residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "kenmore",
+    "title": "Bond Cleaning in Kenmore",
+    "description": "Professional bond cleaning for Kenmore residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "springwood",
+    "title": "Bond Cleaning in Springwood",
+    "description": "Professional bond cleaning for Springwood residents.",
+    "category": "suburb",
+    "faq": []
+  },
+  {
+    "slug": "browns-plains",
+    "title": "Bond Cleaning in Browns Plains",
+    "description": "Professional bond cleaning for Browns Plains residents.",
+    "category": "suburb",
+    "faq": []
+  }
+]

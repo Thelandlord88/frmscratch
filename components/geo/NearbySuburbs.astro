@@ -1,0 +1,36 @@
+---
+import prox from '~/content/_generated/proximity.json';
+import { findSuburbBySlug } from '~/lib/clusters';
+import { getServiceLink } from '~/utils/internalLinks';
+
+interface Props { suburbSlug: string; serviceSlug: string; title?: string; limit?: number; }
+const { suburbSlug, serviceSlug, title = 'Nearby suburbs we cover', limit = 6 } = Astro.props as Props;
+
+const base = (prox as any).nearby?.[suburbSlug] || [];
+const items = base.slice(0, limit).map((s: any, i: number) => ({
+  ...s,
+  position: i + 1,
+  href: getServiceLink(serviceSlug, s.slug)
+}));
+findSuburbBySlug(suburbSlug);
+
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  itemListElement: items.map(it => ({
+    "@type": "ListItem",
+    position: it.position,
+    url: it.href,
+    name: `${serviceSlug.replace('-', ' ')} in ${it.name}`
+  }))
+};
+---
+{items.length > 0 && (
+<section aria-labelledby="nearby-heading" class="mt-8">
+  <h2 id="nearby-heading" class="text-xl font-semibold">{title}</h2>
+  <ul class="mt-3 grid gap-2 sm:grid-cols-2">
+    {items.map(it => (<li><a href={it.href} class="underline hover:no-underline">{it.name}</a></li>))}
+  </ul>
+  <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+</section>
+)}

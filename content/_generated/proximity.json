@@ -1,0 +1,8975 @@
+{
+  "etag": "0724947ea009382aece0b87396e3e10a6bb051a4",
+  "nearby": {
+    "acacia-ridge": [
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "archerfield",
+        "name": "Archerfield"
+      },
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      }
+    ],
+    "albion": [
+      {
+        "slug": "ascot",
+        "name": "Ascot"
+      },
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      }
+    ],
+    "alderley": [
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      }
+    ],
+    "algester": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      }
+    ],
+    "annerley": [
+      {
+        "slug": "fairfield",
+        "name": "Fairfield"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "moorooka",
+        "name": "Moorooka"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "yeerongpilly",
+        "name": "Yeerongpilly"
+      }
+    ],
+    "anstead": [
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "moggill",
+        "name": "Moggill"
+      },
+      {
+        "slug": "mount-crosby",
+        "name": "Mount Crosby"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      }
+    ],
+    "archerfield": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      }
+    ],
+    "ascot": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      },
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      }
+    ],
+    "ashgrove": [
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      }
+    ],
+    "aspley": [
+      {
+        "slug": "bridgeman-downs",
+        "name": "Bridgeman Downs"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      },
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      },
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "mcdowall",
+        "name": "McDowall"
+      }
+    ],
+    "auchenflower": [
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "paddington",
+        "name": "Paddington"
+      },
+      {
+        "slug": "toowong",
+        "name": "Toowong"
+      },
+      {
+        "slug": "west-end",
+        "name": "West End"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      }
+    ],
+    "bald-hills": [
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "bridgeman-downs",
+        "name": "Bridgeman Downs"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      }
+    ],
+    "balmoral": [
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "teneriffe",
+        "name": "Teneriffe"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      }
+    ],
+    "banks-creek": [
+      {
+        "slug": "england-creek",
+        "name": "England Creek"
+      },
+      {
+        "slug": "lake-manchester",
+        "name": "Lake Manchester"
+      },
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "upper-kedron",
+        "name": "Upper Kedron"
+      }
+    ],
+    "banyo": [
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "northgate",
+        "name": "Northgate"
+      },
+      {
+        "slug": "nudgee",
+        "name": "Nudgee"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      }
+    ],
+    "bardon": [
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "paddington",
+        "name": "Paddington"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      }
+    ],
+    "bellbowrie": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "moggill",
+        "name": "Moggill"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      }
+    ],
+    "belmont": [
+      {
+        "slug": "burbank",
+        "name": "Burbank"
+      },
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "chandler",
+        "name": "Chandler"
+      },
+      {
+        "slug": "gumdale",
+        "name": "Gumdale"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      }
+    ],
+    "boondall": [
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "nudgee",
+        "name": "Nudgee"
+      },
+      {
+        "slug": "nudgee-beach",
+        "name": "Nudgee Beach"
+      },
+      {
+        "slug": "sandgate",
+        "name": "Sandgate"
+      }
+    ],
+    "bowen-hills": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "herston",
+        "name": "Herston"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      },
+      {
+        "slug": "windsor",
+        "name": "Windsor"
+      }
+    ],
+    "bracken-ridge": [
+      {
+        "slug": "bald-hills",
+        "name": "Bald Hills"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "sandgate",
+        "name": "Sandgate"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      }
+    ],
+    "bridgeman-downs": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "bald-hills",
+        "name": "Bald Hills"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      },
+      {
+        "slug": "mcdowall",
+        "name": "McDowall"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      }
+    ],
+    "brighton": [
+      {
+        "slug": "bald-hills",
+        "name": "Bald Hills"
+      },
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "sandgate",
+        "name": "Sandgate"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "shorncliffe",
+        "name": "Shorncliffe"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      }
+    ],
+    "brisbane-airport": [
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      },
+      {
+        "slug": "northgate",
+        "name": "Northgate"
+      },
+      {
+        "slug": "nudgee",
+        "name": "Nudgee"
+      },
+      {
+        "slug": "nudgee-beach",
+        "name": "Nudgee Beach"
+      }
+    ],
+    "brisbane-city": [
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "kangaroo-point",
+        "name": "Kangaroo Point"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      }
+    ],
+    "brookfield": [
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "kenmore",
+        "name": "Kenmore"
+      },
+      {
+        "slug": "kenmore-hills",
+        "name": "Kenmore Hills"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      }
+    ],
+    "bulimba": [
+      {
+        "slug": "balmoral",
+        "name": "Balmoral"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      },
+      {
+        "slug": "teneriffe",
+        "name": "Teneriffe"
+      }
+    ],
+    "bulwer": [
+      {
+        "slug": "moreton-island",
+        "name": "Moreton Island"
+      },
+      {
+        "slug": "cowan-cowan",
+        "name": "Cowan Cowan"
+      },
+      {
+        "slug": "kooringal",
+        "name": "Kooringal"
+      },
+      {
+        "slug": "moreton-bay",
+        "name": "Moreton Bay"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      }
+    ],
+    "burbank": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "chandler",
+        "name": "Chandler"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      },
+      {
+        "slug": "rochedale",
+        "name": "Rochedale"
+      },
+      {
+        "slug": "wishart",
+        "name": "Wishart"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      }
+    ],
+    "calamvale": [
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "drewvale",
+        "name": "Drewvale"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      },
+      {
+        "slug": "karawatha",
+        "name": "Karawatha"
+      }
+    ],
+    "camp-hill": [
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "carina-heights",
+        "name": "Carina Heights"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "seven-hills",
+        "name": "Seven Hills"
+      }
+    ],
+    "cannon-hill": [
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "murarrie",
+        "name": "Murarrie"
+      },
+      {
+        "slug": "seven-hills",
+        "name": "Seven Hills"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      }
+    ],
+    "carina": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "cannon-hill",
+        "name": "Cannon Hill"
+      },
+      {
+        "slug": "carina-heights",
+        "name": "Carina Heights"
+      },
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "seven-hills",
+        "name": "Seven Hills"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      }
+    ],
+    "carina-heights": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      }
+    ],
+    "carindale": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "carina-heights",
+        "name": "Carina Heights"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      }
+    ],
+    "carseldine": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "bald-hills",
+        "name": "Bald Hills"
+      },
+      {
+        "slug": "bridgeman-downs",
+        "name": "Bridgeman Downs"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "zillmere",
+        "name": "Zillmere"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      }
+    ],
+    "chandler": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "burbank",
+        "name": "Burbank"
+      },
+      {
+        "slug": "gumdale",
+        "name": "Gumdale"
+      },
+      {
+        "slug": "ransome",
+        "name": "Ransome"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      }
+    ],
+    "chapel-hill": [
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "kenmore",
+        "name": "Kenmore"
+      },
+      {
+        "slug": "kenmore-hills",
+        "name": "Kenmore Hills"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      }
+    ],
+    "chelmer": [
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "sherwood",
+        "name": "Sherwood"
+      },
+      {
+        "slug": "taringa",
+        "name": "Taringa"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      }
+    ],
+    "chermside": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "wavell-heights",
+        "name": "Wavell Heights"
+      },
+      {
+        "slug": "stafford-heights",
+        "name": "Stafford Heights"
+      }
+    ],
+    "chermside-west": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "mcdowall",
+        "name": "McDowall"
+      },
+      {
+        "slug": "stafford-heights",
+        "name": "Stafford Heights"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      }
+    ],
+    "clayfield": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "ascot",
+        "name": "Ascot"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      },
+      {
+        "slug": "kalinga",
+        "name": "Kalinga"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "wooloowin",
+        "name": "Wooloowin"
+      }
+    ],
+    "coopers-plains": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "archerfield",
+        "name": "Archerfield"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "robertson",
+        "name": "Robertson"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      }
+    ],
+    "coorparoo": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "stones-corner",
+        "name": "Stones Corner"
+      }
+    ],
+    "corinda": [
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "sherwood",
+        "name": "Sherwood"
+      },
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "seventeen-mile-rocks",
+        "name": "Seventeen Mile Rocks"
+      }
+    ],
+    "cowan-cowan": [
+      {
+        "slug": "moreton-island",
+        "name": "Moreton Island"
+      },
+      {
+        "slug": "bulwer",
+        "name": "Bulwer"
+      },
+      {
+        "slug": "kooringal",
+        "name": "Kooringal"
+      },
+      {
+        "slug": "moreton-bay",
+        "name": "Moreton Bay"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      }
+    ],
+    "darra": [
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      },
+      {
+        "slug": "seventeen-mile-rocks",
+        "name": "Seventeen Mile Rocks"
+      },
+      {
+        "slug": "sinnamon-park",
+        "name": "Sinnamon Park"
+      },
+      {
+        "slug": "sumner",
+        "name": "Sumner"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      }
+    ],
+    "deagon": [
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "sandgate",
+        "name": "Sandgate"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      },
+      {
+        "slug": "shorncliffe",
+        "name": "Shorncliffe"
+      }
+    ],
+    "doolandella": [
+      {
+        "slug": "durack",
+        "name": "Durack"
+      },
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      },
+      {
+        "slug": "heathwood",
+        "name": "Heathwood"
+      }
+    ],
+    "drewvale": [
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "karawatha",
+        "name": "Karawatha"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      },
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "larapinta",
+        "name": "Larapinta"
+      }
+    ],
+    "durack": [
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      },
+      {
+        "slug": "archerfield",
+        "name": "Archerfield"
+      }
+    ],
+    "dutton-park": [
+      {
+        "slug": "fairfield",
+        "name": "Fairfield"
+      },
+      {
+        "slug": "highgate-hill",
+        "name": "Highgate Hill"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      }
+    ],
+    "eagle-farm": [
+      {
+        "slug": "ascot",
+        "name": "Ascot"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      },
+      {
+        "slug": "murarrie",
+        "name": "Murarrie"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      }
+    ],
+    "east-brisbane": [
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "kangaroo-point",
+        "name": "Kangaroo Point"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "stones-corner",
+        "name": "Stones Corner"
+      }
+    ],
+    "eight-mile-plains": [
+      {
+        "slug": "kuraby",
+        "name": "Kuraby"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "rochedale",
+        "name": "Rochedale"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      }
+    ],
+    "ellen-grove": [
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      }
+    ],
+    "england-creek": [
+      {
+        "slug": "banks-creek",
+        "name": "Banks Creek"
+      },
+      {
+        "slug": "lake-manchester",
+        "name": "Lake Manchester"
+      },
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "upper-kedron",
+        "name": "Upper Kedron"
+      }
+    ],
+    "enoggera": [
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "gaythorne",
+        "name": "Gaythorne"
+      },
+      {
+        "slug": "keperra",
+        "name": "Keperra"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      }
+    ],
+    "enoggera-reservoir": [
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "lake-manchester",
+        "name": "Lake Manchester"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "upper-kedron",
+        "name": "Upper Kedron"
+      },
+      {
+        "slug": "ferny-grove",
+        "name": "Ferny Grove"
+      }
+    ],
+    "everton-park": [
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "gaythorne",
+        "name": "Gaythorne"
+      },
+      {
+        "slug": "mcdowall",
+        "name": "McDowall"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "stafford-heights",
+        "name": "Stafford Heights"
+      }
+    ],
+    "fairfield": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "yeronga",
+        "name": "Yeronga"
+      },
+      {
+        "slug": "highgate-hill",
+        "name": "Highgate Hill"
+      }
+    ],
+    "ferny-grove": [
+      {
+        "slug": "keperra",
+        "name": "Keperra"
+      },
+      {
+        "slug": "upper-kedron",
+        "name": "Upper Kedron"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "gaythorne",
+        "name": "Gaythorne"
+      }
+    ],
+    "fig-tree-pocket": [
+      {
+        "slug": "chapel-hill",
+        "name": "Chapel Hill"
+      },
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      },
+      {
+        "slug": "corinda",
+        "name": "Corinda"
+      },
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      }
+    ],
+    "fitzgibbon": [
+      {
+        "slug": "bald-hills",
+        "name": "Bald Hills"
+      },
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      },
+      {
+        "slug": "zillmere",
+        "name": "Zillmere"
+      }
+    ],
+    "forest-lake": [
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "ellen-grove",
+        "name": "Ellen Grove"
+      },
+      {
+        "slug": "heathwood",
+        "name": "Heathwood"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      }
+    ],
+    "fortitude-valley": [
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "kangaroo-point",
+        "name": "Kangaroo Point"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      }
+    ],
+    "gaythorne": [
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      },
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      }
+    ],
+    "geebung": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      },
+      {
+        "slug": "wavell-heights",
+        "name": "Wavell Heights"
+      },
+      {
+        "slug": "zillmere",
+        "name": "Zillmere"
+      }
+    ],
+    "gordon-park": [
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "wooloowin",
+        "name": "Wooloowin"
+      },
+      {
+        "slug": "windsor",
+        "name": "Windsor"
+      }
+    ],
+    "graceville": [
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "sherwood",
+        "name": "Sherwood"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      },
+      {
+        "slug": "corinda",
+        "name": "Corinda"
+      }
+    ],
+    "grange": [
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "gordon-park",
+        "name": "Gordon Park"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      }
+    ],
+    "greenslopes": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "holland-park-west",
+        "name": "Holland Park West"
+      },
+      {
+        "slug": "stones-corner",
+        "name": "Stones Corner"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      }
+    ],
+    "gumdale": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "chandler",
+        "name": "Chandler"
+      },
+      {
+        "slug": "ransome",
+        "name": "Ransome"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      }
+    ],
+    "hamilton": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "ascot",
+        "name": "Ascot"
+      },
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      }
+    ],
+    "hawthorne": [
+      {
+        "slug": "balmoral",
+        "name": "Balmoral"
+      },
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "teneriffe",
+        "name": "Teneriffe"
+      }
+    ],
+    "heathwood": [
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "larapinta",
+        "name": "Larapinta"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      }
+    ],
+    "hemmant": [
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "murarrie",
+        "name": "Murarrie"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      }
+    ],
+    "hendra": [
+      {
+        "slug": "ascot",
+        "name": "Ascot"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      }
+    ],
+    "herston": [
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      },
+      {
+        "slug": "windsor",
+        "name": "Windsor"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      }
+    ],
+    "highgate-hill": [
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "west-end",
+        "name": "West End"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      }
+    ],
+    "holland-park": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "carina-heights",
+        "name": "Carina Heights"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "holland-park-west",
+        "name": "Holland Park West"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      }
+    ],
+    "holland-park-west": [
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      }
+    ],
+    "inala": [
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      },
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      },
+      {
+        "slug": "darra",
+        "name": "Darra"
+      }
+    ],
+    "indooroopilly": [
+      {
+        "slug": "chapel-hill",
+        "name": "Chapel Hill"
+      },
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      }
+    ],
+    "jamboree-heights": [
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      },
+      {
+        "slug": "sinnamon-park",
+        "name": "Sinnamon Park"
+      },
+      {
+        "slug": "sumner",
+        "name": "Sumner"
+      },
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      }
+    ],
+    "jindalee": [
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "kenmore",
+        "name": "Kenmore"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "sinnamon-park",
+        "name": "Sinnamon Park"
+      },
+      {
+        "slug": "seventeen-mile-rocks",
+        "name": "Seventeen Mile Rocks"
+      }
+    ],
+    "kalinga": [
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "wavell-heights",
+        "name": "Wavell Heights"
+      },
+      {
+        "slug": "wooloowin",
+        "name": "Wooloowin"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      }
+    ],
+    "kangaroo-point": [
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      }
+    ],
+    "karana-downs": [
+      {
+        "slug": "mount-crosby",
+        "name": "Mount Crosby"
+      },
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      },
+      {
+        "slug": "moggill",
+        "name": "Moggill"
+      }
+    ],
+    "karawatha": [
+      {
+        "slug": "drewvale",
+        "name": "Drewvale"
+      },
+      {
+        "slug": "kuraby",
+        "name": "Kuraby"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      },
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      }
+    ],
+    "kedron": [
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      },
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      },
+      {
+        "slug": "gordon-park",
+        "name": "Gordon Park"
+      },
+      {
+        "slug": "kalinga",
+        "name": "Kalinga"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      }
+    ],
+    "kelvin-grove": [
+      {
+        "slug": "herston",
+        "name": "Herston"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      }
+    ],
+    "kenmore": [
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "chapel-hill",
+        "name": "Chapel Hill"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "kenmore-hills",
+        "name": "Kenmore Hills"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      }
+    ],
+    "kenmore-hills": [
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "chapel-hill",
+        "name": "Chapel Hill"
+      },
+      {
+        "slug": "kenmore",
+        "name": "Kenmore"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      }
+    ],
+    "keperra": [
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "ferny-grove",
+        "name": "Ferny Grove"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      },
+      {
+        "slug": "upper-kedron",
+        "name": "Upper Kedron"
+      },
+      {
+        "slug": "gaythorne",
+        "name": "Gaythorne"
+      }
+    ],
+    "kholo": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "lake-manchester",
+        "name": "Lake Manchester"
+      },
+      {
+        "slug": "mount-crosby",
+        "name": "Mount Crosby"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "karana-downs",
+        "name": "Karana Downs"
+      }
+    ],
+    "kooringal": [
+      {
+        "slug": "moreton-island",
+        "name": "Moreton Island"
+      },
+      {
+        "slug": "moreton-bay",
+        "name": "Moreton Bay"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "cowan-cowan",
+        "name": "Cowan Cowan"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      },
+      {
+        "slug": "lota",
+        "name": "Lota"
+      }
+    ],
+    "kuraby": [
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "karawatha",
+        "name": "Karawatha"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      }
+    ],
+    "lake-manchester": [
+      {
+        "slug": "banks-creek",
+        "name": "Banks Creek"
+      },
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "mount-crosby",
+        "name": "Mount Crosby"
+      },
+      {
+        "slug": "karana-downs",
+        "name": "Karana Downs"
+      }
+    ],
+    "larapinta": [
+      {
+        "slug": "heathwood",
+        "name": "Heathwood"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "parkinson",
+        "name": "Parkinson"
+      },
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      }
+    ],
+    "lota": [
+      {
+        "slug": "manly",
+        "name": "Manly"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "ransome",
+        "name": "Ransome"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      }
+    ],
+    "lutwyche": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "gordon-park",
+        "name": "Gordon Park"
+      },
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "windsor",
+        "name": "Windsor"
+      },
+      {
+        "slug": "wooloowin",
+        "name": "Wooloowin"
+      }
+    ],
+    "lytton": [
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      }
+    ],
+    "macgregor": [
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "robertson",
+        "name": "Robertson"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      }
+    ],
+    "mackenzie": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "burbank",
+        "name": "Burbank"
+      },
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "rochedale",
+        "name": "Rochedale"
+      },
+      {
+        "slug": "wishart",
+        "name": "Wishart"
+      }
+    ],
+    "manly": [
+      {
+        "slug": "lota",
+        "name": "Lota"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      },
+      {
+        "slug": "ransome",
+        "name": "Ransome"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      }
+    ],
+    "manly-west": [
+      {
+        "slug": "lota",
+        "name": "Lota"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      }
+    ],
+    "mansfield": [
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      },
+      {
+        "slug": "rochedale",
+        "name": "Rochedale"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "wishart",
+        "name": "Wishart"
+      }
+    ],
+    "mcdowall": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "bridgeman-downs",
+        "name": "Bridgeman Downs"
+      },
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "stafford-heights",
+        "name": "Stafford Heights"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      }
+    ],
+    "middle-park": [
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      },
+      {
+        "slug": "sumner",
+        "name": "Sumner"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      }
+    ],
+    "milton": [
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      },
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "paddington",
+        "name": "Paddington"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "west-end",
+        "name": "West End"
+      }
+    ],
+    "mitchelton": [
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "gaythorne",
+        "name": "Gaythorne"
+      },
+      {
+        "slug": "keperra",
+        "name": "Keperra"
+      },
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      }
+    ],
+    "moggill": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      }
+    ],
+    "moorooka": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      },
+      {
+        "slug": "yeerongpilly",
+        "name": "Yeerongpilly"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      }
+    ],
+    "moreton-bay": [
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      },
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      },
+      {
+        "slug": "lota",
+        "name": "Lota"
+      }
+    ],
+    "moreton-island": [
+      {
+        "slug": "bulwer",
+        "name": "Bulwer"
+      },
+      {
+        "slug": "cowan-cowan",
+        "name": "Cowan Cowan"
+      },
+      {
+        "slug": "kooringal",
+        "name": "Kooringal"
+      },
+      {
+        "slug": "moreton-bay",
+        "name": "Moreton Bay"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "shorncliffe",
+        "name": "Shorncliffe"
+      }
+    ],
+    "morningside": [
+      {
+        "slug": "balmoral",
+        "name": "Balmoral"
+      },
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "cannon-hill",
+        "name": "Cannon Hill"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "murarrie",
+        "name": "Murarrie"
+      }
+    ],
+    "mount-coot-tha": [
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "chapel-hill",
+        "name": "Chapel Hill"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "kenmore-hills",
+        "name": "Kenmore Hills"
+      },
+      {
+        "slug": "taringa",
+        "name": "Taringa"
+      }
+    ],
+    "mount-crosby": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "karana-downs",
+        "name": "Karana Downs"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      }
+    ],
+    "mount-gravatt": [
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "holland-park-west",
+        "name": "Holland Park West"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      }
+    ],
+    "mount-gravatt-east": [
+      {
+        "slug": "carina-heights",
+        "name": "Carina Heights"
+      },
+      {
+        "slug": "holland-park",
+        "name": "Holland Park"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "holland-park-west",
+        "name": "Holland Park West"
+      }
+    ],
+    "mount-ommaney": [
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "sinnamon-park",
+        "name": "Sinnamon Park"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      }
+    ],
+    "murarrie": [
+      {
+        "slug": "cannon-hill",
+        "name": "Cannon Hill"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      }
+    ],
+    "nathan": [
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      },
+      {
+        "slug": "robertson",
+        "name": "Robertson"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      }
+    ],
+    "new-farm": [
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "kangaroo-point",
+        "name": "Kangaroo Point"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "teneriffe",
+        "name": "Teneriffe"
+      }
+    ],
+    "newmarket": [
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      }
+    ],
+    "newstead": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "hamilton",
+        "name": "Hamilton"
+      },
+      {
+        "slug": "teneriffe",
+        "name": "Teneriffe"
+      }
+    ],
+    "norman-park": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      }
+    ],
+    "northgate": [
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      },
+      {
+        "slug": "wavell-heights",
+        "name": "Wavell Heights"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      }
+    ],
+    "nudgee": [
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "nudgee-beach",
+        "name": "Nudgee Beach"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      },
+      {
+        "slug": "northgate",
+        "name": "Northgate"
+      }
+    ],
+    "nudgee-beach": [
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "nudgee",
+        "name": "Nudgee"
+      },
+      {
+        "slug": "shorncliffe",
+        "name": "Shorncliffe"
+      },
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      }
+    ],
+    "nundah": [
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "hendra",
+        "name": "Hendra"
+      },
+      {
+        "slug": "kalinga",
+        "name": "Kalinga"
+      },
+      {
+        "slug": "northgate",
+        "name": "Northgate"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      }
+    ],
+    "oxley": [
+      {
+        "slug": "corinda",
+        "name": "Corinda"
+      },
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      }
+    ],
+    "paddington": [
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      },
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      }
+    ],
+    "pallara": [
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "heathwood",
+        "name": "Heathwood"
+      },
+      {
+        "slug": "larapinta",
+        "name": "Larapinta"
+      },
+      {
+        "slug": "willawong",
+        "name": "Willawong"
+      }
+    ],
+    "parkinson": [
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "drewvale",
+        "name": "Drewvale"
+      },
+      {
+        "slug": "larapinta",
+        "name": "Larapinta"
+      },
+      {
+        "slug": "pallara",
+        "name": "Pallara"
+      },
+      {
+        "slug": "heathwood",
+        "name": "Heathwood"
+      }
+    ],
+    "petrie-terrace": [
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "paddington",
+        "name": "Paddington"
+      },
+      {
+        "slug": "red-hill",
+        "name": "Red Hill"
+      },
+      {
+        "slug": "spring-hill",
+        "name": "Spring Hill"
+      }
+    ],
+    "pinjarra-hills": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "kenmore",
+        "name": "Kenmore"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      }
+    ],
+    "pinkenba": [
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "eagle-farm",
+        "name": "Eagle Farm"
+      },
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      },
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "murarrie",
+        "name": "Murarrie"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      }
+    ],
+    "port-of-brisbane": [
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "pinkenba",
+        "name": "Pinkenba"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "brisbane-airport",
+        "name": "Brisbane Airport"
+      },
+      {
+        "slug": "moreton-bay",
+        "name": "Moreton Bay"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      }
+    ],
+    "pullenvale": [
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      },
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "upper-brookfield",
+        "name": "Upper Brookfield"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      }
+    ],
+    "ransome": [
+      {
+        "slug": "chandler",
+        "name": "Chandler"
+      },
+      {
+        "slug": "gumdale",
+        "name": "Gumdale"
+      },
+      {
+        "slug": "lota",
+        "name": "Lota"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      }
+    ],
+    "red-hill": [
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "paddington",
+        "name": "Paddington"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      }
+    ],
+    "richlands": [
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "inala",
+        "name": "Inala"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      },
+      {
+        "slug": "ellen-grove",
+        "name": "Ellen Grove"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      }
+    ],
+    "riverhills": [
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      },
+      {
+        "slug": "moggill",
+        "name": "Moggill"
+      },
+      {
+        "slug": "sumner",
+        "name": "Sumner"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      },
+      {
+        "slug": "westlake",
+        "name": "Westlake"
+      }
+    ],
+    "robertson": [
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      }
+    ],
+    "rochedale": [
+      {
+        "slug": "burbank",
+        "name": "Burbank"
+      },
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "mackenzie",
+        "name": "Mackenzie"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "wishart",
+        "name": "Wishart"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      }
+    ],
+    "rocklea": [
+      {
+        "slug": "archerfield",
+        "name": "Archerfield"
+      },
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "corinda",
+        "name": "Corinda"
+      },
+      {
+        "slug": "moorooka",
+        "name": "Moorooka"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      }
+    ],
+    "runcorn": [
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "kuraby",
+        "name": "Kuraby"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      }
+    ],
+    "salisbury": [
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "moorooka",
+        "name": "Moorooka"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "tarragindi",
+        "name": "Tarragindi"
+      },
+      {
+        "slug": "robertson",
+        "name": "Robertson"
+      }
+    ],
+    "sandgate": [
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "shorncliffe",
+        "name": "Shorncliffe"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      }
+    ],
+    "seven-hills": [
+      {
+        "slug": "camp-hill",
+        "name": "Camp Hill"
+      },
+      {
+        "slug": "cannon-hill",
+        "name": "Cannon Hill"
+      },
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "morningside",
+        "name": "Morningside"
+      },
+      {
+        "slug": "norman-park",
+        "name": "Norman Park"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      }
+    ],
+    "seventeen-mile-rocks": [
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      },
+      {
+        "slug": "sinnamon-park",
+        "name": "Sinnamon Park"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      }
+    ],
+    "sherwood": [
+      {
+        "slug": "corinda",
+        "name": "Corinda"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      },
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      }
+    ],
+    "shorncliffe": [
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "nudgee-beach",
+        "name": "Nudgee Beach"
+      },
+      {
+        "slug": "sandgate",
+        "name": "Sandgate"
+      },
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      },
+      {
+        "slug": "brighton",
+        "name": "Brighton"
+      }
+    ],
+    "sinnamon-park": [
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "fig-tree-pocket",
+        "name": "Fig Tree Pocket"
+      },
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      },
+      {
+        "slug": "jindalee",
+        "name": "Jindalee"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      },
+      {
+        "slug": "seventeen-mile-rocks",
+        "name": "Seventeen Mile Rocks"
+      }
+    ],
+    "south-brisbane": [
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      },
+      {
+        "slug": "highgate-hill",
+        "name": "Highgate Hill"
+      },
+      {
+        "slug": "kangaroo-point",
+        "name": "Kangaroo Point"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "west-end",
+        "name": "West End"
+      }
+    ],
+    "spring-hill": [
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "brisbane-city",
+        "name": "Brisbane City"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "herston",
+        "name": "Herston"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "petrie-terrace",
+        "name": "Petrie Terrace"
+      }
+    ],
+    "st-lucia": [
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      },
+      {
+        "slug": "fairfield",
+        "name": "Fairfield"
+      },
+      {
+        "slug": "highgate-hill",
+        "name": "Highgate Hill"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "taringa",
+        "name": "Taringa"
+      },
+      {
+        "slug": "toowong",
+        "name": "Toowong"
+      }
+    ],
+    "stafford": [
+      {
+        "slug": "alderley",
+        "name": "Alderley"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "gordon-park",
+        "name": "Gordon Park"
+      },
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      }
+    ],
+    "stafford-heights": [
+      {
+        "slug": "chermside-west",
+        "name": "Chermside West"
+      },
+      {
+        "slug": "everton-park",
+        "name": "Everton Park"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "mcdowall",
+        "name": "McDowall"
+      },
+      {
+        "slug": "stafford",
+        "name": "Stafford"
+      },
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      }
+    ],
+    "stones-corner": [
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "woolloongabba",
+        "name": "Woolloongabba"
+      },
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      }
+    ],
+    "stretton": [
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "drewvale",
+        "name": "Drewvale"
+      },
+      {
+        "slug": "karawatha",
+        "name": "Karawatha"
+      },
+      {
+        "slug": "kuraby",
+        "name": "Kuraby"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      },
+      {
+        "slug": "sunnybank-hills",
+        "name": "Sunnybank Hills"
+      }
+    ],
+    "sumner": [
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      },
+      {
+        "slug": "wacol",
+        "name": "Wacol"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      }
+    ],
+    "sunnybank": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "coopers-plains",
+        "name": "Coopers Plains"
+      },
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "robertson",
+        "name": "Robertson"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      }
+    ],
+    "sunnybank-hills": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "calamvale",
+        "name": "Calamvale"
+      },
+      {
+        "slug": "runcorn",
+        "name": "Runcorn"
+      },
+      {
+        "slug": "sunnybank",
+        "name": "Sunnybank"
+      },
+      {
+        "slug": "stretton",
+        "name": "Stretton"
+      }
+    ],
+    "taigum": [
+      {
+        "slug": "deagon",
+        "name": "Deagon"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "zillmere",
+        "name": "Zillmere"
+      },
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "bracken-ridge",
+        "name": "Bracken Ridge"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      }
+    ],
+    "taringa": [
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "toowong",
+        "name": "Toowong"
+      },
+      {
+        "slug": "chelmer",
+        "name": "Chelmer"
+      },
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      }
+    ],
+    "tarragindi": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      },
+      {
+        "slug": "holland-park-west",
+        "name": "Holland Park West"
+      },
+      {
+        "slug": "moorooka",
+        "name": "Moorooka"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      },
+      {
+        "slug": "salisbury",
+        "name": "Salisbury"
+      }
+    ],
+    "teneriffe": [
+      {
+        "slug": "bulimba",
+        "name": "Bulimba"
+      },
+      {
+        "slug": "fortitude-valley",
+        "name": "Fortitude Valley"
+      },
+      {
+        "slug": "hawthorne",
+        "name": "Hawthorne"
+      },
+      {
+        "slug": "new-farm",
+        "name": "New Farm"
+      },
+      {
+        "slug": "newstead",
+        "name": "Newstead"
+      },
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      }
+    ],
+    "tennyson": [
+      {
+        "slug": "graceville",
+        "name": "Graceville"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "sherwood",
+        "name": "Sherwood"
+      },
+      {
+        "slug": "yeerongpilly",
+        "name": "Yeerongpilly"
+      },
+      {
+        "slug": "yeronga",
+        "name": "Yeronga"
+      }
+    ],
+    "the-gap": [
+      {
+        "slug": "ashgrove",
+        "name": "Ashgrove"
+      },
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      },
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "keperra",
+        "name": "Keperra"
+      }
+    ],
+    "tingalpa": [
+      {
+        "slug": "belmont",
+        "name": "Belmont"
+      },
+      {
+        "slug": "cannon-hill",
+        "name": "Cannon Hill"
+      },
+      {
+        "slug": "carina",
+        "name": "Carina"
+      },
+      {
+        "slug": "carindale",
+        "name": "Carindale"
+      },
+      {
+        "slug": "gumdale",
+        "name": "Gumdale"
+      },
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      }
+    ],
+    "toowong": [
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      },
+      {
+        "slug": "bardon",
+        "name": "Bardon"
+      },
+      {
+        "slug": "mount-coot-tha",
+        "name": "Mount Coot-tha"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "taringa",
+        "name": "Taringa"
+      },
+      {
+        "slug": "west-end",
+        "name": "West End"
+      }
+    ],
+    "upper-brookfield": [
+      {
+        "slug": "brookfield",
+        "name": "Brookfield"
+      },
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "kholo",
+        "name": "Kholo"
+      },
+      {
+        "slug": "lake-manchester",
+        "name": "Lake Manchester"
+      },
+      {
+        "slug": "pullenvale",
+        "name": "Pullenvale"
+      },
+      {
+        "slug": "anstead",
+        "name": "Anstead"
+      }
+    ],
+    "upper-kedron": [
+      {
+        "slug": "enoggera-reservoir",
+        "name": "Enoggera Reservoir"
+      },
+      {
+        "slug": "ferny-grove",
+        "name": "Ferny Grove"
+      },
+      {
+        "slug": "keperra",
+        "name": "Keperra"
+      },
+      {
+        "slug": "the-gap",
+        "name": "The Gap"
+      },
+      {
+        "slug": "mitchelton",
+        "name": "Mitchelton"
+      },
+      {
+        "slug": "enoggera",
+        "name": "Enoggera"
+      }
+    ],
+    "upper-mount-gravatt": [
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "mount-gravatt",
+        "name": "Mount Gravatt"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan"
+      }
+    ],
+    "virginia": [
+      {
+        "slug": "banyo",
+        "name": "Banyo"
+      },
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "northgate",
+        "name": "Northgate"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "wavell-heights",
+        "name": "Wavell Heights"
+      }
+    ],
+    "wacol": [
+      {
+        "slug": "darra",
+        "name": "Darra"
+      },
+      {
+        "slug": "ellen-grove",
+        "name": "Ellen Grove"
+      },
+      {
+        "slug": "forest-lake",
+        "name": "Forest Lake"
+      },
+      {
+        "slug": "moggill",
+        "name": "Moggill"
+      },
+      {
+        "slug": "richlands",
+        "name": "Richlands"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      }
+    ],
+    "wakerley": [
+      {
+        "slug": "gumdale",
+        "name": "Gumdale"
+      },
+      {
+        "slug": "lota",
+        "name": "Lota"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "ransome",
+        "name": "Ransome"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      }
+    ],
+    "wavell-heights": [
+      {
+        "slug": "chermside",
+        "name": "Chermside"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "kalinga",
+        "name": "Kalinga"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "nundah",
+        "name": "Nundah"
+      },
+      {
+        "slug": "virginia",
+        "name": "Virginia"
+      }
+    ],
+    "west-end": [
+      {
+        "slug": "auchenflower",
+        "name": "Auchenflower"
+      },
+      {
+        "slug": "highgate-hill",
+        "name": "Highgate Hill"
+      },
+      {
+        "slug": "milton",
+        "name": "Milton"
+      },
+      {
+        "slug": "south-brisbane",
+        "name": "South Brisbane"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "toowong",
+        "name": "Toowong"
+      }
+    ],
+    "westlake": [
+      {
+        "slug": "bellbowrie",
+        "name": "Bellbowrie"
+      },
+      {
+        "slug": "middle-park",
+        "name": "Middle Park"
+      },
+      {
+        "slug": "mount-ommaney",
+        "name": "Mount Ommaney"
+      },
+      {
+        "slug": "pinjarra-hills",
+        "name": "Pinjarra Hills"
+      },
+      {
+        "slug": "riverhills",
+        "name": "Riverhills"
+      },
+      {
+        "slug": "jamboree-heights",
+        "name": "Jamboree Heights"
+      }
+    ],
+    "willawong": [
+      {
+        "slug": "acacia-ridge",
+        "name": "Acacia Ridge"
+      },
+      {
+        "slug": "algester",
+        "name": "Algester"
+      },
+      {
+        "slug": "archerfield",
+        "name": "Archerfield"
+      },
+      {
+        "slug": "doolandella",
+        "name": "Doolandella"
+      },
+      {
+        "slug": "durack",
+        "name": "Durack"
+      },
+      {
+        "slug": "oxley",
+        "name": "Oxley"
+      }
+    ],
+    "wilston": [
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "herston",
+        "name": "Herston"
+      },
+      {
+        "slug": "kelvin-grove",
+        "name": "Kelvin Grove"
+      },
+      {
+        "slug": "newmarket",
+        "name": "Newmarket"
+      },
+      {
+        "slug": "windsor",
+        "name": "Windsor"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      }
+    ],
+    "windsor": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "bowen-hills",
+        "name": "Bowen Hills"
+      },
+      {
+        "slug": "grange",
+        "name": "Grange"
+      },
+      {
+        "slug": "herston",
+        "name": "Herston"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "wilston",
+        "name": "Wilston"
+      }
+    ],
+    "wishart": [
+      {
+        "slug": "eight-mile-plains",
+        "name": "Eight Mile Plains"
+      },
+      {
+        "slug": "mansfield",
+        "name": "Mansfield"
+      },
+      {
+        "slug": "rochedale",
+        "name": "Rochedale"
+      },
+      {
+        "slug": "upper-mount-gravatt",
+        "name": "Upper Mount Gravatt"
+      },
+      {
+        "slug": "macgregor",
+        "name": "MacGregor"
+      },
+      {
+        "slug": "mount-gravatt-east",
+        "name": "Mount Gravatt East"
+      }
+    ],
+    "woolloongabba": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "coorparoo",
+        "name": "Coorparoo"
+      },
+      {
+        "slug": "dutton-park",
+        "name": "Dutton Park"
+      },
+      {
+        "slug": "east-brisbane",
+        "name": "East Brisbane"
+      },
+      {
+        "slug": "fairfield",
+        "name": "Fairfield"
+      },
+      {
+        "slug": "greenslopes",
+        "name": "Greenslopes"
+      }
+    ],
+    "wooloowin": [
+      {
+        "slug": "albion",
+        "name": "Albion"
+      },
+      {
+        "slug": "clayfield",
+        "name": "Clayfield"
+      },
+      {
+        "slug": "kalinga",
+        "name": "Kalinga"
+      },
+      {
+        "slug": "kedron",
+        "name": "Kedron"
+      },
+      {
+        "slug": "lutwyche",
+        "name": "Lutwyche"
+      },
+      {
+        "slug": "gordon-park",
+        "name": "Gordon Park"
+      }
+    ],
+    "wynnum": [
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "port-of-brisbane",
+        "name": "Port Of Brisbane"
+      },
+      {
+        "slug": "wynnum-west",
+        "name": "Wynnum West"
+      },
+      {
+        "slug": "manly",
+        "name": "Manly"
+      },
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      }
+    ],
+    "wynnum-west": [
+      {
+        "slug": "hemmant",
+        "name": "Hemmant"
+      },
+      {
+        "slug": "lytton",
+        "name": "Lytton"
+      },
+      {
+        "slug": "manly-west",
+        "name": "Manly West"
+      },
+      {
+        "slug": "tingalpa",
+        "name": "Tingalpa"
+      },
+      {
+        "slug": "wynnum",
+        "name": "Wynnum"
+      },
+      {
+        "slug": "wakerley",
+        "name": "Wakerley"
+      }
+    ],
+    "yeerongpilly": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "moorooka",
+        "name": "Moorooka"
+      },
+      {
+        "slug": "rocklea",
+        "name": "Rocklea"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      },
+      {
+        "slug": "yeronga",
+        "name": "Yeronga"
+      }
+    ],
+    "yeronga": [
+      {
+        "slug": "annerley",
+        "name": "Annerley"
+      },
+      {
+        "slug": "fairfield",
+        "name": "Fairfield"
+      },
+      {
+        "slug": "indooroopilly",
+        "name": "Indooroopilly"
+      },
+      {
+        "slug": "st-lucia",
+        "name": "St Lucia"
+      },
+      {
+        "slug": "yeerongpilly",
+        "name": "Yeerongpilly"
+      },
+      {
+        "slug": "tennyson",
+        "name": "Tennyson"
+      }
+    ],
+    "zillmere": [
+      {
+        "slug": "aspley",
+        "name": "Aspley"
+      },
+      {
+        "slug": "boondall",
+        "name": "Boondall"
+      },
+      {
+        "slug": "carseldine",
+        "name": "Carseldine"
+      },
+      {
+        "slug": "fitzgibbon",
+        "name": "Fitzgibbon"
+      },
+      {
+        "slug": "geebung",
+        "name": "Geebung"
+      },
+      {
+        "slug": "taigum",
+        "name": "Taigum"
+      }
+    ],
+    "amberley": [
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "one-mile",
+        "name": "One Mile"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      }
+    ],
+    "ashwell": [
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "tallegalla",
+        "name": "Tallegalla"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "woolshed",
+        "name": "Woolshed"
+      },
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      }
+    ],
+    "augustine-heights": [
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      },
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      }
+    ],
+    "barellan-point": [
+      {
+        "slug": "karalee",
+        "name": "Karalee"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      },
+      {
+        "slug": "ebbw-vale",
+        "name": "Ebbw Vale"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      }
+    ],
+    "basin-pocket": [
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "tivoli",
+        "name": "Tivoli"
+      },
+      {
+        "slug": "woodend",
+        "name": "Woodend"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      }
+    ],
+    "bellbird-park": [
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      },
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "goodna",
+        "name": "Goodna"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      }
+    ],
+    "blacksoil": [
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "ironbark",
+        "name": "Ironbark"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "pine-mountain",
+        "name": "Pine Mountain"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      },
+      {
+        "slug": "wulkuraka",
+        "name": "Wulkuraka"
+      }
+    ],
+    "blackstone": [
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "silkstone",
+        "name": "Silkstone"
+      },
+      {
+        "slug": "swanbank",
+        "name": "Swanbank"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      }
+    ],
+    "booval": [
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      },
+      {
+        "slug": "north-booval",
+        "name": "North Booval"
+      },
+      {
+        "slug": "silkstone",
+        "name": "Silkstone"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      }
+    ],
+    "brassall": [
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      },
+      {
+        "slug": "coalfalls",
+        "name": "Coalfalls"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "pine-mountain",
+        "name": "Pine Mountain"
+      }
+    ],
+    "brookwater": [
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      },
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "springfield-lakes",
+        "name": "Springfield Lakes"
+      }
+    ],
+    "bundamba": [
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      },
+      {
+        "slug": "ebbw-vale",
+        "name": "Ebbw Vale"
+      },
+      {
+        "slug": "karalee",
+        "name": "Karalee"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      }
+    ],
+    "calvert": [
+      {
+        "slug": "grandchester",
+        "name": "Grandchester"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "woolshed",
+        "name": "Woolshed"
+      },
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      }
+    ],
+    "camira": [
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "carole-park",
+        "name": "Carole Park"
+      },
+      {
+        "slug": "gailes",
+        "name": "Gailes"
+      },
+      {
+        "slug": "goodna",
+        "name": "Goodna"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      }
+    ],
+    "carole-park": [
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "gailes",
+        "name": "Gailes"
+      },
+      {
+        "slug": "goodna",
+        "name": "Goodna"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      }
+    ],
+    "churchill": [
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "one-mile",
+        "name": "One Mile"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      }
+    ],
+    "chuwar": [
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "karalee",
+        "name": "Karalee"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "north-tivoli",
+        "name": "North Tivoli"
+      },
+      {
+        "slug": "tivoli",
+        "name": "Tivoli"
+      }
+    ],
+    "coalfalls": [
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "sadliers-crossing",
+        "name": "Sadliers Crossing"
+      },
+      {
+        "slug": "woodend",
+        "name": "Woodend"
+      },
+      {
+        "slug": "wulkuraka",
+        "name": "Wulkuraka"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      }
+    ],
+    "collingwood-park": [
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "ebbw-vale",
+        "name": "Ebbw Vale"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      }
+    ],
+    "deebing-heights": [
+      {
+        "slug": "goolman",
+        "name": "Goolman"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      },
+      {
+        "slug": "ripley",
+        "name": "Ripley"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "yamanto",
+        "name": "Yamanto"
+      },
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      }
+    ],
+    "dinmore": [
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "ebbw-vale",
+        "name": "Ebbw Vale"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "barellan-point",
+        "name": "Barellan Point"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      }
+    ],
+    "east-ipswich": [
+      {
+        "slug": "basin-pocket",
+        "name": "Basin Pocket"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      },
+      {
+        "slug": "north-booval",
+        "name": "North Booval"
+      }
+    ],
+    "eastern-heights": [
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "silkstone",
+        "name": "Silkstone"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      }
+    ],
+    "ebbw-vale": [
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      }
+    ],
+    "ebenezer": [
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "willowbank",
+        "name": "Willowbank"
+      },
+      {
+        "slug": "thagoona",
+        "name": "Thagoona"
+      }
+    ],
+    "flinders-view": [
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "ripley",
+        "name": "Ripley"
+      },
+      {
+        "slug": "swanbank",
+        "name": "Swanbank"
+      },
+      {
+        "slug": "yamanto",
+        "name": "Yamanto"
+      },
+      {
+        "slug": "eastern-heights",
+        "name": "Eastern Heights"
+      }
+    ],
+    "gailes": [
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "carole-park",
+        "name": "Carole Park"
+      },
+      {
+        "slug": "goodna",
+        "name": "Goodna"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      }
+    ],
+    "goodna": [
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "gailes",
+        "name": "Gailes"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "carole-park",
+        "name": "Carole Park"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      }
+    ],
+    "goolman": [
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "peak-crossing",
+        "name": "Peak Crossing"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "ripley",
+        "name": "Ripley"
+      },
+      {
+        "slug": "white-rock",
+        "name": "White Rock"
+      }
+    ],
+    "grandchester": [
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mount-mort",
+        "name": "Mount Mort"
+      },
+      {
+        "slug": "woolshed",
+        "name": "Woolshed"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      }
+    ],
+    "haigslea": [
+      {
+        "slug": "ironbark",
+        "name": "Ironbark"
+      },
+      {
+        "slug": "marburg",
+        "name": "Marburg"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      },
+      {
+        "slug": "thagoona",
+        "name": "Thagoona"
+      },
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      }
+    ],
+    "ipswich": [
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "eastern-heights",
+        "name": "Eastern Heights"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      }
+    ],
+    "ironbark": [
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      },
+      {
+        "slug": "haigslea",
+        "name": "Haigslea"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "pine-mountain",
+        "name": "Pine Mountain"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      }
+    ],
+    "jeebropilly": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "thagoona",
+        "name": "Thagoona"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      },
+      {
+        "slug": "willowbank",
+        "name": "Willowbank"
+      }
+    ],
+    "karalee": [
+      {
+        "slug": "barellan-point",
+        "name": "Barellan Point"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "north-tivoli",
+        "name": "North Tivoli"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      }
+    ],
+    "karrabin": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      },
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "ironbark",
+        "name": "Ironbark"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      },
+      {
+        "slug": "wulkuraka",
+        "name": "Wulkuraka"
+      }
+    ],
+    "lanefield": [
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      }
+    ],
+    "leichhardt": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "one-mile",
+        "name": "One Mile"
+      },
+      {
+        "slug": "sadliers-crossing",
+        "name": "Sadliers Crossing"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      },
+      {
+        "slug": "wulkuraka",
+        "name": "Wulkuraka"
+      }
+    ],
+    "lower-mount-walker": [
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "grandchester",
+        "name": "Grandchester"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      },
+      {
+        "slug": "mount-mort",
+        "name": "Mount Mort"
+      }
+    ],
+    "marburg": [
+      {
+        "slug": "haigslea",
+        "name": "Haigslea"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      },
+      {
+        "slug": "tallegalla",
+        "name": "Tallegalla"
+      },
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "thagoona",
+        "name": "Thagoona"
+      }
+    ],
+    "moores-pocket": [
+      {
+        "slug": "basin-pocket",
+        "name": "Basin Pocket"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "north-booval",
+        "name": "North Booval"
+      },
+      {
+        "slug": "tivoli",
+        "name": "Tivoli"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      }
+    ],
+    "mount-forbes": [
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mutdapilly",
+        "name": "Mutdapilly"
+      },
+      {
+        "slug": "willowbank",
+        "name": "Willowbank"
+      },
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      }
+    ],
+    "mount-marrow": [
+      {
+        "slug": "haigslea",
+        "name": "Haigslea"
+      },
+      {
+        "slug": "marburg",
+        "name": "Marburg"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "tallegalla",
+        "name": "Tallegalla"
+      },
+      {
+        "slug": "thagoona",
+        "name": "Thagoona"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      }
+    ],
+    "mount-mort": [
+      {
+        "slug": "grandchester",
+        "name": "Grandchester"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mount-walker-west",
+        "name": "Mount Walker West"
+      },
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      }
+    ],
+    "mount-walker-west": [
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mount-mort",
+        "name": "Mount Mort"
+      },
+      {
+        "slug": "grandchester",
+        "name": "Grandchester"
+      },
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      }
+    ],
+    "muirlea": [
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "pine-mountain",
+        "name": "Pine Mountain"
+      },
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      }
+    ],
+    "mutdapilly": [
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      },
+      {
+        "slug": "peak-crossing",
+        "name": "Peak Crossing"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      },
+      {
+        "slug": "willowbank",
+        "name": "Willowbank"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      }
+    ],
+    "new-chum": [
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      },
+      {
+        "slug": "ebbw-vale",
+        "name": "Ebbw Vale"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      }
+    ],
+    "newtown": [
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "eastern-heights",
+        "name": "Eastern Heights"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "silkstone",
+        "name": "Silkstone"
+      },
+      {
+        "slug": "basin-pocket",
+        "name": "Basin Pocket"
+      }
+    ],
+    "north-booval": [
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      },
+      {
+        "slug": "north-tivoli",
+        "name": "North Tivoli"
+      },
+      {
+        "slug": "tivoli",
+        "name": "Tivoli"
+      }
+    ],
+    "north-ipswich": [
+      {
+        "slug": "basin-pocket",
+        "name": "Basin Pocket"
+      },
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "east-ipswich",
+        "name": "East Ipswich"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      }
+    ],
+    "north-tivoli": [
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "karalee",
+        "name": "Karalee"
+      },
+      {
+        "slug": "north-booval",
+        "name": "North Booval"
+      },
+      {
+        "slug": "tivoli",
+        "name": "Tivoli"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      }
+    ],
+    "one-mile": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "yamanto",
+        "name": "Yamanto"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      }
+    ],
+    "peak-crossing": [
+      {
+        "slug": "goolman",
+        "name": "Goolman"
+      },
+      {
+        "slug": "mutdapilly",
+        "name": "Mutdapilly"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "white-rock",
+        "name": "White Rock"
+      }
+    ],
+    "pine-mountain": [
+      {
+        "slug": "blacksoil",
+        "name": "Blacksoil"
+      },
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "ironbark",
+        "name": "Ironbark"
+      },
+      {
+        "slug": "muirlea",
+        "name": "Muirlea"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      }
+    ],
+    "purga": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "goolman",
+        "name": "Goolman"
+      },
+      {
+        "slug": "mutdapilly",
+        "name": "Mutdapilly"
+      },
+      {
+        "slug": "peak-crossing",
+        "name": "Peak Crossing"
+      },
+      {
+        "slug": "willowbank",
+        "name": "Willowbank"
+      }
+    ],
+    "raceview": [
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      },
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "eastern-heights",
+        "name": "Eastern Heights"
+      },
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "silkstone",
+        "name": "Silkstone"
+      }
+    ],
+    "redbank": [
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      },
+      {
+        "slug": "goodna",
+        "name": "Goodna"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      },
+      {
+        "slug": "riverview",
+        "name": "Riverview"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      }
+    ],
+    "redbank-plains": [
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "redbank",
+        "name": "Redbank"
+      },
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      }
+    ],
+    "ripley": [
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "swanbank",
+        "name": "Swanbank"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "yamanto",
+        "name": "Yamanto"
+      }
+    ],
+    "riverview": [
+      {
+        "slug": "barellan-point",
+        "name": "Barellan Point"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "collingwood-park",
+        "name": "Collingwood Park"
+      },
+      {
+        "slug": "dinmore",
+        "name": "Dinmore"
+      },
+      {
+        "slug": "karalee",
+        "name": "Karalee"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      }
+    ],
+    "rosewood": [
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "lower-mount-walker",
+        "name": "Lower Mount Walker"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      }
+    ],
+    "sadliers-crossing": [
+      {
+        "slug": "coalfalls",
+        "name": "Coalfalls"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      },
+      {
+        "slug": "woodend",
+        "name": "Woodend"
+      },
+      {
+        "slug": "wulkuraka",
+        "name": "Wulkuraka"
+      }
+    ],
+    "silkstone": [
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      },
+      {
+        "slug": "booval",
+        "name": "Booval"
+      },
+      {
+        "slug": "bundamba",
+        "name": "Bundamba"
+      },
+      {
+        "slug": "eastern-heights",
+        "name": "Eastern Heights"
+      },
+      {
+        "slug": "newtown",
+        "name": "Newtown"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      }
+    ],
+    "south-ripley": [
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "goolman",
+        "name": "Goolman"
+      },
+      {
+        "slug": "peak-crossing",
+        "name": "Peak Crossing"
+      },
+      {
+        "slug": "ripley",
+        "name": "Ripley"
+      },
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      },
+      {
+        "slug": "swanbank",
+        "name": "Swanbank"
+      }
+    ],
+    "spring-mountain": [
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      },
+      {
+        "slug": "springfield-lakes",
+        "name": "Springfield Lakes"
+      },
+      {
+        "slug": "white-rock",
+        "name": "White Rock"
+      }
+    ],
+    "springfield": [
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      },
+      {
+        "slug": "camira",
+        "name": "Camira"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      },
+      {
+        "slug": "springfield-lakes",
+        "name": "Springfield Lakes"
+      },
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      }
+    ],
+    "springfield-central": [
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      },
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      },
+      {
+        "slug": "springfield-lakes",
+        "name": "Springfield Lakes"
+      },
+      {
+        "slug": "bellbird-park",
+        "name": "Bellbird Park"
+      }
+    ],
+    "springfield-lakes": [
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      },
+      {
+        "slug": "springfield",
+        "name": "Springfield"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      },
+      {
+        "slug": "brookwater",
+        "name": "Brookwater"
+      },
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "camira",
+        "name": "Camira"
+      }
+    ],
+    "swanbank": [
+      {
+        "slug": "blackstone",
+        "name": "Blackstone"
+      },
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      },
+      {
+        "slug": "new-chum",
+        "name": "New Chum"
+      },
+      {
+        "slug": "raceview",
+        "name": "Raceview"
+      },
+      {
+        "slug": "ripley",
+        "name": "Ripley"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      }
+    ],
+    "tallegalla": [
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "marburg",
+        "name": "Marburg"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "woolshed",
+        "name": "Woolshed"
+      }
+    ],
+    "thagoona": [
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      },
+      {
+        "slug": "walloon",
+        "name": "Walloon"
+      },
+      {
+        "slug": "haigslea",
+        "name": "Haigslea"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      }
+    ],
+    "the-bluff": [
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      },
+      {
+        "slug": "tallegalla",
+        "name": "Tallegalla"
+      },
+      {
+        "slug": "woolshed",
+        "name": "Woolshed"
+      },
+      {
+        "slug": "rosewood",
+        "name": "Rosewood"
+      }
+    ],
+    "tivoli": [
+      {
+        "slug": "basin-pocket",
+        "name": "Basin Pocket"
+      },
+      {
+        "slug": "chuwar",
+        "name": "Chuwar"
+      },
+      {
+        "slug": "moores-pocket",
+        "name": "Moores Pocket"
+      },
+      {
+        "slug": "north-booval",
+        "name": "North Booval"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "north-tivoli",
+        "name": "North Tivoli"
+      }
+    ],
+    "walloon": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "haigslea",
+        "name": "Haigslea"
+      },
+      {
+        "slug": "ironbark",
+        "name": "Ironbark"
+      },
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "mount-marrow",
+        "name": "Mount Marrow"
+      }
+    ],
+    "west-ipswich": [
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "sadliers-crossing",
+        "name": "Sadliers Crossing"
+      },
+      {
+        "slug": "coalfalls",
+        "name": "Coalfalls"
+      },
+      {
+        "slug": "woodend",
+        "name": "Woodend"
+      }
+    ],
+    "white-rock": [
+      {
+        "slug": "redbank-plains",
+        "name": "Redbank Plains"
+      },
+      {
+        "slug": "south-ripley",
+        "name": "South Ripley"
+      },
+      {
+        "slug": "spring-mountain",
+        "name": "Spring Mountain"
+      },
+      {
+        "slug": "swanbank",
+        "name": "Swanbank"
+      },
+      {
+        "slug": "augustine-heights",
+        "name": "Augustine Heights"
+      },
+      {
+        "slug": "springfield-central",
+        "name": "Springfield Central"
+      }
+    ],
+    "willowbank": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "ebenezer",
+        "name": "Ebenezer"
+      },
+      {
+        "slug": "jeebropilly",
+        "name": "Jeebropilly"
+      },
+      {
+        "slug": "mount-forbes",
+        "name": "Mount Forbes"
+      },
+      {
+        "slug": "mutdapilly",
+        "name": "Mutdapilly"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      }
+    ],
+    "woodend": [
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "coalfalls",
+        "name": "Coalfalls"
+      },
+      {
+        "slug": "ipswich",
+        "name": "Ipswich"
+      },
+      {
+        "slug": "north-ipswich",
+        "name": "North Ipswich"
+      },
+      {
+        "slug": "sadliers-crossing",
+        "name": "Sadliers Crossing"
+      },
+      {
+        "slug": "west-ipswich",
+        "name": "West Ipswich"
+      }
+    ],
+    "woolshed": [
+      {
+        "slug": "calvert",
+        "name": "Calvert"
+      },
+      {
+        "slug": "grandchester",
+        "name": "Grandchester"
+      },
+      {
+        "slug": "tallegalla",
+        "name": "Tallegalla"
+      },
+      {
+        "slug": "the-bluff",
+        "name": "The Bluff"
+      },
+      {
+        "slug": "ashwell",
+        "name": "Ashwell"
+      },
+      {
+        "slug": "lanefield",
+        "name": "Lanefield"
+      }
+    ],
+    "wulkuraka": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "brassall",
+        "name": "Brassall"
+      },
+      {
+        "slug": "coalfalls",
+        "name": "Coalfalls"
+      },
+      {
+        "slug": "karrabin",
+        "name": "Karrabin"
+      },
+      {
+        "slug": "leichhardt",
+        "name": "Leichhardt"
+      },
+      {
+        "slug": "sadliers-crossing",
+        "name": "Sadliers Crossing"
+      }
+    ],
+    "yamanto": [
+      {
+        "slug": "amberley",
+        "name": "Amberley"
+      },
+      {
+        "slug": "churchill",
+        "name": "Churchill"
+      },
+      {
+        "slug": "deebing-heights",
+        "name": "Deebing Heights"
+      },
+      {
+        "slug": "flinders-view",
+        "name": "Flinders View"
+      },
+      {
+        "slug": "one-mile",
+        "name": "One Mile"
+      },
+      {
+        "slug": "purga",
+        "name": "Purga"
+      }
+    ],
+    "bahrs-scrub": [
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      }
+    ],
+    "bannockburn": [
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "windaroo",
+        "name": "Windaroo"
+      },
+      {
+        "slug": "wolffdene",
+        "name": "Wolffdene"
+      },
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      }
+    ],
+    "beenleigh": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "eagleby",
+        "name": "Eagleby"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      }
+    ],
+    "belivah": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "bannockburn",
+        "name": "Bannockburn"
+      },
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "wolffdene",
+        "name": "Wolffdene"
+      },
+      {
+        "slug": "windaroo",
+        "name": "Windaroo"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      }
+    ],
+    "berrinba": [
+      {
+        "slug": "browns-plains",
+        "name": "Browns Plains"
+      },
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      }
+    ],
+    "bethania": [
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "loganlea",
+        "name": "Loganlea"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "tanah-merah",
+        "name": "Tanah Merah"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      }
+    ],
+    "boronia-heights": [
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "hillcrest",
+        "name": "Hillcrest"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "regents-park",
+        "name": "Regents Park"
+      },
+      {
+        "slug": "forestdale",
+        "name": "Forestdale"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      }
+    ],
+    "browns-plains": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "hillcrest",
+        "name": "Hillcrest"
+      },
+      {
+        "slug": "regents-park",
+        "name": "Regents Park"
+      },
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      }
+    ],
+    "buccan": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      }
+    ],
+    "carbrook": [
+      {
+        "slug": "cornubia",
+        "name": "Cornubia"
+      },
+      {
+        "slug": "eagleby",
+        "name": "Eagleby"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      }
+    ],
+    "cedar-creek": [
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "tamborine",
+        "name": "Tamborine"
+      },
+      {
+        "slug": "wolffdene",
+        "name": "Wolffdene"
+      },
+      {
+        "slug": "yarrabilba",
+        "name": "Yarrabilba"
+      },
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "bannockburn",
+        "name": "Bannockburn"
+      }
+    ],
+    "cedar-grove": [
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "glenlogan",
+        "name": "Glenlogan"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "woodhill",
+        "name": "Woodhill"
+      },
+      {
+        "slug": "veresdale",
+        "name": "Veresdale"
+      }
+    ],
+    "cedar-vale": [
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "mundoolun",
+        "name": "Mundoolun"
+      },
+      {
+        "slug": "veresdale-scrub",
+        "name": "Veresdale Scrub"
+      },
+      {
+        "slug": "woodhill",
+        "name": "Woodhill"
+      },
+      {
+        "slug": "veresdale",
+        "name": "Veresdale"
+      }
+    ],
+    "chambers-flat": [
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "munruben",
+        "name": "Munruben"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "park-ridge-south",
+        "name": "Park Ridge South"
+      }
+    ],
+    "cornubia": [
+      {
+        "slug": "carbrook",
+        "name": "Carbrook"
+      },
+      {
+        "slug": "eagleby",
+        "name": "Eagleby"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      },
+      {
+        "slug": "tanah-merah",
+        "name": "Tanah Merah"
+      },
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      }
+    ],
+    "crestmead": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      },
+      {
+        "slug": "waterford-west",
+        "name": "Waterford West"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      }
+    ],
+    "daisy-hill": [
+      {
+        "slug": "priestdale",
+        "name": "Priestdale"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "rochedale-south",
+        "name": "Rochedale South"
+      }
+    ],
+    "eagleby": [
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "carbrook",
+        "name": "Carbrook"
+      },
+      {
+        "slug": "cornubia",
+        "name": "Cornubia"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      }
+    ],
+    "edens-landing": [
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "tanah-merah",
+        "name": "Tanah Merah"
+      }
+    ],
+    "flagstone": [
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      },
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      }
+    ],
+    "flinders-lakes": [
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      },
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "undullah",
+        "name": "Undullah"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      }
+    ],
+    "forestdale": [
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "hillcrest",
+        "name": "Hillcrest"
+      },
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "regents-park",
+        "name": "Regents Park"
+      },
+      {
+        "slug": "browns-plains",
+        "name": "Browns Plains"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      }
+    ],
+    "glenlogan": [
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      },
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      }
+    ],
+    "greenbank": [
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "forestdale",
+        "name": "Forestdale"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      },
+      {
+        "slug": "munruben",
+        "name": "Munruben"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "north-maclean",
+        "name": "North Maclean"
+      }
+    ],
+    "heritage-park": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "browns-plains",
+        "name": "Browns Plains"
+      },
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "regents-park",
+        "name": "Regents Park"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      }
+    ],
+    "hillcrest": [
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "browns-plains",
+        "name": "Browns Plains"
+      },
+      {
+        "slug": "forestdale",
+        "name": "Forestdale"
+      },
+      {
+        "slug": "regents-park",
+        "name": "Regents Park"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      }
+    ],
+    "holmview": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      },
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      }
+    ],
+    "jimboomba": [
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "mundoolun",
+        "name": "Mundoolun"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      }
+    ],
+    "kagaru": [
+      {
+        "slug": "flinders-lakes",
+        "name": "Flinders Lakes"
+      },
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      }
+    ],
+    "kingston": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      },
+      {
+        "slug": "loganlea",
+        "name": "Loganlea"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      }
+    ],
+    "logan-central": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "woodridge",
+        "name": "Woodridge"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      },
+      {
+        "slug": "underwood",
+        "name": "Underwood"
+      }
+    ],
+    "logan-reserve": [
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      },
+      {
+        "slug": "waterford-west",
+        "name": "Waterford West"
+      }
+    ],
+    "logan-village": [
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "cedar-creek",
+        "name": "Cedar Creek"
+      },
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      },
+      {
+        "slug": "tamborine",
+        "name": "Tamborine"
+      }
+    ],
+    "loganholme": [
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "cornubia",
+        "name": "Cornubia"
+      },
+      {
+        "slug": "eagleby",
+        "name": "Eagleby"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      }
+    ],
+    "loganlea": [
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      },
+      {
+        "slug": "waterford-west",
+        "name": "Waterford West"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      }
+    ],
+    "lyons": [
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "undullah",
+        "name": "Undullah"
+      },
+      {
+        "slug": "flinders-lakes",
+        "name": "Flinders Lakes"
+      }
+    ],
+    "marsden": [
+      {
+        "slug": "berrinba",
+        "name": "Berrinba"
+      },
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "waterford-west",
+        "name": "Waterford West"
+      },
+      {
+        "slug": "loganlea",
+        "name": "Loganlea"
+      },
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      }
+    ],
+    "meadowbrook": [
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "loganlea",
+        "name": "Loganlea"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "tanah-merah",
+        "name": "Tanah Merah"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      }
+    ],
+    "monarch-glen": [
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "flinders-lakes",
+        "name": "Flinders Lakes"
+      },
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "undullah",
+        "name": "Undullah"
+      }
+    ],
+    "mount-warren-park": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "windaroo",
+        "name": "Windaroo"
+      },
+      {
+        "slug": "bannockburn",
+        "name": "Bannockburn"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      },
+      {
+        "slug": "eagleby",
+        "name": "Eagleby"
+      }
+    ],
+    "mundoolun": [
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "tamborine",
+        "name": "Tamborine"
+      },
+      {
+        "slug": "veresdale-scrub",
+        "name": "Veresdale Scrub"
+      },
+      {
+        "slug": "veresdale",
+        "name": "Veresdale"
+      },
+      {
+        "slug": "yarrabilba",
+        "name": "Yarrabilba"
+      }
+    ],
+    "munruben": [
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "north-maclean",
+        "name": "North Maclean"
+      },
+      {
+        "slug": "park-ridge-south",
+        "name": "Park Ridge South"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      }
+    ],
+    "new-beith": [
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      },
+      {
+        "slug": "north-maclean",
+        "name": "North Maclean"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      }
+    ],
+    "north-maclean": [
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "munruben",
+        "name": "Munruben"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      },
+      {
+        "slug": "park-ridge-south",
+        "name": "Park Ridge South"
+      }
+    ],
+    "park-ridge": [
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      },
+      {
+        "slug": "park-ridge-south",
+        "name": "Park Ridge South"
+      }
+    ],
+    "park-ridge-south": [
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "greenbank",
+        "name": "Greenbank"
+      },
+      {
+        "slug": "munruben",
+        "name": "Munruben"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      }
+    ],
+    "priestdale": [
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      },
+      {
+        "slug": "rochedale-south",
+        "name": "Rochedale South"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      },
+      {
+        "slug": "underwood",
+        "name": "Underwood"
+      }
+    ],
+    "regents-park": [
+      {
+        "slug": "boronia-heights",
+        "name": "Boronia Heights"
+      },
+      {
+        "slug": "browns-plains",
+        "name": "Browns Plains"
+      },
+      {
+        "slug": "heritage-park",
+        "name": "Heritage Park"
+      },
+      {
+        "slug": "hillcrest",
+        "name": "Hillcrest"
+      },
+      {
+        "slug": "park-ridge",
+        "name": "Park Ridge"
+      },
+      {
+        "slug": "forestdale",
+        "name": "Forestdale"
+      }
+    ],
+    "riverbend": [
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "glenlogan",
+        "name": "Glenlogan"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      }
+    ],
+    "rochedale-south": [
+      {
+        "slug": "priestdale",
+        "name": "Priestdale"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      },
+      {
+        "slug": "underwood",
+        "name": "Underwood"
+      },
+      {
+        "slug": "woodridge",
+        "name": "Woodridge"
+      },
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      }
+    ],
+    "shailer-park": [
+      {
+        "slug": "cornubia",
+        "name": "Cornubia"
+      },
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "tanah-merah",
+        "name": "Tanah Merah"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      }
+    ],
+    "silverbark-ridge": [
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      },
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "flinders-lakes",
+        "name": "Flinders Lakes"
+      },
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      }
+    ],
+    "slacks-creek": [
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      }
+    ],
+    "south-maclean": [
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "new-beith",
+        "name": "New Beith"
+      },
+      {
+        "slug": "north-maclean",
+        "name": "North Maclean"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      }
+    ],
+    "springwood": [
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      },
+      {
+        "slug": "priestdale",
+        "name": "Priestdale"
+      },
+      {
+        "slug": "rochedale-south",
+        "name": "Rochedale South"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "underwood",
+        "name": "Underwood"
+      },
+      {
+        "slug": "woodridge",
+        "name": "Woodridge"
+      }
+    ],
+    "stockleigh": [
+      {
+        "slug": "chambers-flat",
+        "name": "Chambers Flat"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "munruben",
+        "name": "Munruben"
+      },
+      {
+        "slug": "north-maclean",
+        "name": "North Maclean"
+      },
+      {
+        "slug": "south-maclean",
+        "name": "South Maclean"
+      }
+    ],
+    "tamborine": [
+      {
+        "slug": "cedar-creek",
+        "name": "Cedar Creek"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "mundoolun",
+        "name": "Mundoolun"
+      },
+      {
+        "slug": "yarrabilba",
+        "name": "Yarrabilba"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      }
+    ],
+    "tanah-merah": [
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "loganholme",
+        "name": "Loganholme"
+      },
+      {
+        "slug": "meadowbrook",
+        "name": "Meadowbrook"
+      },
+      {
+        "slug": "shailer-park",
+        "name": "Shailer Park"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      }
+    ],
+    "underwood": [
+      {
+        "slug": "rochedale-south",
+        "name": "Rochedale South"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      },
+      {
+        "slug": "woodridge",
+        "name": "Woodridge"
+      },
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      },
+      {
+        "slug": "daisy-hill",
+        "name": "Daisy Hill"
+      }
+    ],
+    "undullah": [
+      {
+        "slug": "flinders-lakes",
+        "name": "Flinders Lakes"
+      },
+      {
+        "slug": "lyons",
+        "name": "Lyons"
+      },
+      {
+        "slug": "monarch-glen",
+        "name": "Monarch Glen"
+      },
+      {
+        "slug": "kagaru",
+        "name": "Kagaru"
+      },
+      {
+        "slug": "silverbark-ridge",
+        "name": "Silverbark Ridge"
+      },
+      {
+        "slug": "flagstone",
+        "name": "Flagstone"
+      }
+    ],
+    "veresdale": [
+      {
+        "slug": "veresdale-scrub",
+        "name": "Veresdale Scrub"
+      },
+      {
+        "slug": "woodhill",
+        "name": "Woodhill"
+      },
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "glenlogan",
+        "name": "Glenlogan"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      }
+    ],
+    "veresdale-scrub": [
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "veresdale",
+        "name": "Veresdale"
+      },
+      {
+        "slug": "woodhill",
+        "name": "Woodhill"
+      },
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "mundoolun",
+        "name": "Mundoolun"
+      },
+      {
+        "slug": "glenlogan",
+        "name": "Glenlogan"
+      }
+    ],
+    "waterford": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "bethania",
+        "name": "Bethania"
+      },
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "edens-landing",
+        "name": "Edens Landing"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      }
+    ],
+    "waterford-west": [
+      {
+        "slug": "crestmead",
+        "name": "Crestmead"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "logan-reserve",
+        "name": "Logan Reserve"
+      },
+      {
+        "slug": "loganlea",
+        "name": "Loganlea"
+      },
+      {
+        "slug": "marsden",
+        "name": "Marsden"
+      },
+      {
+        "slug": "waterford",
+        "name": "Waterford"
+      }
+    ],
+    "windaroo": [
+      {
+        "slug": "bahrs-scrub",
+        "name": "Bahrs Scrub"
+      },
+      {
+        "slug": "bannockburn",
+        "name": "Bannockburn"
+      },
+      {
+        "slug": "mount-warren-park",
+        "name": "Mount Warren Park"
+      },
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "beenleigh",
+        "name": "Beenleigh"
+      },
+      {
+        "slug": "holmview",
+        "name": "Holmview"
+      }
+    ],
+    "wolffdene": [
+      {
+        "slug": "bannockburn",
+        "name": "Bannockburn"
+      },
+      {
+        "slug": "belivah",
+        "name": "Belivah"
+      },
+      {
+        "slug": "buccan",
+        "name": "Buccan"
+      },
+      {
+        "slug": "cedar-creek",
+        "name": "Cedar Creek"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "windaroo",
+        "name": "Windaroo"
+      }
+    ],
+    "woodhill": [
+      {
+        "slug": "cedar-grove",
+        "name": "Cedar Grove"
+      },
+      {
+        "slug": "cedar-vale",
+        "name": "Cedar Vale"
+      },
+      {
+        "slug": "veresdale",
+        "name": "Veresdale"
+      },
+      {
+        "slug": "veresdale-scrub",
+        "name": "Veresdale Scrub"
+      },
+      {
+        "slug": "riverbend",
+        "name": "Riverbend"
+      },
+      {
+        "slug": "glenlogan",
+        "name": "Glenlogan"
+      }
+    ],
+    "woodridge": [
+      {
+        "slug": "logan-central",
+        "name": "Logan Central"
+      },
+      {
+        "slug": "slacks-creek",
+        "name": "Slacks Creek"
+      },
+      {
+        "slug": "underwood",
+        "name": "Underwood"
+      },
+      {
+        "slug": "springwood",
+        "name": "Springwood"
+      },
+      {
+        "slug": "kingston",
+        "name": "Kingston"
+      },
+      {
+        "slug": "rochedale-south",
+        "name": "Rochedale South"
+      }
+    ],
+    "yarrabilba": [
+      {
+        "slug": "cedar-creek",
+        "name": "Cedar Creek"
+      },
+      {
+        "slug": "logan-village",
+        "name": "Logan Village"
+      },
+      {
+        "slug": "tamborine",
+        "name": "Tamborine"
+      },
+      {
+        "slug": "wolffdene",
+        "name": "Wolffdene"
+      },
+      {
+        "slug": "jimboomba",
+        "name": "Jimboomba"
+      },
+      {
+        "slug": "stockleigh",
+        "name": "Stockleigh"
+      }
+    ]
+  }
+}

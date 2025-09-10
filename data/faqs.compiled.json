@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "generated": "2025-09-09T05:39:43.782Z",
+    "version": "1.0.0",
+    "totalSuburbs": 8,
+    "totalQuestions": 5,
+    "warnings": []
+  },
+  "suburbs": {
+    "redbank-plains": [],
+    "springfield-lakes": [],
+    "brookwater": [],
+    "forest-lake": [],
+    "indooroopilly": [],
+    "kenmore": [],
+    "springwood": [],
+    "browns-plains": []
+  },
+  "services": {
+    "bathroom": [],
+    "bond": [],
+    "spring": []
+  },
+  "generic": [
+    {
+      "q": "Do you offer same-day service?",
+      "a": "Yes, we offer same-day bond cleaning service subject to availability. Contact us early in the day for best availability."
+    },
+    {
+      "q": "What is your bond back guarantee?",
+      "a": "We provide a 100% bond back guarantee. If you don't get your full bond back due to cleaning issues, we'll return and fix any problems free of charge."
+    },
+    {
+      "q": "How long does a bond clean take?",
+      "a": "A typical bond clean takes 4-8 hours depending on the size and condition of the property. We'll provide an accurate time estimate when quoting."
+    },
+    {
+      "q": "Do you bring your own cleaning supplies?",
+      "a": "Yes, we bring all professional-grade cleaning supplies and equipment. You don't need to provide anything."
+    },
+    {
+      "q": "Can I get a quote over the phone?",
+      "a": "We can provide an initial estimate over the phone, but we recommend an in-person inspection for the most accurate quote."
+    }
+  ]
+}

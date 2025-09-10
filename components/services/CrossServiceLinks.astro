@@ -1,0 +1,32 @@
+---
+import { SERVICES, CROSS_SERVICES_FOR, type ServiceSlug } from '~/utils/services';
+import { getServiceLink } from '~/utils/internalLinks';
+import { isCovered, findSuburbBySlug } from '~/lib/clusters';
+
+interface Props { currentService: ServiceSlug; suburbSlug: string; title?: string; }
+const { currentService, suburbSlug, title = 'Related services in this suburb' } = Astro.props as Props;
+
+const suburb = findSuburbBySlug(suburbSlug);
+const cross = CROSS_SERVICES_FOR[currentService];
+
+const items = cross
+  .filter(svc => isCovered(svc, suburbSlug))
+  .map(svc => ({
+    label: SERVICES[svc].label,
+    href: getServiceLink(svc, suburbSlug)
+  }));
+---
+{items.length > 0 && (
+<section aria-labelledby="cross-services-heading" class="mt-8">
+  <h2 id="cross-services-heading" class="text-2xl font-bold text-slate-900 mb-4">{title}</h2>
+  <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+    {items.map(item => (
+      <div class="bg-white rounded-xl border border-slate-200 p-4 shadow-sm hover:shadow-md hover:border-sky-500/60 transition-all duration-200">
+        <a href={item.href} class="block text-slate-900 hover:text-sky-600 font-medium transition-colors">
+          {item.label} in {suburb?.name || suburbSlug}
+        </a>
+      </div>
+    ))}
+  </div>
+</section>
+)}

@@ -1,0 +1,16 @@
+---
+interface Item { name: string; href: string; position?: number; }
+interface Props { items: Item[] }
+const { items } = Astro.props as Props;
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  itemListElement: items.map((it,i)=>({
+    "@type": "ListItem",
+    position: it.position ?? (i+1),
+    url: it.href,
+    name: it.name
+  }))
+};
+---
+{items?.length>0 && <script type="application/ld+json" set:html={JSON.stringify(ld)} />}

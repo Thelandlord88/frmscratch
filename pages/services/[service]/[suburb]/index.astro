@@ -1,0 +1,110 @@
+---
+import MainLayout from '~/layouts/MainLayout.astro';
+import CrossServiceLinks from '~/components/services/CrossServiceLinks.astro';
+import NearbyAlternatives from '~/components/services/NearbyAlternatives.astro';
+import RelatedListsLd from '~/components/seo/RelatedListsLd.astro';
+import FaqSection from '~/components/FaqSection.astro';
+import ContactCta from '~/components/ContactCta.astro';
+import { SERVICES, type ServiceSlug, CROSS_SERVICES_FOR } from '~/utils/services';
+import { getServiceLink } from '~/utils/internalLinks';
+import { isCovered, findSuburbBySlug } from '~/lib/clusters';
+import { absoluteUrl } from '~/lib/url';
+
+export async function getStaticPaths() {
+  const coverage = (await import('~/data/serviceCoverage.json')).default as Record<string, string[]>;
+  const out: { params: { service: string; suburb: string } }[] = [];
+  for (const [svc, subs] of Object.entries(coverage)) {
+    for (const s of subs) out.push({ params: { service: svc, suburb: s } });
+  }
+  return out;
+}
+
+const { service, suburb } = Astro.params as { service: ServiceSlug; suburb: string };
+const suburbData = findSuburbBySlug(suburb);
+
+if (!suburbData || !isCovered(service, suburb)) {
+  return Astro.redirect(`/services/${service}/`);
+}
+
+const crossDefs = CROSS_SERVICES_FOR[service];
+const crossItemsSame = crossDefs
+  .filter(svc => isCovered(svc, suburb))
+  .map((svc, i) => ({
+    name: `${SERVICES[svc].label} in ${suburbData.name}`,
+    href: getServiceLink(svc, suburb),
+    position: i + 1
+  }));
+
+const pageTitle = SERVICES[service].h1(suburbData.name);
+const pageDesc = `Professional ${service.replace(/-/g,' ')} in ${suburbData.name}. Nearby options included.`;
+const canonical = absoluteUrl(`/services/${service}/${suburb}/`);
+
+// Generate breadcrumb for suburb service pages
+const siteUrl = (import.meta.env.SITE || 'https://onendonebondclean.com.au');
+const breadcrumb = {
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Services', item: new URL('/services', siteUrl).toString() },
+    { '@type': 'ListItem', position: 2, name: SERVICES[service].label, item: new URL(`/services/${service}/`, siteUrl).toString() },
+    { '@type': 'ListItem', position: 3, name: suburbData.name }
+  ]
+};
+
+// Service-specific FAQ items
+const faqItems = [
+  {
+    q: `How much does ${service.replace(/-/g,' ')} cost in ${suburbData.name}?`,
+    a: `Pricing for ${service.replace(/-/g,' ')} in ${suburbData.name} depends on property size, condition, and specific requirements. We provide upfront quotes with no hidden fees. Contact us for a free, personalized estimate.`
+  },
+  {
+    q: `Do you service ${suburbData.name}?`,
+    a: `Yes, we provide professional ${service.replace(/-/g,' ')} services throughout ${suburbData.name} and surrounding areas. Our team is fully insured, police-checked, and equipped with professional-grade cleaning supplies.`
+  },
+  {
+    q: `How do I book ${service.replace(/-/g,' ')} in ${suburbData.name}?`,
+    a: `Booking is easy! Call us, use our online quote form, or book directly through our website. We'll confirm your appointment and provide all the details you need for your ${service.replace(/-/g,' ')} service.`
+  }
+];
+---
+<MainLayout title={pageTitle} description={pageDesc} canonical={canonical} breadcrumb={breadcrumb}>
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <h1 class="text-4xl font-extrabold text-slate-900 mb-6">{pageTitle}</h1>
+    <p class="text-lg text-slate-700 max-w-3xl mb-8">{pageDesc}</p>
+
+    {/* Quick action button */}
+    <div class="mb-8">
+      <a href="/quote" class="inline-flex items-center gap-2 bg-sky-700 hover:bg-sky-800 text-white font-bold px-6 py-3 rounded-full shadow hover:shadow-lg transition-all duration-200 focus-visible:ring-4 focus-visible:ring-sky-500/40">
+        Get a Quote for {suburbData.name}
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+        </svg>
+      </a>
+    </div>
+
+    {/* Service area info */}
+    <div class="bg-sky-50 border border-sky-200 rounded-xl p-6 mb-8">
+      <h2 class="text-xl font-semibold text-slate-900 mb-3">Service Area: {suburbData.name}</h2>
+      <p class="text-slate-700">
+        We provide professional {service.replace(/-/g,' ')} services throughout {suburbData.name} and surrounding areas. 
+        Our team is fully insured, police-checked, and equipped with professional-grade cleaning supplies.
+      </p>
+    </div>
+
+    <CrossServiceLinks currentService={service} suburbSlug={suburb} />
+    <NearbyAlternatives currentService={service} suburbSlug={suburb} perService={3} />
+    
+    {/* FAQ Section */}
+    <FaqSection 
+      items={faqItems}
+      heading={`${SERVICES[service].label} in ${suburbData.name} - FAQs`}
+      id="suburb-service-faq"
+    />
+
+    {/* Contact CTA */}
+    <ContactCta 
+      title={`Ready to book ${service.replace(/-/g,' ')} in ${suburbData.name}?`}
+      description={`Get a fast, free quote for professional ${service.replace(/-/g,' ')} in ${suburbData.name}. Our local team is ready to help.`}
+    />
+    
+    <RelatedListsLd items={crossItemsSame} />
+  </section>
+</MainLayout>

@@ -1,0 +1,184 @@
+---
+// EcoLayout.astro - Scandinavian Minimalist layout for eco-friendly content
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  image?: string;
+  breadcrumb?: object;
+}
+
+const { title, description, canonical, image, breadcrumb } = Astro.props;
+
+import { ViewTransitions } from 'astro:transitions';
+import Header from '~/components/Header.astro';
+import Footer from '~/components/Footer.astro';
+import { listSuburbsForCluster } from '~/utils/geoHandler';
+import { buildGraph } from '~/utils/schemaGraph.js';
+import SchemaGraph from '~/components/SchemaGraph.astro';
+import { resolveOrigin } from '~/utils/origin';
+import { buildLocalBusiness, buildBreadcrumb as buildBc, buildWebPage } from '~/lib/schema/builders';
+
+import '~/styles/main.css';
+import '~/styles/eco-minimal.css';
+
+import { absoluteUrl } from '~/lib/url';
+const siteUrl  = import.meta.env.SITE || 'https://onendonebondclean.com.au';
+function withTrailingSlash(u) {
+  if (!u) return u;
+  try {
+  const url = new URL(u, siteUrl);
+    if (/\.[a-z0-9]+$/i.test(url.pathname)) return url.toString();
+    if (!url.pathname.endsWith('/')) url.pathname += '/';
+    return url.toString();
+  } catch {
+    if (/\.[a-z0-9]+$/i.test(u) || u.endsWith('/') || u.includes('?') || u.includes('#')) return u;
+    return u + '/';
+  }
+}
+const rawPageUrl  = canonical
+  ? absoluteUrl(canonical)
+  : absoluteUrl(Astro.url?.pathname ?? '/');
+const pageUrl = withTrailingSlash(rawPageUrl);
+const ogImage  = absoluteUrl(image ?? '/og.jpg');
+
+// Simplified schema for eco pages
+const CLUSTERS = ['ipswich','brisbane','logan'];
+const suburbs: { slug: string; name: string }[] = CLUSTERS.flatMap(c =>
+  (listSuburbsForCluster(c) || []).filter(s => typeof s === 'string').map(s => ({ slug: s as string, name: (s as string).replace(/-/g,' ') }))
+);
+
+const localBusinessSchema = buildLocalBusiness({ areaServed: suburbs.map(s => s.name) });
+
+const schemaGraph = buildGraph({ path: Astro.url?.pathname ?? '/', page: breadcrumb ? { breadcrumb } : {} });
+
+const origin = (import.meta.env.SITE || resolveOrigin(Astro));
+const url = absoluteUrl(Astro.url?.pathname ?? '/');
+let fallbackGraph = [ buildWebPage(url) ];
+---
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth eco-theme">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="view-transition" content="same-origin" />
+    
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={pageUrl} />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="keywords" content="eco friendly cleaning, sustainable bond cleaning, green cleaning, natural cleaning products, environmentally safe cleaning, Brisbane, Ipswich, Logan" />
+    <meta name="author" content="One N Done Bond Clean" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={pageUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content="Eco-friendly cleaning in action by One N Done" />
+    <meta property="og:locale" content="en_AU" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@OneNDoneClean" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <!-- Performance hints -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Scandinavian-inspired typography -->
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" />
+    </noscript>
+
+    <ViewTransitions />
+
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(localBusinessSchema)} />
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(schemaGraph)} />
+    <SchemaGraph graph={fallbackGraph} />
+
+    <slot name="head" />
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DCGW9TY7QM"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-DCGW9TY7QM');
+    </script>
+  </head>
+  <body class="eco-body min-h-screen flex flex-col">
+    <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:bg-slate-900 focus:text-white focus:px-4 focus:py-3 focus:rounded-lg focus:z-[100] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-400">Skip to content</a>
+    
+    <Header suburbs={suburbs} transition:name="header" class="eco-header" />
+
+    <main id="main" role="main" tabindex="-1" class="flex-1 eco-main" transition:name="main-content">
+      <slot />
+    </main>
+
+    <Footer transition:name="footer" class="eco-footer" />
+    
+    <script is:inline>
+      document.addEventListener('DOMContentLoaded', () => {
+        const skip = document.querySelector('a[href="#main"]');
+        const focusMain = () => {
+          const m = document.getElementById('main');
+          if (!m) return;
+          if (!m.hasAttribute('tabindex')) m.setAttribute('tabindex', '-1');
+          const tick = () => m.focus({ preventScroll: true });
+          tick();
+          setTimeout(tick, 0);
+          requestAnimationFrame(tick);
+          setTimeout(tick, 50);
+        };
+        skip?.addEventListener('click', (e) => {
+          e.preventDefault();
+          focusMain();
+          if (location.hash !== '#main') location.hash = 'main';
+        });
+        window.addEventListener('hashchange', () => {
+          if (location.hash === '#main') focusMain();
+        });
+        if (location.hash === '#main') focusMain();
+        
+        // Enhanced view transitions for eco theme
+        document.addEventListener('astro:before-preparation', (event) => {
+          const fromUrl = new URL(event.from.pathname + event.from.search + event.from.hash, location.origin);
+          const toUrl = new URL(event.to.pathname + event.to.search + event.to.hash, location.origin);
+          
+          if (fromUrl.pathname === toUrl.pathname && toUrl.hash) {
+            event.preventDefault();
+            const target = document.querySelector(toUrl.hash);
+            if (target) {
+              target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              history.pushState({}, '', toUrl);
+            }
+          }
+        });
+        
+        window.addEventListener('popstate', (event) => {
+          if (location.hash) {
+            const target = document.querySelector(location.hash);
+            if (target) {
+              setTimeout(() => {
+                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }, 100);
+            }
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

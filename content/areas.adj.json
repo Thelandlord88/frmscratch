@@ -1,0 +1,2476 @@
+{
+  "annerley": [
+    "fairfield",
+    "greenslopes",
+    "moorooka",
+    "tarragindi",
+    "woolloongabba",
+    "yeerongpilly",
+    "yeronga"
+  ],
+  "albion": [
+    "ascot",
+    "bowen-hills",
+    "clayfield",
+    "hamilton",
+    "lutwyche",
+    "newstead",
+    "windsor",
+    "wooloowin"
+  ],
+  "alderley": [
+    "ashgrove",
+    "enoggera",
+    "grange",
+    "newmarket",
+    "stafford"
+  ],
+  "acacia-ridge": [
+    "algester",
+    "archerfield",
+    "coopers-plains",
+    "sunnybank",
+    "sunnybank-hills",
+    "willawong"
+  ],
+  "archerfield": [
+    "acacia-ridge",
+    "coopers-plains",
+    "rocklea",
+    "willawong"
+  ],
+  "anstead": [
+    "bellbowrie",
+    "kholo",
+    "moggill",
+    "mount-crosby",
+    "pinjarra-hills",
+    "pullenvale"
+  ],
+  "algester": [
+    "acacia-ridge",
+    "calamvale",
+    "pallara",
+    "parkinson",
+    "sunnybank-hills",
+    "willawong"
+  ],
+  "bald-hills": [
+    "bracken-ridge",
+    "bridgeman-downs",
+    "brighton",
+    "carseldine",
+    "fitzgibbon"
+  ],
+  "ascot": [
+    "albion",
+    "clayfield",
+    "eagle-farm",
+    "hamilton",
+    "hendra"
+  ],
+  "ashgrove": [
+    "alderley",
+    "bardon",
+    "enoggera",
+    "newmarket",
+    "red-hill",
+    "the-gap"
+  ],
+  "aspley": [
+    "bridgeman-downs",
+    "carseldine",
+    "chermside",
+    "chermside-west",
+    "geebung",
+    "mcdowall",
+    "zillmere"
+  ],
+  "auchenflower": [
+    "bardon",
+    "milton",
+    "paddington",
+    "toowong",
+    "west-end"
+  ],
+  "balmoral": [
+    "bulimba",
+    "hawthorne",
+    "morningside"
+  ],
+  "banks-creek": [
+    "england-creek",
+    "lake-manchester"
+  ],
+  "banyo": [
+    "boondall",
+    "brisbane-airport",
+    "northgate",
+    "nudgee",
+    "virginia"
+  ],
+  "bardon": [
+    "ashgrove",
+    "auchenflower",
+    "mount-coot-tha",
+    "paddington",
+    "red-hill",
+    "the-gap",
+    "toowong"
+  ],
+  "bellbowrie": [
+    "anstead",
+    "moggill",
+    "pinjarra-hills",
+    "riverhills",
+    "westlake"
+  ],
+  "belmont": [
+    "burbank",
+    "carindale",
+    "chandler",
+    "gumdale",
+    "mackenzie",
+    "tingalpa"
+  ],
+  "boondall": [
+    "banyo",
+    "deagon",
+    "geebung",
+    "nudgee",
+    "nudgee-beach",
+    "sandgate",
+    "shorncliffe",
+    "virginia",
+    "zillmere"
+  ],
+  "bridgeman-downs": [
+    "aspley",
+    "bald-hills",
+    "carseldine",
+    "mcdowall"
+  ],
+  "bowen-hills": [
+    "albion",
+    "fortitude-valley",
+    "herston",
+    "newstead",
+    "spring-hill",
+    "windsor"
+  ],
+  "bracken-ridge": [
+    "bald-hills",
+    "brighton",
+    "deagon",
+    "fitzgibbon",
+    "sandgate"
+  ],
+  "brighton": [
+    "bald-hills",
+    "bracken-ridge",
+    "sandgate"
+  ],
+  "brisbane-airport": [
+    "banyo",
+    "eagle-farm",
+    "hendra",
+    "northgate",
+    "nudgee",
+    "nudgee-beach",
+    "nundah",
+    "pinkenba"
+  ],
+  "brisbane-city": [
+    "fortitude-valley",
+    "kangaroo-point",
+    "milton",
+    "petrie-terrace",
+    "south-brisbane",
+    "spring-hill"
+  ],
+  "bulimba": [
+    "balmoral",
+    "hamilton",
+    "hawthorne",
+    "morningside",
+    "newstead",
+    "teneriffe"
+  ],
+  "bulwer": [
+    "moreton-island"
+  ],
+  "brookfield": [
+    "enoggera-reservoir",
+    "kenmore",
+    "kenmore-hills",
+    "mount-coot-tha",
+    "pinjarra-hills",
+    "pullenvale",
+    "the-gap",
+    "upper-brookfield"
+  ],
+  "burbank": [
+    "belmont",
+    "chandler",
+    "mackenzie",
+    "rochedale"
+  ],
+  "camp-hill": [
+    "carina",
+    "carina-heights",
+    "coorparoo",
+    "holland-park",
+    "norman-park",
+    "seven-hills"
+  ],
+  "cannon-hill": [
+    "carina",
+    "morningside",
+    "murarrie",
+    "seven-hills",
+    "tingalpa"
+  ],
+  "calamvale": [
+    "algester",
+    "drewvale",
+    "parkinson",
+    "stretton",
+    "sunnybank-hills"
+  ],
+  "clayfield": [
+    "albion",
+    "ascot",
+    "hendra",
+    "kalinga",
+    "nundah",
+    "wooloowin"
+  ],
+  "carina-heights": [
+    "camp-hill",
+    "carina",
+    "carindale",
+    "holland-park",
+    "mount-gravatt-east"
+  ],
+  "carina": [
+    "camp-hill",
+    "cannon-hill",
+    "carina-heights",
+    "carindale",
+    "seven-hills",
+    "tingalpa"
+  ],
+  "carindale": [
+    "belmont",
+    "carina",
+    "carina-heights",
+    "mackenzie",
+    "mansfield",
+    "tingalpa"
+  ],
+  "chandler": [
+    "belmont",
+    "burbank",
+    "gumdale",
+    "ransome"
+  ],
+  "chapel-hill": [
+    "fig-tree-pocket",
+    "indooroopilly",
+    "kenmore",
+    "kenmore-hills",
+    "mount-coot-tha"
+  ],
+  "carseldine": [
+    "aspley",
+    "bald-hills",
+    "bridgeman-downs",
+    "fitzgibbon",
+    "zillmere"
+  ],
+  "chuwar": [
+    "chuwar",
+    "karalee",
+    "muirlea",
+    "north-ipswich",
+    "north-tivoli",
+    "tivoli"
+  ],
+  "chelmer": [
+    "fig-tree-pocket",
+    "graceville",
+    "indooroopilly"
+  ],
+  "chermside-west": [
+    "aspley",
+    "chermside",
+    "kedron",
+    "mcdowall",
+    "stafford-heights"
+  ],
+  "chermside": [
+    "aspley",
+    "chermside-west",
+    "geebung",
+    "kedron",
+    "wavell-heights"
+  ],
+  "coorparoo": [
+    "camp-hill",
+    "east-brisbane",
+    "greenslopes",
+    "holland-park",
+    "norman-park",
+    "stones-corner",
+    "woolloongabba"
+  ],
+  "coopers-plains": [
+    "acacia-ridge",
+    "archerfield",
+    "nathan",
+    "robertson",
+    "rocklea",
+    "salisbury",
+    "sunnybank"
+  ],
+  "heathwood": [
+    "forest-lake",
+    "larapinta",
+    "pallara"
+  ],
+  "hemmant": [
+    "lytton",
+    "murarrie",
+    "pinkenba",
+    "tingalpa",
+    "wynnum-west"
+  ],
+  "hawthorne": [
+    "balmoral",
+    "bulimba",
+    "morningside",
+    "new-farm",
+    "norman-park",
+    "teneriffe"
+  ],
+  "eight-mile-plains": [
+    "kuraby",
+    "macgregor",
+    "rochedale",
+    "runcorn",
+    "sunnybank",
+    "upper-mount-gravatt",
+    "wishart"
+  ],
+  "ferny-grove": [
+    "keperra",
+    "upper-kedron"
+  ],
+  "mount-gravatt-east": [
+    "carina-heights",
+    "holland-park",
+    "mansfield",
+    "mount-gravatt",
+    "upper-mount-gravatt"
+  ],
+  "mount-gravatt": [
+    "holland-park",
+    "holland-park-west",
+    "mount-gravatt-east",
+    "nathan",
+    "upper-mount-gravatt"
+  ],
+  "england-creek": [
+    "banks-creek"
+  ],
+  "enoggera-reservoir": [
+    "brookfield",
+    "lake-manchester",
+    "the-gap",
+    "upper-brookfield",
+    "upper-kedron"
+  ],
+  "enoggera": [
+    "alderley",
+    "ashgrove",
+    "everton-park",
+    "gaythorne",
+    "keperra",
+    "mitchelton",
+    "stafford",
+    "the-gap"
+  ],
+  "cowan-cowan": [
+    "moreton-island"
+  ],
+  "milton": [
+    "auchenflower",
+    "brisbane-city",
+    "paddington",
+    "petrie-terrace",
+    "south-brisbane",
+    "west-end"
+  ],
+  "newstead": [
+    "albion",
+    "bowen-hills",
+    "bulimba",
+    "fortitude-valley",
+    "hamilton",
+    "teneriffe"
+  ],
+  "corinda": [
+    "fig-tree-pocket",
+    "oxley",
+    "rocklea",
+    "sherwood"
+  ],
+  "durack": [
+    "doolandella",
+    "inala",
+    "oxley",
+    "willawong"
+  ],
+  "dutton-park": [
+    "fairfield",
+    "highgate-hill",
+    "south-brisbane",
+    "st-lucia",
+    "woolloongabba"
+  ],
+  "mitchelton": [
+    "enoggera",
+    "everton-park",
+    "gaythorne",
+    "keperra"
+  ],
+  "moggill": [
+    "anstead",
+    "bellbowrie",
+    "riverhills",
+    "wacol"
+  ],
+  "new-farm": [
+    "east-brisbane",
+    "fortitude-valley",
+    "hawthorne",
+    "kangaroo-point",
+    "norman-park",
+    "teneriffe"
+  ],
+  "eagle-farm": [
+    "ascot",
+    "brisbane-airport",
+    "hamilton",
+    "hendra",
+    "murarrie",
+    "pinkenba"
+  ],
+  "east-brisbane": [
+    "coorparoo",
+    "kangaroo-point",
+    "new-farm",
+    "norman-park",
+    "woolloongabba"
+  ],
+  "newmarket": [
+    "alderley",
+    "ashgrove",
+    "grange",
+    "kelvin-grove",
+    "red-hill",
+    "wilston"
+  ],
+  "norman-park": [
+    "camp-hill",
+    "coorparoo",
+    "east-brisbane",
+    "hawthorne",
+    "morningside",
+    "new-farm",
+    "seven-hills"
+  ],
+  "everton-park": [
+    "enoggera",
+    "gaythorne",
+    "mcdowall",
+    "mitchelton",
+    "stafford",
+    "stafford-heights"
+  ],
+  "darra": [
+    "oxley",
+    "richlands",
+    "seventeen-mile-rocks",
+    "sinnamon-park",
+    "sumner",
+    "wacol"
+  ],
+  "deagon": [
+    "boondall",
+    "bracken-ridge",
+    "fitzgibbon",
+    "sandgate",
+    "taigum"
+  ],
+  "fig-tree-pocket": [
+    "chapel-hill",
+    "chelmer",
+    "corinda",
+    "graceville",
+    "indooroopilly",
+    "jindalee",
+    "kenmore",
+    "oxley",
+    "seventeen-mile-rocks",
+    "sherwood",
+    "sinnamon-park"
+  ],
+  "mount-coot-tha": [
+    "bardon",
+    "brookfield",
+    "chapel-hill",
+    "indooroopilly",
+    "kenmore-hills",
+    "taringa",
+    "the-gap",
+    "toowong"
+  ],
+  "drewvale": [
+    "calamvale",
+    "karawatha",
+    "parkinson",
+    "stretton"
+  ],
+  "forest-lake": [
+    "doolandella",
+    "ellen-grove",
+    "heathwood",
+    "inala",
+    "pallara",
+    "richlands",
+    "wacol"
+  ],
+  "mount-crosby": [
+    "anstead",
+    "karana-downs",
+    "kholo"
+  ],
+  "fitzgibbon": [
+    "bald-hills",
+    "bracken-ridge",
+    "carseldine",
+    "deagon",
+    "taigum",
+    "zillmere"
+  ],
+  "ellen-grove": [
+    "forest-lake",
+    "wacol"
+  ],
+  "holland-park-west": [
+    "greenslopes",
+    "holland-park",
+    "mount-gravatt",
+    "tarragindi"
+  ],
+  "holland-park": [
+    "camp-hill",
+    "carina-heights",
+    "coorparoo",
+    "greenslopes",
+    "holland-park-west",
+    "mount-gravatt",
+    "mount-gravatt-east"
+  ],
+  "fortitude-valley": [
+    "bowen-hills",
+    "brisbane-city",
+    "kangaroo-point",
+    "new-farm",
+    "newstead",
+    "spring-hill",
+    "teneriffe"
+  ],
+  "hamilton": [
+    "albion",
+    "ascot",
+    "bulimba",
+    "eagle-farm",
+    "morningside",
+    "newstead"
+  ],
+  "gaythorne": [
+    "enoggera",
+    "everton-park",
+    "mitchelton"
+  ],
+  "geebung": [
+    "aspley",
+    "boondall",
+    "chermside",
+    "virginia",
+    "wavell-heights",
+    "zillmere"
+  ],
+  "doolandella": [
+    "durack",
+    "forest-lake",
+    "inala",
+    "pallara",
+    "willawong"
+  ],
+  "gordon-park": [
+    "grange",
+    "kedron",
+    "lutwyche",
+    "stafford"
+  ],
+  "highgate-hill": [
+    "dutton-park",
+    "south-brisbane",
+    "st-lucia",
+    "west-end"
+  ],
+  "fairfield": [
+    "annerley",
+    "dutton-park",
+    "st-lucia",
+    "woolloongabba",
+    "yeronga"
+  ],
+  "graceville": [
+    "chelmer",
+    "fig-tree-pocket",
+    "indooroopilly",
+    "sherwood",
+    "tennyson"
+  ],
+  "hendra": [
+    "ascot",
+    "brisbane-airport",
+    "clayfield",
+    "eagle-farm",
+    "nundah"
+  ],
+  "herston": [
+    "bowen-hills",
+    "kelvin-grove",
+    "spring-hill",
+    "wilston",
+    "windsor"
+  ],
+  "inala": [
+    "doolandella",
+    "durack",
+    "forest-lake",
+    "oxley",
+    "richlands"
+  ],
+  "indooroopilly": [
+    "chapel-hill",
+    "chelmer",
+    "fig-tree-pocket",
+    "graceville",
+    "mount-coot-tha",
+    "st-lucia",
+    "taringa",
+    "tennyson",
+    "yeerongpilly",
+    "yeronga"
+  ],
+  "grange": [
+    "alderley",
+    "gordon-park",
+    "lutwyche",
+    "newmarket",
+    "stafford",
+    "wilston",
+    "windsor"
+  ],
+  "greenslopes": [
+    "annerley",
+    "coorparoo",
+    "holland-park",
+    "holland-park-west",
+    "stones-corner",
+    "tarragindi",
+    "woolloongabba"
+  ],
+  "gumdale": [
+    "belmont",
+    "chandler",
+    "ransome",
+    "tingalpa",
+    "wakerley"
+  ],
+  "jindalee": [
+    "fig-tree-pocket",
+    "kenmore",
+    "mount-ommaney",
+    "pinjarra-hills",
+    "sinnamon-park"
+  ],
+  "jamboree-heights": [
+    "middle-park",
+    "mount-ommaney",
+    "sinnamon-park",
+    "sumner"
+  ],
+  "kholo": [
+    "anstead",
+    "lake-manchester",
+    "mount-crosby",
+    "pullenvale",
+    "upper-brookfield"
+  ],
+  "macgregor": [
+    "eight-mile-plains",
+    "nathan",
+    "robertson",
+    "sunnybank",
+    "upper-mount-gravatt"
+  ],
+  "upper-kedron": [
+    "enoggera-reservoir",
+    "ferny-grove",
+    "keperra",
+    "the-gap"
+  ],
+  "mackenzie": [
+    "belmont",
+    "burbank",
+    "carindale",
+    "mansfield",
+    "rochedale"
+  ],
+  "sunnybank-hills": [
+    "acacia-ridge",
+    "algester",
+    "calamvale",
+    "runcorn",
+    "sunnybank"
+  ],
+  "sunnybank": [
+    "acacia-ridge",
+    "coopers-plains",
+    "eight-mile-plains",
+    "macgregor",
+    "robertson",
+    "runcorn",
+    "sunnybank-hills"
+  ],
+  "south-brisbane": [
+    "brisbane-city",
+    "dutton-park",
+    "highgate-hill",
+    "kangaroo-point",
+    "milton",
+    "west-end",
+    "woolloongabba"
+  ],
+  "tingalpa": [
+    "belmont",
+    "cannon-hill",
+    "carina",
+    "carindale",
+    "gumdale",
+    "hemmant",
+    "manly-west",
+    "murarrie",
+    "wakerley",
+    "wynnum-west"
+  ],
+  "upper-brookfield": [
+    "brookfield",
+    "enoggera-reservoir",
+    "kholo",
+    "lake-manchester",
+    "pullenvale"
+  ],
+  "stretton": [
+    "calamvale",
+    "drewvale",
+    "karawatha",
+    "kuraby",
+    "runcorn"
+  ],
+  "lytton": [
+    "hemmant",
+    "pinkenba",
+    "port-of-brisbane",
+    "wynnum",
+    "wynnum-west"
+  ],
+  "taigum": [
+    "deagon",
+    "fitzgibbon",
+    "zillmere"
+  ],
+  "kalinga": [
+    "clayfield",
+    "kedron",
+    "nundah",
+    "wavell-heights",
+    "wooloowin"
+  ],
+  "kooringal": [
+    "moreton-island"
+  ],
+  "stones-corner": [
+    "coorparoo",
+    "greenslopes",
+    "woolloongabba"
+  ],
+  "mcdowall": [
+    "aspley",
+    "bridgeman-downs",
+    "chermside-west",
+    "everton-park",
+    "stafford-heights"
+  ],
+  "keperra": [
+    "enoggera",
+    "ferny-grove",
+    "mitchelton",
+    "the-gap",
+    "upper-kedron"
+  ],
+  "sumner": [
+    "darra",
+    "jamboree-heights",
+    "middle-park",
+    "riverhills",
+    "wacol"
+  ],
+  "larapinta": [
+    "heathwood",
+    "pallara",
+    "parkinson"
+  ],
+  "mount-ommaney": [
+    "jamboree-heights",
+    "jindalee",
+    "middle-park",
+    "pinjarra-hills",
+    "sinnamon-park",
+    "westlake"
+  ],
+  "moreton-island": [
+    "bulwer",
+    "cowan-cowan",
+    "kooringal"
+  ],
+  "morningside": [
+    "balmoral",
+    "bulimba",
+    "cannon-hill",
+    "hamilton",
+    "hawthorne",
+    "murarrie",
+    "norman-park",
+    "seven-hills"
+  ],
+  "lake-manchester": [
+    "banks-creek",
+    "enoggera-reservoir",
+    "kholo",
+    "upper-brookfield"
+  ],
+  "nathan": [
+    "coopers-plains",
+    "macgregor",
+    "mount-gravatt",
+    "robertson",
+    "salisbury",
+    "tarragindi",
+    "upper-mount-gravatt"
+  ],
+  "kangaroo-point": [
+    "brisbane-city",
+    "east-brisbane",
+    "fortitude-valley",
+    "new-farm",
+    "south-brisbane",
+    "woolloongabba"
+  ],
+  "karana-downs": [
+    "mount-crosby"
+  ],
+  "kenmore-hills": [
+    "brookfield",
+    "chapel-hill",
+    "kenmore",
+    "mount-coot-tha"
+  ],
+  "kenmore": [
+    "brookfield",
+    "chapel-hill",
+    "fig-tree-pocket",
+    "jindalee",
+    "kenmore-hills",
+    "pinjarra-hills"
+  ],
+  "kuraby": [
+    "eight-mile-plains",
+    "karawatha",
+    "runcorn",
+    "stretton"
+  ],
+  "karawatha": [
+    "drewvale",
+    "kuraby",
+    "stretton"
+  ],
+  "manly-west": [
+    "lota",
+    "manly",
+    "tingalpa",
+    "wakerley",
+    "wynnum",
+    "wynnum-west"
+  ],
+  "manly": [
+    "lota",
+    "manly-west"
+  ],
+  "mansfield": [
+    "carindale",
+    "mackenzie",
+    "mount-gravatt-east",
+    "rochedale",
+    "upper-mount-gravatt",
+    "wishart"
+  ],
+  "lota": [
+    "manly",
+    "manly-west",
+    "ransome",
+    "wakerley"
+  ],
+  "lutwyche": [
+    "albion",
+    "gordon-park",
+    "grange",
+    "kedron",
+    "windsor",
+    "wooloowin"
+  ],
+  "kedron": [
+    "chermside",
+    "chermside-west",
+    "gordon-park",
+    "kalinga",
+    "lutwyche",
+    "stafford",
+    "stafford-heights",
+    "wavell-heights",
+    "wooloowin"
+  ],
+  "kelvin-grove": [
+    "herston",
+    "newmarket",
+    "petrie-terrace",
+    "red-hill",
+    "spring-hill",
+    "wilston"
+  ],
+  "murarrie": [
+    "cannon-hill",
+    "eagle-farm",
+    "hemmant",
+    "morningside",
+    "pinkenba",
+    "tingalpa"
+  ],
+  "nudgee-beach": [
+    "boondall",
+    "brisbane-airport",
+    "nudgee",
+    "shorncliffe"
+  ],
+  "nudgee": [
+    "banyo",
+    "boondall",
+    "brisbane-airport",
+    "nudgee-beach"
+  ],
+  "nundah": [
+    "brisbane-airport",
+    "clayfield",
+    "hendra",
+    "kalinga",
+    "northgate",
+    "virginia",
+    "wavell-heights"
+  ],
+  "moorooka": [
+    "annerley",
+    "rocklea",
+    "salisbury",
+    "tarragindi",
+    "yeerongpilly"
+  ],
+  "moreton-bay": [],
+  "northgate": [
+    "banyo",
+    "brisbane-airport",
+    "nundah",
+    "virginia"
+  ],
+  "middle-park": [
+    "jamboree-heights",
+    "mount-ommaney",
+    "riverhills",
+    "sumner",
+    "westlake"
+  ],
+  "petrie-terrace": [
+    "brisbane-city",
+    "kelvin-grove",
+    "milton",
+    "paddington",
+    "red-hill"
+  ],
+  "red-hill": [
+    "ashgrove",
+    "bardon",
+    "kelvin-grove",
+    "newmarket",
+    "paddington",
+    "petrie-terrace"
+  ],
+  "wynnum-west": [
+    "hemmant",
+    "lytton",
+    "manly-west",
+    "tingalpa"
+  ],
+  "wynnum": [
+    "lytton",
+    "manly-west",
+    "port-of-brisbane"
+  ],
+  "windsor": [
+    "albion",
+    "bowen-hills",
+    "grange",
+    "herston",
+    "lutwyche",
+    "wilston"
+  ],
+  "runcorn": [
+    "eight-mile-plains",
+    "kuraby",
+    "stretton",
+    "sunnybank",
+    "sunnybank-hills"
+  ],
+  "zillmere": [
+    "aspley",
+    "boondall",
+    "carseldine",
+    "fitzgibbon",
+    "geebung",
+    "taigum"
+  ],
+  "wavell-heights": [
+    "chermside",
+    "geebung",
+    "kalinga",
+    "kedron",
+    "nundah",
+    "virginia"
+  ],
+  "willawong": [
+    "acacia-ridge",
+    "algester",
+    "archerfield",
+    "doolandella",
+    "durack",
+    "oxley",
+    "pallara",
+    "rocklea"
+  ],
+  "wishart": [
+    "eight-mile-plains",
+    "mansfield",
+    "rochedale",
+    "upper-mount-gravatt"
+  ],
+  "wooloowin": [
+    "albion",
+    "clayfield",
+    "kalinga",
+    "kedron",
+    "lutwyche"
+  ],
+  "oxley": [
+    "corinda",
+    "darra",
+    "durack",
+    "fig-tree-pocket",
+    "inala",
+    "rocklea",
+    "seventeen-mile-rocks",
+    "willawong"
+  ],
+  "woolloongabba": [
+    "annerley",
+    "coorparoo",
+    "dutton-park",
+    "east-brisbane",
+    "fairfield",
+    "greenslopes",
+    "kangaroo-point",
+    "south-brisbane",
+    "stones-corner"
+  ],
+  "westlake": [
+    "bellbowrie",
+    "middle-park",
+    "mount-ommaney",
+    "pinjarra-hills",
+    "riverhills"
+  ],
+  "yeerongpilly": [
+    "annerley",
+    "indooroopilly",
+    "moorooka",
+    "rocklea",
+    "tennyson",
+    "yeronga"
+  ],
+  "wilston": [
+    "grange",
+    "herston",
+    "kelvin-grove",
+    "newmarket",
+    "windsor"
+  ],
+  "yeronga": [
+    "annerley",
+    "fairfield",
+    "indooroopilly",
+    "st-lucia",
+    "yeerongpilly"
+  ],
+  "ransome": [
+    "chandler",
+    "gumdale",
+    "lota",
+    "wakerley"
+  ],
+  "taringa": [
+    "indooroopilly",
+    "mount-coot-tha",
+    "st-lucia",
+    "toowong"
+  ],
+  "sherwood": [
+    "corinda",
+    "fig-tree-pocket",
+    "graceville",
+    "rocklea",
+    "tennyson"
+  ],
+  "stafford-heights": [
+    "chermside-west",
+    "everton-park",
+    "kedron",
+    "mcdowall",
+    "stafford"
+  ],
+  "stafford": [
+    "alderley",
+    "enoggera",
+    "everton-park",
+    "gordon-park",
+    "grange",
+    "kedron",
+    "stafford-heights"
+  ],
+  "the-gap": [
+    "ashgrove",
+    "bardon",
+    "brookfield",
+    "enoggera",
+    "enoggera-reservoir",
+    "keperra",
+    "mount-coot-tha",
+    "upper-kedron"
+  ],
+  "rocklea": [
+    "archerfield",
+    "coopers-plains",
+    "corinda",
+    "moorooka",
+    "oxley",
+    "salisbury",
+    "sherwood",
+    "tennyson",
+    "willawong",
+    "yeerongpilly"
+  ],
+  "pinjarra-hills": [
+    "anstead",
+    "bellbowrie",
+    "brookfield",
+    "jindalee",
+    "kenmore",
+    "mount-ommaney",
+    "pullenvale",
+    "westlake"
+  ],
+  "pinkenba": [
+    "brisbane-airport",
+    "eagle-farm",
+    "hemmant",
+    "lytton",
+    "murarrie",
+    "port-of-brisbane"
+  ],
+  "port-of-brisbane": [
+    "lytton",
+    "pinkenba",
+    "wynnum"
+  ],
+  "riverhills": [
+    "bellbowrie",
+    "middle-park",
+    "moggill",
+    "sumner",
+    "wacol",
+    "westlake"
+  ],
+  "richlands": [
+    "darra",
+    "forest-lake",
+    "inala",
+    "wacol"
+  ],
+  "seven-hills": [
+    "camp-hill",
+    "cannon-hill",
+    "carina",
+    "morningside",
+    "norman-park"
+  ],
+  "seventeen-mile-rocks": [
+    "darra",
+    "fig-tree-pocket",
+    "oxley",
+    "sinnamon-park"
+  ],
+  "pullenvale": [
+    "anstead",
+    "brookfield",
+    "kholo",
+    "pinjarra-hills",
+    "upper-brookfield"
+  ],
+  "salisbury": [
+    "coopers-plains",
+    "moorooka",
+    "nathan",
+    "rocklea",
+    "tarragindi"
+  ],
+  "paddington": [
+    "auchenflower",
+    "bardon",
+    "milton",
+    "petrie-terrace",
+    "red-hill"
+  ],
+  "robertson": [
+    "coopers-plains",
+    "macgregor",
+    "nathan",
+    "sunnybank"
+  ],
+  "rochedale": [
+    "burbank",
+    "eight-mile-plains",
+    "mackenzie",
+    "mansfield",
+    "wishart"
+  ],
+  "pallara": [
+    "algester",
+    "doolandella",
+    "forest-lake",
+    "heathwood",
+    "larapinta",
+    "willawong"
+  ],
+  "sandgate": [
+    "boondall",
+    "bracken-ridge",
+    "brighton",
+    "deagon",
+    "shorncliffe"
+  ],
+  "parkinson": [
+    "algester",
+    "calamvale",
+    "drewvale",
+    "larapinta"
+  ],
+  "upper-mount-gravatt": [
+    "eight-mile-plains",
+    "macgregor",
+    "mansfield",
+    "mount-gravatt",
+    "mount-gravatt-east",
+    "nathan",
+    "wishart"
+  ],
+  "toowong": [
+    "auchenflower",
+    "bardon",
+    "mount-coot-tha",
+    "st-lucia",
+    "taringa",
+    "west-end"
+  ],
+  "spring-hill": [
+    "bowen-hills",
+    "brisbane-city",
+    "fortitude-valley",
+    "herston",
+    "kelvin-grove"
+  ],
+  "shorncliffe": [
+    "boondall",
+    "nudgee-beach",
+    "sandgate"
+  ],
+  "st-lucia": [
+    "dutton-park",
+    "fairfield",
+    "highgate-hill",
+    "indooroopilly",
+    "taringa",
+    "toowong",
+    "west-end",
+    "yeronga"
+  ],
+  "tarragindi": [
+    "annerley",
+    "greenslopes",
+    "holland-park-west",
+    "moorooka",
+    "nathan",
+    "salisbury"
+  ],
+  "teneriffe": [
+    "bulimba",
+    "fortitude-valley",
+    "hawthorne",
+    "new-farm",
+    "newstead"
+  ],
+  "tennyson": [
+    "graceville",
+    "indooroopilly",
+    "rocklea",
+    "sherwood",
+    "yeerongpilly"
+  ],
+  "sinnamon-park": [
+    "darra",
+    "fig-tree-pocket",
+    "jamboree-heights",
+    "jindalee",
+    "mount-ommaney",
+    "seventeen-mile-rocks"
+  ],
+  "west-end": [
+    "auchenflower",
+    "highgate-hill",
+    "milton",
+    "south-brisbane",
+    "st-lucia",
+    "toowong"
+  ],
+  "virginia": [
+    "banyo",
+    "boondall",
+    "geebung",
+    "northgate",
+    "nundah",
+    "wavell-heights"
+  ],
+  "wacol": [
+    "darra",
+    "ellen-grove",
+    "forest-lake",
+    "moggill",
+    "richlands",
+    "riverhills",
+    "sumner"
+  ],
+  "wakerley": [
+    "gumdale",
+    "lota",
+    "manly-west",
+    "ransome",
+    "tingalpa"
+  ],
+  "amberley": [
+    "jeebropilly",
+    "karrabin",
+    "leichhardt",
+    "one-mile",
+    "purga",
+    "walloon",
+    "willowbank",
+    "wulkuraka",
+    "yamanto"
+  ],
+  "augustine-heights": [
+    "bellbird-park",
+    "brookwater",
+    "redbank-plains",
+    "spring-mountain",
+    "springfield-central"
+  ],
+  "ashwell": [
+    "lanefield",
+    "rosewood",
+    "tallegalla",
+    "the-bluff"
+  ],
+  "barellan-point": [
+    "karalee",
+    "riverview"
+  ],
+  "basin-pocket": [
+    "east-ipswich",
+    "moores-pocket",
+    "north-ipswich",
+    "tivoli"
+  ],
+  "blacksoil": [
+    "brassall",
+    "ironbark",
+    "karrabin",
+    "pine-mountain"
+  ],
+  "blackstone": [
+    "bundamba",
+    "new-chum",
+    "raceview",
+    "silkstone",
+    "swanbank"
+  ],
+  "bellbird-park": [
+    "augustine-heights",
+    "brookwater",
+    "camira",
+    "goodna",
+    "redbank",
+    "redbank-plains",
+    "springfield"
+  ],
+  "booval": [
+    "bundamba",
+    "east-ipswich",
+    "newtown",
+    "north-booval",
+    "silkstone"
+  ],
+  "brassall": [
+    "blacksoil",
+    "coalfalls",
+    "karrabin",
+    "muirlea",
+    "north-ipswich",
+    "pine-mountain",
+    "woodend",
+    "wulkuraka"
+  ],
+  "bundamba": [
+    "blackstone",
+    "booval",
+    "dinmore",
+    "ebbw-vale",
+    "karalee",
+    "new-chum",
+    "north-booval",
+    "north-tivoli",
+    "riverview",
+    "silkstone"
+  ],
+  "brookwater": [
+    "augustine-heights",
+    "bellbird-park",
+    "springfield",
+    "springfield-central"
+  ],
+  "calvert": [
+    "grandchester",
+    "lanefield",
+    "lower-mount-walker",
+    "the-bluff",
+    "woolshed"
+  ],
+  "camira": [
+    "bellbird-park",
+    "carole-park",
+    "gailes",
+    "goodna",
+    "springfield"
+  ],
+  "carole-park": [
+    "camira",
+    "gailes"
+  ],
+  "churchill": [
+    "flinders-view",
+    "ipswich",
+    "leichhardt",
+    "one-mile",
+    "raceview",
+    "west-ipswich",
+    "yamanto"
+  ],
+  "collingwood-park": [
+    "new-chum",
+    "redbank",
+    "redbank-plains",
+    "riverview"
+  ],
+  "coalfalls": [
+    "brassall",
+    "sadliers-crossing",
+    "woodend",
+    "wulkuraka"
+  ],
+  "muirlea": [
+    "brassall",
+    "chuwar",
+    "north-ipswich",
+    "pine-mountain"
+  ],
+  "flinders-view": [
+    "churchill",
+    "raceview",
+    "ripley",
+    "swanbank",
+    "yamanto"
+  ],
+  "north-ipswich": [
+    "basin-pocket",
+    "brassall",
+    "chuwar",
+    "east-ipswich",
+    "ipswich",
+    "muirlea",
+    "tivoli",
+    "woodend"
+  ],
+  "new-chum": [
+    "blackstone",
+    "bundamba",
+    "collingwood-park",
+    "dinmore",
+    "ebbw-vale",
+    "redbank-plains",
+    "riverview",
+    "swanbank"
+  ],
+  "newtown": [
+    "booval",
+    "east-ipswich",
+    "eastern-heights",
+    "ipswich",
+    "silkstone"
+  ],
+  "mount-forbes": [
+    "ebenezer",
+    "lower-mount-walker",
+    "mutdapilly",
+    "willowbank"
+  ],
+  "north-booval": [
+    "booval",
+    "bundamba",
+    "east-ipswich",
+    "moores-pocket",
+    "north-tivoli",
+    "tivoli"
+  ],
+  "deebing-heights": [
+    "goolman",
+    "purga",
+    "ripley",
+    "south-ripley",
+    "yamanto"
+  ],
+  "mount-walker-west": [
+    "lower-mount-walker",
+    "mount-mort"
+  ],
+  "jeebropilly": [
+    "amberley",
+    "ebenezer",
+    "rosewood",
+    "thagoona",
+    "walloon",
+    "willowbank"
+  ],
+  "gailes": [
+    "camira",
+    "carole-park",
+    "goodna"
+  ],
+  "dinmore": [
+    "bundamba",
+    "ebbw-vale",
+    "new-chum",
+    "riverview"
+  ],
+  "haigslea": [
+    "ironbark",
+    "marburg",
+    "mount-marrow",
+    "walloon"
+  ],
+  "goolman": [
+    "deebing-heights",
+    "peak-crossing",
+    "purga",
+    "south-ripley"
+  ],
+  "eastern-heights": [
+    "ipswich",
+    "newtown",
+    "raceview",
+    "silkstone"
+  ],
+  "ebbw-vale": [
+    "bundamba",
+    "dinmore",
+    "new-chum"
+  ],
+  "ebenezer": [
+    "jeebropilly",
+    "lower-mount-walker",
+    "mount-forbes",
+    "rosewood",
+    "willowbank"
+  ],
+  "goodna": [
+    "bellbird-park",
+    "camira",
+    "gailes",
+    "redbank"
+  ],
+  "east-ipswich": [
+    "basin-pocket",
+    "booval",
+    "ipswich",
+    "moores-pocket",
+    "newtown",
+    "north-booval",
+    "north-ipswich"
+  ],
+  "ipswich": [
+    "churchill",
+    "east-ipswich",
+    "eastern-heights",
+    "newtown",
+    "north-ipswich",
+    "raceview",
+    "sadliers-crossing",
+    "west-ipswich",
+    "woodend"
+  ],
+  "ironbark": [
+    "blacksoil",
+    "haigslea",
+    "karrabin",
+    "pine-mountain",
+    "walloon"
+  ],
+  "grandchester": [
+    "calvert",
+    "lower-mount-walker",
+    "mount-mort",
+    "woolshed"
+  ],
+  "leichhardt": [
+    "amberley",
+    "churchill",
+    "one-mile",
+    "sadliers-crossing",
+    "west-ipswich",
+    "wulkuraka"
+  ],
+  "south-ripley": [
+    "deebing-heights",
+    "goolman",
+    "peak-crossing",
+    "ripley",
+    "spring-mountain",
+    "swanbank",
+    "white-rock"
+  ],
+  "tallegalla": [
+    "ashwell",
+    "marburg",
+    "mount-marrow",
+    "rosewood",
+    "the-bluff",
+    "woolshed"
+  ],
+  "swanbank": [
+    "blackstone",
+    "flinders-view",
+    "new-chum",
+    "raceview",
+    "ripley",
+    "south-ripley",
+    "white-rock"
+  ],
+  "lanefield": [
+    "ashwell",
+    "calvert",
+    "lower-mount-walker",
+    "rosewood",
+    "the-bluff"
+  ],
+  "karalee": [
+    "barellan-point",
+    "bundamba",
+    "chuwar",
+    "north-tivoli",
+    "riverview"
+  ],
+  "karrabin": [
+    "amberley",
+    "blacksoil",
+    "brassall",
+    "ironbark",
+    "walloon",
+    "wulkuraka"
+  ],
+  "marburg": [
+    "haigslea",
+    "mount-marrow",
+    "tallegalla"
+  ],
+  "lower-mount-walker": [
+    "calvert",
+    "ebenezer",
+    "grandchester",
+    "lanefield",
+    "mount-forbes",
+    "mount-mort",
+    "mount-walker-west",
+    "rosewood"
+  ],
+  "moores-pocket": [
+    "basin-pocket",
+    "east-ipswich",
+    "north-booval",
+    "tivoli"
+  ],
+  "mount-mort": [
+    "grandchester",
+    "lower-mount-walker",
+    "mount-walker-west"
+  ],
+  "mutdapilly": [
+    "mount-forbes",
+    "peak-crossing",
+    "purga",
+    "willowbank"
+  ],
+  "mount-marrow": [
+    "haigslea",
+    "marburg",
+    "rosewood",
+    "tallegalla",
+    "thagoona",
+    "walloon"
+  ],
+  "north-tivoli": [
+    "bundamba",
+    "chuwar",
+    "karalee",
+    "north-booval",
+    "tivoli"
+  ],
+  "rosewood": [
+    "ashwell",
+    "ebenezer",
+    "jeebropilly",
+    "lanefield",
+    "lower-mount-walker",
+    "mount-marrow",
+    "tallegalla",
+    "thagoona"
+  ],
+  "redbank-plains": [
+    "augustine-heights",
+    "bellbird-park",
+    "collingwood-park",
+    "new-chum",
+    "redbank",
+    "spring-mountain",
+    "white-rock"
+  ],
+  "redbank": [
+    "bellbird-park",
+    "collingwood-park",
+    "goodna",
+    "redbank-plains",
+    "riverview"
+  ],
+  "woodend": [
+    "brassall",
+    "coalfalls",
+    "ipswich",
+    "north-ipswich",
+    "sadliers-crossing"
+  ],
+  "white-rock": [
+    "redbank-plains",
+    "south-ripley",
+    "spring-mountain",
+    "swanbank"
+  ],
+  "woolshed": [
+    "calvert",
+    "grandchester",
+    "tallegalla",
+    "the-bluff"
+  ],
+  "one-mile": [
+    "amberley",
+    "churchill",
+    "leichhardt",
+    "yamanto"
+  ],
+  "yamanto": [
+    "amberley",
+    "churchill",
+    "deebing-heights",
+    "flinders-view",
+    "one-mile",
+    "purga"
+  ],
+  "walloon": [
+    "amberley",
+    "haigslea",
+    "ironbark",
+    "jeebropilly",
+    "karrabin",
+    "mount-marrow",
+    "thagoona"
+  ],
+  "willowbank": [
+    "amberley",
+    "ebenezer",
+    "jeebropilly",
+    "mount-forbes",
+    "mutdapilly",
+    "purga"
+  ],
+  "pine-mountain": [
+    "blacksoil",
+    "brassall",
+    "ironbark",
+    "muirlea"
+  ],
+  "purga": [
+    "amberley",
+    "deebing-heights",
+    "goolman",
+    "mutdapilly",
+    "peak-crossing",
+    "willowbank",
+    "yamanto"
+  ],
+  "raceview": [
+    "blackstone",
+    "churchill",
+    "eastern-heights",
+    "flinders-view",
+    "ipswich",
+    "silkstone",
+    "swanbank"
+  ],
+  "ripley": [
+    "deebing-heights",
+    "flinders-view",
+    "south-ripley",
+    "swanbank"
+  ],
+  "riverview": [
+    "barellan-point",
+    "bundamba",
+    "collingwood-park",
+    "dinmore",
+    "karalee",
+    "new-chum",
+    "redbank"
+  ],
+  "sadliers-crossing": [
+    "coalfalls",
+    "ipswich",
+    "leichhardt",
+    "west-ipswich",
+    "woodend",
+    "wulkuraka"
+  ],
+  "tivoli": [
+    "basin-pocket",
+    "chuwar",
+    "moores-pocket",
+    "north-booval",
+    "north-ipswich",
+    "north-tivoli"
+  ],
+  "peak-crossing": [
+    "goolman",
+    "mutdapilly",
+    "purga",
+    "south-ripley"
+  ],
+  "spring-mountain": [
+    "augustine-heights",
+    "redbank-plains",
+    "south-ripley",
+    "springfield-central",
+    "springfield-lakes",
+    "white-rock"
+  ],
+  "springfield-central": [
+    "augustine-heights",
+    "brookwater",
+    "spring-mountain",
+    "springfield",
+    "springfield-lakes"
+  ],
+  "springfield-lakes": [
+    "spring-mountain",
+    "springfield",
+    "springfield-central"
+  ],
+  "springfield": [
+    "bellbird-park",
+    "brookwater",
+    "camira",
+    "springfield-central",
+    "springfield-lakes"
+  ],
+  "silkstone": [
+    "blackstone",
+    "booval",
+    "bundamba",
+    "eastern-heights",
+    "newtown",
+    "raceview"
+  ],
+  "thagoona": [
+    "jeebropilly",
+    "mount-marrow",
+    "rosewood",
+    "walloon"
+  ],
+  "the-bluff": [
+    "ashwell",
+    "calvert",
+    "lanefield",
+    "tallegalla",
+    "woolshed"
+  ],
+  "west-ipswich": [
+    "churchill",
+    "ipswich",
+    "leichhardt",
+    "sadliers-crossing"
+  ],
+  "wulkuraka": [
+    "amberley",
+    "brassall",
+    "coalfalls",
+    "karrabin",
+    "leichhardt",
+    "sadliers-crossing"
+  ],
+  "bahrs-scrub": [
+    "beenleigh",
+    "belivah",
+    "buccan",
+    "holmview",
+    "mount-warren-park",
+    "waterford",
+    "windaroo"
+  ],
+  "bannockburn": [
+    "belivah",
+    "windaroo",
+    "wolffdene"
+  ],
+  "belivah": [
+    "bahrs-scrub",
+    "bannockburn",
+    "buccan",
+    "wolffdene"
+  ],
+  "beenleigh": [
+    "bahrs-scrub",
+    "eagleby",
+    "holmview",
+    "loganholme",
+    "mount-warren-park"
+  ],
+  "berrinba": [
+    "browns-plains",
+    "crestmead",
+    "heritage-park",
+    "kingston",
+    "logan-central",
+    "marsden"
+  ],
+  "bethania": [
+    "edens-landing",
+    "loganholme",
+    "loganlea",
+    "meadowbrook",
+    "tanah-merah",
+    "waterford"
+  ],
+  "boronia-heights": [
+    "greenbank",
+    "hillcrest",
+    "park-ridge",
+    "regents-park"
+  ],
+  "buccan": [
+    "bahrs-scrub",
+    "belivah",
+    "chambers-flat",
+    "logan-reserve",
+    "logan-village",
+    "waterford",
+    "wolffdene"
+  ],
+  "browns-plains": [
+    "berrinba",
+    "heritage-park",
+    "hillcrest",
+    "regents-park"
+  ],
+  "carbrook": [
+    "cornubia",
+    "eagleby"
+  ],
+  "cedar-creek": [
+    "logan-village",
+    "tamborine",
+    "wolffdene",
+    "yarrabilba"
+  ],
+  "cedar-grove": [
+    "cedar-vale",
+    "glenlogan",
+    "jimboomba",
+    "riverbend",
+    "woodhill"
+  ],
+  "cedar-vale": [
+    "cedar-grove",
+    "jimboomba",
+    "mundoolun",
+    "veresdale-scrub",
+    "woodhill"
+  ],
+  "chambers-flat": [
+    "buccan",
+    "logan-reserve",
+    "logan-village",
+    "munruben",
+    "park-ridge",
+    "park-ridge-south",
+    "stockleigh"
+  ],
+  "flinders-lakes": [
+    "kagaru",
+    "monarch-glen",
+    "undullah"
+  ],
+  "mount-warren-park": [
+    "bahrs-scrub",
+    "beenleigh",
+    "windaroo"
+  ],
+  "north-maclean": [
+    "greenbank",
+    "munruben",
+    "new-beith",
+    "south-maclean",
+    "stockleigh"
+  ],
+  "new-beith": [
+    "flagstone",
+    "greenbank",
+    "lyons",
+    "north-maclean",
+    "silverbark-ridge",
+    "south-maclean"
+  ],
+  "cornubia": [
+    "carbrook",
+    "eagleby",
+    "loganholme",
+    "shailer-park"
+  ],
+  "monarch-glen": [
+    "flagstone",
+    "flinders-lakes",
+    "kagaru",
+    "lyons",
+    "silverbark-ridge",
+    "undullah"
+  ],
+  "eagleby": [
+    "beenleigh",
+    "carbrook",
+    "cornubia",
+    "loganholme"
+  ],
+  "edens-landing": [
+    "bethania",
+    "holmview",
+    "loganholme",
+    "waterford"
+  ],
+  "flagstone": [
+    "monarch-glen",
+    "new-beith",
+    "riverbend",
+    "silverbark-ridge",
+    "south-maclean"
+  ],
+  "daisy-hill": [
+    "priestdale",
+    "shailer-park",
+    "slacks-creek",
+    "springwood"
+  ],
+  "greenbank": [
+    "boronia-heights",
+    "forestdale",
+    "lyons",
+    "munruben",
+    "new-beith",
+    "north-maclean",
+    "park-ridge",
+    "park-ridge-south"
+  ],
+  "holmview": [
+    "bahrs-scrub",
+    "beenleigh",
+    "edens-landing",
+    "loganholme",
+    "waterford"
+  ],
+  "jimboomba": [
+    "cedar-grove",
+    "cedar-vale",
+    "logan-village",
+    "mundoolun",
+    "riverbend",
+    "south-maclean",
+    "stockleigh",
+    "tamborine"
+  ],
+  "crestmead": [
+    "berrinba",
+    "heritage-park",
+    "logan-reserve",
+    "marsden",
+    "waterford-west"
+  ],
+  "forestdale": [
+    "greenbank",
+    "hillcrest"
+  ],
+  "glenlogan": [
+    "cedar-grove",
+    "riverbend"
+  ],
+  "heritage-park": [
+    "berrinba",
+    "browns-plains",
+    "crestmead",
+    "park-ridge",
+    "regents-park"
+  ],
+  "hillcrest": [
+    "boronia-heights",
+    "browns-plains",
+    "forestdale",
+    "regents-park"
+  ],
+  "kingston": [
+    "berrinba",
+    "logan-central",
+    "loganlea",
+    "marsden",
+    "meadowbrook",
+    "slacks-creek",
+    "waterford-west"
+  ],
+  "south-maclean": [
+    "flagstone",
+    "jimboomba",
+    "new-beith",
+    "north-maclean",
+    "riverbend",
+    "stockleigh"
+  ],
+  "tamborine": [
+    "cedar-creek",
+    "jimboomba",
+    "logan-village",
+    "mundoolun",
+    "yarrabilba"
+  ],
+  "underwood": [
+    "rochedale-south",
+    "slacks-creek",
+    "springwood",
+    "woodridge"
+  ],
+  "undullah": [
+    "flinders-lakes",
+    "lyons",
+    "monarch-glen"
+  ],
+  "kagaru": [
+    "flinders-lakes",
+    "monarch-glen",
+    "riverbend"
+  ],
+  "logan-central": [
+    "berrinba",
+    "kingston",
+    "slacks-creek",
+    "woodridge"
+  ],
+  "logan-reserve": [
+    "buccan",
+    "chambers-flat",
+    "crestmead",
+    "park-ridge",
+    "waterford",
+    "waterford-west"
+  ],
+  "logan-village": [
+    "buccan",
+    "cedar-creek",
+    "chambers-flat",
+    "jimboomba",
+    "stockleigh",
+    "tamborine",
+    "wolffdene",
+    "yarrabilba"
+  ],
+  "loganholme": [
+    "beenleigh",
+    "bethania",
+    "cornubia",
+    "eagleby",
+    "edens-landing",
+    "holmview",
+    "shailer-park",
+    "tanah-merah"
+  ],
+  "loganlea": [
+    "bethania",
+    "kingston",
+    "meadowbrook",
+    "waterford",
+    "waterford-west"
+  ],
+  "lyons": [
+    "greenbank",
+    "monarch-glen",
+    "new-beith",
+    "silverbark-ridge",
+    "undullah"
+  ],
+  "marsden": [
+    "berrinba",
+    "crestmead",
+    "kingston",
+    "waterford-west"
+  ],
+  "munruben": [
+    "chambers-flat",
+    "greenbank",
+    "north-maclean",
+    "park-ridge-south",
+    "stockleigh"
+  ],
+  "meadowbrook": [
+    "bethania",
+    "kingston",
+    "loganlea",
+    "slacks-creek",
+    "tanah-merah"
+  ],
+  "mundoolun": [
+    "cedar-vale",
+    "jimboomba",
+    "tamborine"
+  ],
+  "veresdale-scrub": [
+    "cedar-vale",
+    "veresdale",
+    "woodhill"
+  ],
+  "woodhill": [
+    "cedar-grove",
+    "cedar-vale",
+    "veresdale",
+    "veresdale-scrub"
+  ],
+  "woodridge": [
+    "logan-central",
+    "slacks-creek",
+    "underwood"
+  ],
+  "regents-park": [
+    "boronia-heights",
+    "browns-plains",
+    "heritage-park",
+    "hillcrest",
+    "park-ridge"
+  ],
+  "wolffdene": [
+    "bannockburn",
+    "belivah",
+    "buccan",
+    "cedar-creek",
+    "logan-village"
+  ],
+  "waterford-west": [
+    "crestmead",
+    "kingston",
+    "logan-reserve",
+    "loganlea",
+    "marsden",
+    "waterford"
+  ],
+  "waterford": [
+    "bahrs-scrub",
+    "bethania",
+    "buccan",
+    "edens-landing",
+    "holmview",
+    "logan-reserve",
+    "loganlea",
+    "waterford-west"
+  ],
+  "veresdale": [
+    "veresdale-scrub",
+    "woodhill"
+  ],
+  "yarrabilba": [
+    "cedar-creek",
+    "logan-village",
+    "tamborine"
+  ],
+  "windaroo": [
+    "bahrs-scrub",
+    "bannockburn",
+    "mount-warren-park"
+  ],
+  "silverbark-ridge": [
+    "flagstone",
+    "lyons",
+    "monarch-glen",
+    "new-beith"
+  ],
+  "slacks-creek": [
+    "daisy-hill",
+    "kingston",
+    "logan-central",
+    "meadowbrook",
+    "shailer-park",
+    "springwood",
+    "tanah-merah",
+    "underwood",
+    "woodridge"
+  ],
+  "riverbend": [
+    "cedar-grove",
+    "flagstone",
+    "glenlogan",
+    "jimboomba",
+    "kagaru",
+    "south-maclean"
+  ],
+  "priestdale": [
+    "daisy-hill",
+    "rochedale-south",
+    "springwood"
+  ],
+  "park-ridge-south": [
+    "chambers-flat",
+    "greenbank",
+    "munruben",
+    "park-ridge"
+  ],
+  "park-ridge": [
+    "boronia-heights",
+    "chambers-flat",
+    "greenbank",
+    "heritage-park",
+    "logan-reserve",
+    "park-ridge-south",
+    "regents-park"
+  ],
+  "shailer-park": [
+    "cornubia",
+    "daisy-hill",
+    "loganholme",
+    "slacks-creek",
+    "tanah-merah"
+  ],
+  "rochedale-south": [
+    "priestdale",
+    "springwood",
+    "underwood"
+  ],
+  "stockleigh": [
+    "chambers-flat",
+    "jimboomba",
+    "logan-village",
+    "munruben",
+    "north-maclean",
+    "south-maclean"
+  ],
+  "tanah-merah": [
+    "bethania",
+    "loganholme",
+    "meadowbrook",
+    "shailer-park",
+    "slacks-creek"
+  ],
+  "springwood": [
+    "daisy-hill",
+    "priestdale",
+    "rochedale-south",
+    "slacks-creek",
+    "underwood"
+  ]
+}
