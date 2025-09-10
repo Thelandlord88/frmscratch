@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+const posts = await getCollection("blog");
+---
+<BaseLayout title="Blog">
+  <h1 class="text-3xl font-bold pt-8">Latest articles</h1>
+  <ul class="mt-6 grid md:grid-cols-2 gap-6">
+    {posts.slice(0,12).map(p => (
+      <li class="rounded border p-4">
+        <a href={`/blog/${p.slug}/`} class="text-lg font-semibold">{p.data.title}</a>
+        <p class="text-sm text-slate-700 mt-1">{p.data.description}</p>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

@@ -1,0 +1,27 @@
+{
+  "name": "onendone-unified",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20.3.0 <21 || >=22" },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "SITE_URL=${SITE_URL} astro build",
+    "preview": "astro preview",
+    "geo:doctor:strict": "node scripts/geo/doctor.mjs",
+    "seo:report": "node scripts/seo/report.mjs",
+    "guard:all": "node scripts/guards/all.mjs",
+    "prebuild": "npm run geo:doctor:strict",
+    "postbuild": "npm run seo:report && npm run guard:all",
+    "test:smoke": "playwright test -c playwright.config.ts"
+  },
+  "dependencies": {
+    "astro": "^5.13.4",
+  "@tailwindcss/vite": "^4.1.0",
+  "@astrojs/rss": "^4.0.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "jsdom": "^24.1.0",
+    "typescript": "^5.6.2"
+  }
+}

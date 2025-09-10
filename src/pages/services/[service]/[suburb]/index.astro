@@ -1,0 +1,58 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { findSuburbBySlug, findService, serviceUrl } from "../../../../lib/geo/helpers";
+import NearbySuburbs from "../../../../components/NearbySuburbs.astro";
+import TrustChips from "../../../../components/TrustChips.astro";
+
+export async function getStaticPaths() {
+  const [suburbs, services] = await Promise.all([
+    import("../../../../data/suburbs.json"),
+    import("../../../../data/services.json"),
+  ]);
+  return services.default.flatMap((svc: any) =>
+    suburbs.default.map((s: any) => ({ params: { service: svc.slug, suburb: s.slug } }))
+  );
+}
+
+const { suburb, service } = Astro.params;
+const s = findSuburbBySlug(suburb!);
+const sv = findService(service!);
+if (!s || !sv) return Astro.redirect("/404");
+
+const title = `${sv.name} in ${s.name}`;
+const jsonld = [{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": sv.name,
+  "areaServed": s.name,
+  "provider": { "@type": "LocalBusiness", "name": "One N Done Bond Clean" },
+  "url": Astro.url.href
+}];
+---
+
+<BaseLayout {title} description={sv.short} {jsonld}>
+  <section class="pt-8">
+    <h1 class="text-3xl font-bold">{title}</h1>
+    <p class="mt-2 text-slate-700">{sv.short}</p>
+    <a href="/#quote" class="mt-4 inline-block rounded-xl bg-slate-900 px-4 py-2 text-white">Get a fast quote</a>
+    <TrustChips />
+    <section class="mt-6">
+      <h2 class="text-lg font-semibold mb-2">What’s included</h2>
+      <ul class="list-disc pl-6 space-y-[var(--gap-list)]">
+        <li>Detailed surface clean with attention to edges and corners</li>
+        <li>Agent-friendly finishing for bathrooms and kitchens</li>
+        <li>Final inspection pass with touch-up if needed</li>
+      </ul>
+    </section>
+    <section class="mt-8">
+      <h2 class="text-lg font-semibold mb-2">More in {s.name}</h2>
+      <div class="flex flex-wrap gap-2">
+        {["bond-cleaning","bathroom-deep-clean"].filter(sl => sl !== sv.slug).map(sl => (
+          <a class="rounded border px-3 py-2"
+             href={serviceUrl(sl, s.slug)}>{sl.replace(/-/g, " ")}</a>
+        ))}
+      </div>
+    </section>
+    <NearbySuburbs suburbSlug={s.slug} />
+  </section>
+</BaseLayout>

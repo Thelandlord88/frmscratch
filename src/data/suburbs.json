@@ -1,0 +1,4 @@
+[
+  { "slug": "ipswich", "name": "Ipswich", "region": "Brisbane West", "neighbors": ["booval","east-ipswich","brassall"] },
+  { "slug": "kenmore", "name": "Kenmore", "region": "Brisbane West", "neighbors": ["brookfield","fig-tree-pocket","chapel-hill"] }
+]

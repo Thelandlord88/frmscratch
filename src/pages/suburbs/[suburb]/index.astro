@@ -1,0 +1,34 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { findSuburbBySlug } from "../../../lib/geo/helpers";
+import NearbySuburbs from "../../../components/NearbySuburbs.astro";
+import TrustChips from "../../../components/TrustChips.astro";
+
+export async function getStaticPaths() {
+  const suburbs = (await import("../../../data/suburbs.json")).default as Array<{slug:string}>;
+  return suburbs.map(s => ({ params: { suburb: s.slug } }));
+}
+
+const { suburb } = Astro.params;
+const s = findSuburbBySlug(suburb!);
+if (!s) return Astro.redirect("/404");
+const title = `Bond Cleaning in ${s.name}`;
+const jsonld = [{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": title,
+  "areaServed": s.name,
+  "provider": { "@type": "LocalBusiness", "name": "One N Done Bond Clean" },
+  "url": Astro.url.href
+}];
+---
+
+<BaseLayout {title} description="Agent-friendly, guaranteed, fully insured." {jsonld}>
+  <section class="pt-8">
+    <h1 class="text-3xl font-bold">{title}</h1>
+    <p class="mt-2 text-slate-700">We service {s.name} and surrounds.</p>
+    <a href="/#quote" class="mt-4 inline-block rounded-xl bg-slate-900 px-4 py-2 text-white">Get a fast quote</a>
+    <TrustChips />
+    <NearbySuburbs suburbSlug={s.slug} />
+  </section>
+</BaseLayout>

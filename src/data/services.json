@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "bond-cleaning",
+    "name": "Bond Cleaning",
+    "short": "End-of-lease clean that satisfies agent checklists.",
+    "guarantee": "Bond-back friendly. If flagged, we re-clean the listed items."
+  },
+  {
+    "slug": "bathroom-deep-clean",
+    "name": "Bathroom Deep Clean",
+    "short": "Tiles, grout, glass, and fixtures restored to a hygienic shine.",
+    "guarantee": "We target grime, scale, and soap build-up thoroughly."
+  }
+]

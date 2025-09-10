@@ -1,0 +1,26 @@
+---
+import { sanitizeJsonLd } from "../lib/seo/jsonld";
+const { title = "One N Done", description = "Bond cleaning you can trust", jsonld = [], class: klass = "" } = Astro.props;
+const site = Astro.site?.toString() || "https://example.com";
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <link rel="canonical" href={Astro.url.href} />
+    <meta name="description" content={description} />
+    <style is:global>
+      :root { --gap-outer: 24px; --gap-card: 16px; --gap-list: 12px; }
+    </style>
+    {jsonld.map((entry) => (
+      <script type="application/ld+json" set:html={sanitizeJsonLd(entry)} />
+    ))}
+  </head>
+  <body class={`min-h-screen antialiased bg-white text-slate-900 ${klass}`}>
+    <main class="mx-auto max-w-6xl px-[var(--gap-outer)]">
+      <slot />
+    </main>
+  </body>
+</html>

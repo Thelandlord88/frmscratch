@@ -1,0 +1,14 @@
+---
+import { listNearby } from "../lib/geo/helpers";
+const { suburbSlug } = Astro.props;
+const nearby = listNearby(suburbSlug);
+---
+<section class="mt-8">
+  <h2 class="text-lg font-semibold mb-3">Nearby suburbs</h2>
+  <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2">
+    {nearby.map(n => (
+      <li><a class="block rounded border px-3 py-2 hover:shadow-sm"
+             href={`/suburbs/${n.slug}/`}>{n.name}</a></li>
+    ))}
+  </ul>
+</section>
